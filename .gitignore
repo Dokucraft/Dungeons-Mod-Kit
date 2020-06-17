@@ -1,0 +1,10 @@
+UE4Project/Build/*
+UE4Project/Intermediate/*
+UE4Project/Saved/*
+UE4Project/Content/Collections
+UE4Project/Content/Developers
+
+Dungeons/**/*.uasset
+Dungeons/**/*.ubulk
+Dungeons/**/*.uexp
+Dungeons/Content/data/resourcepacks/*/images/blocks/*.png
