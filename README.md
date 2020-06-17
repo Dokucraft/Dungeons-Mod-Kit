@@ -34,6 +34,8 @@ The game uses different resource packs depending on the level you're playing. Fo
 
 To make it easier to manage, these tools use just a single folder for all block textures in all of the packs, called `Block Textures`. The textures will be automatically copied to the right place(s) when you run the `build_resource_packs.bat` tool. The file names in the `Block Textures` folder are slightly different because the game might use 3 or 4 different textures for the same block in different packs. You can find all of the files names in `Tools/block_textures.json` and what files in the resource packs they represent. You can also edit this file to change the file names, or to add more textures. Running the `Tools/print_missing_blocks.bat` tool will show you a list of block textures that *aren't* in the `Block Textures` folder, as well as the number of missing files.
 
+The default `Tools/block_textures.json` file uses one texture for textures that are very similar. For example, the game uses the same texture for dirt in several of the packs, but it's very slightly changed to be a different hue or brightness. If the textures are similar enough, the default configuration will use one texture for all of them. If you want to use different textures for each, you'll have to edit the `Tools/block_textures.json` file.
+
 ### Unreal Assets
 
 Any 3D model, sound file, texture that isn't a block texture, and a bunch of other things are *Unreal assets*.
