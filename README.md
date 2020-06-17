@@ -48,7 +48,7 @@ Once the files are in the right place, you need to import them. For textures and
 
 For things that *aren't* textures or static models, you have to import them using the Unreal Editor. You can open the project in the editor by double clicking the `Dungeons.uproject` file in the `UE4Project` folder. If you're not familiar with the editor, don't worry, most of the time the editor will automatically notice the files you add to the folder and ask if you want to import them.
 
-If you import textures using the editor instead of the `import_assets.bat` tool, you'll also have to double click the texture in the file brower in the editor and then change the compression setting to BC7 and the texture group to 2D Pixel. Not doing this will make pixel art textures look blurry in-game.
+If you import textures using the editor instead of the `import_assets.bat` tool, you'll also have to double click the texture in the file brower in the editor and then change the compression setting to BC7 and the texture group to `2D Pixels (Unfiltered)`. Not doing this will make pixel art textures look blurry in-game.
 
 #### Cooking
 
