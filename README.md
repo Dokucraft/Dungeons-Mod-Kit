@@ -15,10 +15,11 @@ You can download Unreal Engine for free through the Epic Games Store app, just m
 
 Edit the text files in the `Tools/settings` folder to configure the tools:
 
-| File                 | Description   |
-| -------------------- | ------------- |
-| editor_directory.txt | This contains the path to the folder where the Unreal Editor executables are. |
-| package_output.txt   | This contains the path to the .pak file that the package.bat tool creates. |
+| File                    | Description   |
+| ----------------------- | ------------- |
+| editor_directory.txt    | This contains the path to the folder where the Unreal Editor executables are. |
+| package_output.txt      | This contains the path to the .pak file that the package.bat tool creates. |
+| quickbms_export_dir.txt | This contains the path to the folder where you have exported the game files using QuickBMS. This is only needed for the `Tools/copy_missing_blocks.bat` tool. |
 
 Setting the package_output path to a file in your `~mods` folder is recommended to make testing the mod easy.
 
@@ -32,7 +33,7 @@ This guide assumes you're already familiar with the game files and how to [extra
 
 The game uses different resource packs depending on the level you're playing. For example, the tutorial mission and the camp uses a pack called `squidcoast`, while the Redstone Mines level uses the `mooncorecaverns` pack. Since the game's resource packs share a lot of textures, you would normally have to copy a few hundred textures and paste them into each pack folder, but this is something these tools tries to fix.
 
-To make it easier to manage, these tools use just a single folder for all block textures in all of the packs, called `Block Textures`. The textures will be automatically copied to the right place(s) when you run the `build_resource_packs.bat` tool. The file names in the `Block Textures` folder are slightly different because the game might use 3 or 4 different textures for the same block in different packs. You can find all of the files names in `Tools/block_textures.json` and what files in the resource packs they represent. You can also edit this file to change the file names, or to add more textures. Running the `Tools/print_missing_blocks.bat` tool will show you a list of block textures that *aren't* in the `Block Textures` folder, as well as the number of missing files.
+To make it easier to manage, these tools use just a single folder for all block textures in all of the packs, called `Block Textures`. The textures will be automatically copied to the right place(s) when you run the `build_resource_packs.bat` tool. The file names in the `Block Textures` folder are slightly different because the game might use 3 or 4 different textures for the same block in different packs. You can find all of the files names in `Tools/block_textures.json` and what files in the resource packs they represent. You can also edit this file to change the file names, or to add more textures. Running the `Tools/print_missing_blocks.bat` tool will show you a list of block textures that *aren't* in the `Block Textures` folder, as well as the number of missing files. If you want to see all of the block textures that you are missing in a folder instead, use `Tools/copy_missing_blocks.bat`, which will create a `Missing Textures` folder in the root folder of the mod kit with all of the vanilla block textures that aren't replaced by your textures in `Block Textures` yet.
 
 The default `Tools/block_textures.json` file uses one texture for textures that are very similar. For example, the game uses the same texture for dirt in several of the packs, but it's very slightly changed to be a different hue or brightness. If the textures are similar enough, the default configuration will use one texture for all of them. If you want to use different textures for each, you'll have to edit the `Tools/block_textures.json` file.
 
