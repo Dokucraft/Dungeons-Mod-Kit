@@ -5,6 +5,8 @@ import shutil
 texturesPath = '../Block Textures/'
 outputDir = '../Dungeons/Content/data/resourcepacks/'
 
+os.makedirs(outputDir, exist_ok=True)
+
 for packDir in [f.path for f in os.scandir(outputDir) if f.is_dir()]:
   os.makedirs(packDir + '/images/blocks', exist_ok=True)
   for filePath in [f.path for f in os.scandir(packDir + '/images/blocks') if f.is_file() and f.name.endswith('.png')]:
