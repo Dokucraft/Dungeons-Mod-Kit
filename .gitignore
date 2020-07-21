@@ -7,4 +7,6 @@ UE4Project/Content/Developers
 Dungeons/**/*.uasset
 Dungeons/**/*.ubulk
 Dungeons/**/*.uexp
+Dungeons/**/*.umap
+Dungeons/**/*.ufont
 Dungeons/Content/data/resourcepacks/*/images/blocks/*.png
