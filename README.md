@@ -91,3 +91,4 @@ To package your mod for release, use the `Tools/pack_compressed.bat` tool instea
 
 - The `Tools/completion_stats.bat` tool will show the statistics that the `print_missing_*` tools do, but will also show combined stats.
 - The `Tools/clean_up_mod_kit.bat` tool will delete all mod files from the mod kit folder. This can useful if you are making a lot of smaller mods. Be careful with it, though. It does ask you to confirm before it starts deleting things, but it doesn't make any backups once it starts deleting.
+- The `Tools/delete_redundant_block_textures.bat` tool will delete all redundant textures in the `Block Textures` folder. Redundant textures are files that are not in the `Tools/configs/block_textures.json` config, meaning they are not actually being used at all.
