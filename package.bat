@@ -1,3 +1,3 @@
-SET /p packageOutput= < Tools\settings\package_output.txt
+SET /p packageOutput= < Tools\user_settings\package_output.txt
 
-python Tools\u4pak.py pack "%packageOutput%" Dungeons -p
+python Tools\py\u4pak.py pack "%packageOutput%" Dungeons -p

@@ -13,7 +13,7 @@ You can download Unreal Engine for free through the Epic Games Store app, just m
 
 ## Setup
 
-Edit the text files in the `Tools/settings` folder to configure the tools:
+Edit the text files in the `Tools/user_settings` folder to configure the tools:
 
 | File                    | Description   |
 | ----------------------- | ------------- |
@@ -23,7 +23,18 @@ Edit the text files in the `Tools/settings` folder to configure the tools:
 
 Setting the package_output path to a file in your `~mods` folder is recommended to make testing the mod easy.
 
-By default, materials are configured to not be packaged. If you want to change that, or if you want to exclude other Unreal assets from being packaged, you can edit `Tools/copy_cooked_assets.rcj`. To include materials, just remove `M_*.u*` and `MI_*.u*`. To exclude certain files, just add the file names at the bottom, each on their own line. If you remove all of the filters, you probably need to remove `/XF` as well.
+By default, materials are configured to not be packaged. If you want to change that, or if you want to exclude other Unreal assets from being packaged, you can edit `Tools/configs/copy_cooked_assets.rcj`. To include materials, just remove `M_*.u*` and `MI_*.u*`. To exclude certain files, just add the file names at the bottom, each on their own line. If you remove all of the filters, you probably need to remove `/XF` as well.
+
+## Example Files
+
+There are a few example files included with these tools that you may want to remove if you're making your own mod:
+
+- Block Textures/grass_side.png
+- Dungeons/Content/data/resourcepacks/squidcoast/blocks.json
+- UE4Project/Content/Decor/Prefabs/Lever/T_Lever.png
+- UE4Project/Content/Decor/Prefabs/Lever/T_Lever.uasset
+
+You can automatically remove these using the `Tools/clean_up_mod_kit.bat` tool.
 
 ## How to use the tools
 
@@ -33,15 +44,17 @@ This guide assumes you're already familiar with the game files and how to [extra
 
 The game uses different resource packs depending on the level you're playing. For example, the tutorial mission and the camp uses a pack called `squidcoast`, while the Redstone Mines level uses the `mooncorecaverns` pack. Since the game's resource packs share a lot of textures, you would normally have to copy a few hundred textures and paste them into each pack folder, but this is something these tools tries to fix.
 
-To make it easier to manage, these tools use just a single folder for all block textures in all of the packs, called `Block Textures`. The textures will be automatically copied to the right place(s) when you run the `build_resource_packs.bat` tool. The file names in the `Block Textures` folder are slightly different because the game might use 3 or 4 different textures for the same block in different packs. You can find all of the files names in `Tools/block_textures.json` and what files in the resource packs they represent. You can also edit this file to change the file names, or to add more textures. Running the `Tools/print_missing_blocks.bat` tool will show you a list of block textures that *aren't* in the `Block Textures` folder, as well as the number of missing files. If you want to see all of the block textures that you are missing in a folder instead, use `Tools/copy_missing_blocks.bat`, which will create a `Missing Textures` folder in the root folder of the mod kit with all of the vanilla block textures that aren't replaced by your textures in `Block Textures` yet.
+To make it easier to manage, these tools use just a single folder for all block textures in all of the packs, called `Block Textures`. The textures will be automatically copied to the right place(s) when you run the `build_resource_packs.bat` tool. The file names in the `Block Textures` folder are slightly different because the game might use 3 or 4 different textures for the same block in different packs. You can find all of the files names in `Tools/configs/block_textures.json` and what files in the resource packs they represent. You can also edit this file to change the file names, or to add more textures. Running the `Tools/print_missing_blocks.bat` tool will show you a list of block textures that *aren't* in the `Block Textures` folder, as well as the number of missing files. If you want to see all of the block textures that you are missing in a folder instead, use `Tools/copy_missing_blocks.bat`, which will create a `Missing Textures` folder in the root folder of the mod kit with all of the vanilla block textures that aren't replaced by your textures in `Block Textures` yet.
 
-The default `Tools/block_textures.json` file uses one texture for textures that are very similar. For example, the game uses the same texture for dirt in several of the packs, but it's very slightly changed to be a different hue or brightness. If the textures are similar enough, the default configuration will use one texture for all of them. If you want to use different textures for each, you'll have to edit the `Tools/block_textures.json` file.
+The default `Tools/config/block_textures.json` file uses one texture for textures that are very similar. For example, the game uses the same texture for dirt in several of the packs, but it's very slightly changed to be a different hue or brightness. If the textures are similar enough, the default configuration will use one texture for all of them. If you want to use different textures for each, you'll have to edit the `Tools/configs/block_textures.json` file.
 
 ### Unreal Assets
 
 Any 3D model, sound file, texture that isn't a block texture, and a bunch of other things are *Unreal assets*.
 
 Unreal assets needs to be *imported* and *cooked* by the Unreal editor before being packaged. To do this, they need to be put in the `UE4Project/Content` folder. The folder structure here should be the same as the Content folder from the extracted game files.
+
+Like the block textures, there is a tool for showing a list of missing Unreal textures: `Tools/print_missing_actors_prefabs.bat` However, like the name suggests, it only prints the missing textures in the `Actors` and `Decor/Prefabs` folders instead of all Unreal textures.
 
 #### Importing
 
@@ -55,7 +68,7 @@ If you import textures using the editor instead of the `import_assets.bat` tool,
 
 Once the assets have been imported, it's time to "cook" them. This is done by simply double clicking the `cook_assets.bat` tool. The tool will cook the assets and copy them to the `Dungeons` folder, ready to be packaged.
 
-You can exclude certain files by editing `Tools/copy_cooked_assets.rcj`, like mentioned in the **Setup** section above. By default, material files are excluded.
+You can exclude certain files by editing `Tools/configs/copy_cooked_assets.rcj`, like mentioned in the **Setup** section above. By default, material files are excluded.
 
 ### Other Files
 
@@ -74,11 +87,7 @@ To package your mod for release, use the `Tools/pack_compressed.bat` tool instea
 - Use the `cook_assets.bat` tool after importing new Unreal assets.
 - For testing, use `package.bat`. Use `Tools/pack_compressed.bat` instead when you want to package the mod for release.
 
-## Example Files
+### Other Useful Tools
 
-There are a few example files included with these tools that you may want to remove if you're making your own mod:
-
-- Block Textures/grass_side.png
-- Dungeons/Content/data/resourcepacks/squidcoast/blocks.json
-- UE4Project/Content/Decor/Prefabs/Lever/T_Lever.png
-- UE4Project/Content/Decor/Prefabs/Lever/T_Lever.uasset
+- The `Tools/completion_stats.bat` tool will show the statistics that the `print_missing_*` tools do, but will also show combined stats.
+- The `Tools/clean_up_mod_kit.bat` tool will delete all mod files from the mod kit folder. This can useful if you are making a lot of smaller mods. Be careful with it, though. It does ask you to confirm before it starts deleting things, but it doesn't make any backups once it starts deleting.

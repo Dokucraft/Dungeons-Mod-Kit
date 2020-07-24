@@ -6,7 +6,7 @@ import sys
 texturesPath = '../Block Textures/'
 outputDir = '../Missing Textures/'
 
-with open('block_textures.json') as json_file:
+with open('configs/block_textures.json') as json_file:
   textures = json.load(json_file)
   for filename,copies in textures.items():
     if os.path.isfile(texturesPath + filename):

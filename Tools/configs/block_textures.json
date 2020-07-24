@@ -87,16 +87,28 @@
   "bedrock.png": [
     "cacticanyon/images/blocks/bedrock.png",
     "creeperwoods/images/blocks/bedrock.png",
+    "creeperwoods/images/blocks/stone_granite_smooth.png",
+    "creeperwoods/images/blocks/stone_slab_top.png",
     "deserttemple/images/blocks/bedrock.png",
+    "deserttemple/images/blocks/stone_granite_smooth.png",
     "highblockhalls/images/blocks/bedrock.png",
     "jungle/images/blocks/bedrock.png",
+    "jungle/images/blocks/stone_granite_smooth.png",
+    "jungle/images/blocks/stone_slab_top.png",
     "mooncorecaverns/images/blocks/bedrock.png",
     "mycelia/images/blocks/bedrock.png",
+    "mycelia/images/blocks/stone_granite_smooth.png",
+    "mycelia/images/blocks/stone_slab_top.png",
     "obsidianpinnacle/images/blocks/bedrock.png",
     "pumpkinpastures/images/blocks/bedrock.png",
+    "pumpkinpastures/images/blocks/stone_granite_smooth.png",
+    "pumpkinpastures/images/blocks/stone_slab_top.png",
     "redstonemines/images/blocks/bedrock.png",
     "soggyswamp/images/blocks/bedrock.png",
-    "squidcoast/images/blocks/bedrock.png"
+    "soggyswamp/images/blocks/stone_granite_smooth.png",
+    "soggyswamp/images/blocks/stone_slab_top.png",
+    "squidcoast/images/blocks/bedrock.png",
+    "squidcoast/images/blocks/stone_slab_top.png"
   ],
   "bed_feet_end.png": [
     "bamboobluff/images/blocks/bed_feet_end.png",
@@ -359,6 +371,12 @@
     "squidcoast/images/blocks/beetroot_stage_3.png"
   ],
   "birch_log_top.png": [
+    "highblockhalls/images/blocks/log_birch_top.png",
+    "jungle/images/blocks/log_birch_top.png",
+    "mooncorecaverns/images/blocks/log_birch_top.png",
+    "mycelia/images/blocks/log_birch_top.png",
+    "pumpkinpastures/images/blocks/log_birch_top.png",
+    "redstonemines/images/blocks/log_birch_top.png",
     "squidcoast/images/blocks/birch_log_top.png"
   ],
   "bookshelf.png": [
@@ -401,40 +419,6 @@
   ],
   "brick.png": [
     "squidcoast/images/blocks/brick.png"
-  ],
-  "build_allow.png": [
-    "bamboobluff/images/blocks/build_allow.png",
-    "cacticanyon/images/blocks/build_allow.png",
-    "creeperwoods/images/blocks/build_allow.png",
-    "deserttemple/images/blocks/build_allow.png",
-    "dingyjungle/images/blocks/build_allow.png",
-    "highblockhalls/images/blocks/build_allow.png",
-    "jungle/images/blocks/build_allow.png",
-    "mooncorecaverns/images/blocks/build_allow.png",
-    "mycelia/images/blocks/build_allow.png",
-    "obsidianpinnacle/images/blocks/build_allow.png",
-    "overgrowntemple/images/blocks/build_allow.png",
-    "pumpkinpastures/images/blocks/build_allow.png",
-    "redstonemines/images/blocks/build_allow.png",
-    "soggyswamp/images/blocks/build_allow.png",
-    "squidcoast/images/blocks/build_allow.png"
-  ],
-  "build_deny.png": [
-    "bamboobluff/images/blocks/build_deny.png",
-    "cacticanyon/images/blocks/build_deny.png",
-    "creeperwoods/images/blocks/build_deny.png",
-    "deserttemple/images/blocks/build_deny.png",
-    "dingyjungle/images/blocks/build_deny.png",
-    "highblockhalls/images/blocks/build_deny.png",
-    "jungle/images/blocks/build_deny.png",
-    "mooncorecaverns/images/blocks/build_deny.png",
-    "mycelia/images/blocks/build_deny.png",
-    "obsidianpinnacle/images/blocks/build_deny.png",
-    "overgrowntemple/images/blocks/build_deny.png",
-    "pumpkinpastures/images/blocks/build_deny.png",
-    "redstonemines/images/blocks/build_deny.png",
-    "soggyswamp/images/blocks/build_deny.png",
-    "squidcoast/images/blocks/build_deny.png"
   ],
   "cactus_bottom.png": [
     "bamboobluff/images/blocks/cactus_bottom.png",
@@ -551,85 +535,6 @@
     "redstonemines/images/blocks/cake_top.png",
     "soggyswamp/images/blocks/cake_top.png",
     "squidcoast/images/blocks/cake_top.png"
-  ],
-  "camera_back.png": [
-    "bamboobluff/images/blocks/camera_back.png",
-    "cacticanyon/images/blocks/camera_back.png",
-    "creeperwoods/images/blocks/camera_back.png",
-    "deserttemple/images/blocks/camera_back.png",
-    "dingyjungle/images/blocks/camera_back.png",
-    "highblockhalls/images/blocks/camera_back.png",
-    "jungle/images/blocks/camera_back.png",
-    "mooncorecaverns/images/blocks/camera_back.png",
-    "mycelia/images/blocks/camera_back.png",
-    "obsidianpinnacle/images/blocks/camera_back.png",
-    "overgrowntemple/images/blocks/camera_back.png",
-    "pumpkinpastures/images/blocks/camera_back.png",
-    "redstonemines/images/blocks/camera_back.png",
-    "soggyswamp/images/blocks/camera_back.png",
-    "squidcoast/images/blocks/camera_back.png"
-  ],
-  "camera_front.png": [
-    "bamboobluff/images/blocks/camera_front.png",
-    "cacticanyon/images/blocks/camera_front.png",
-    "creeperwoods/images/blocks/camera_front.png",
-    "deserttemple/images/blocks/camera_front.png",
-    "dingyjungle/images/blocks/camera_front.png",
-    "highblockhalls/images/blocks/camera_front.png",
-    "jungle/images/blocks/camera_front.png",
-    "mooncorecaverns/images/blocks/camera_front.png",
-    "mycelia/images/blocks/camera_front.png",
-    "obsidianpinnacle/images/blocks/camera_front.png",
-    "overgrowntemple/images/blocks/camera_front.png",
-    "pumpkinpastures/images/blocks/camera_front.png",
-    "redstonemines/images/blocks/camera_front.png",
-    "soggyswamp/images/blocks/camera_front.png",
-    "squidcoast/images/blocks/camera_front.png"
-  ],
-  "camera_side.png": [
-    "bamboobluff/images/blocks/camera_side.png",
-    "cacticanyon/images/blocks/camera_side.png",
-    "creeperwoods/images/blocks/camera_side.png",
-    "deserttemple/images/blocks/camera_side.png",
-    "dingyjungle/images/blocks/camera_side.png",
-    "highblockhalls/images/blocks/camera_side.png",
-    "jungle/images/blocks/camera_side.png",
-    "mooncorecaverns/images/blocks/camera_side.png",
-    "mycelia/images/blocks/camera_side.png",
-    "obsidianpinnacle/images/blocks/camera_side.png",
-    "overgrowntemple/images/blocks/camera_side.png",
-    "pumpkinpastures/images/blocks/camera_side.png",
-    "redstonemines/images/blocks/camera_side.png",
-    "soggyswamp/images/blocks/camera_side.png",
-    "squidcoast/images/blocks/camera_side.png"
-  ],
-  "camera_top.png": [
-    "bamboobluff/images/blocks/camera_top.png",
-    "cacticanyon/images/blocks/camera_top.png",
-    "creeperwoods/images/blocks/camera_top.png",
-    "deserttemple/images/blocks/camera_top.png",
-    "dingyjungle/images/blocks/camera_top.png",
-    "highblockhalls/images/blocks/camera_top.png",
-    "jungle/images/blocks/camera_top.png",
-    "mooncorecaverns/images/blocks/camera_top.png",
-    "mycelia/images/blocks/camera_top.png",
-    "obsidianpinnacle/images/blocks/camera_top.png",
-    "overgrowntemple/images/blocks/camera_top.png",
-    "pumpkinpastures/images/blocks/camera_top.png",
-    "redstonemines/images/blocks/camera_top.png",
-    "soggyswamp/images/blocks/camera_top.png",
-    "squidcoast/images/blocks/camera_top.png"
-  ],
-  "carried_waterlily.png": [
-    "cacticanyon/images/blocks/carried_waterlily.png",
-    "creeperwoods/images/blocks/carried_waterlily.png",
-    "deserttemple/images/blocks/carried_waterlily.png",
-    "highblockhalls/images/blocks/carried_waterlily.png",
-    "mooncorecaverns/images/blocks/carried_waterlily.png",
-    "obsidianpinnacle/images/blocks/carried_waterlily.png",
-    "redstonemines/images/blocks/carried_waterlily.png",
-    "soggyswamp/images/blocks/carried_waterlily.png",
-    "squidcoast/images/blocks/carried_waterlily.png"
   ],
   "carrots_stage_3.png": [
     "bamboobluff/images/blocks/carrots_stage_3.png",
@@ -748,57 +653,6 @@
     "soggyswamp/images/blocks/cauldron_water.png",
     "squidcoast/images/blocks/cauldron_water.png"
   ],
-  "chest_front.png": [
-    "bamboobluff/images/blocks/chest_front.png",
-    "cacticanyon/images/blocks/chest_front.png",
-    "creeperwoods/images/blocks/chest_front.png",
-    "deserttemple/images/blocks/chest_front.png",
-    "dingyjungle/images/blocks/chest_front.png",
-    "highblockhalls/images/blocks/chest_front.png",
-    "jungle/images/blocks/chest_front.png",
-    "mooncorecaverns/images/blocks/chest_front.png",
-    "mycelia/images/blocks/chest_front.png",
-    "obsidianpinnacle/images/blocks/chest_front.png",
-    "overgrowntemple/images/blocks/chest_front.png",
-    "pumpkinpastures/images/blocks/chest_front.png",
-    "redstonemines/images/blocks/chest_front.png",
-    "soggyswamp/images/blocks/chest_front.png",
-    "squidcoast/images/blocks/chest_front.png"
-  ],
-  "chest_side.png": [
-    "bamboobluff/images/blocks/chest_side.png",
-    "cacticanyon/images/blocks/chest_side.png",
-    "creeperwoods/images/blocks/chest_side.png",
-    "deserttemple/images/blocks/chest_side.png",
-    "dingyjungle/images/blocks/chest_side.png",
-    "highblockhalls/images/blocks/chest_side.png",
-    "jungle/images/blocks/chest_side.png",
-    "mooncorecaverns/images/blocks/chest_side.png",
-    "mycelia/images/blocks/chest_side.png",
-    "obsidianpinnacle/images/blocks/chest_side.png",
-    "overgrowntemple/images/blocks/chest_side.png",
-    "pumpkinpastures/images/blocks/chest_side.png",
-    "redstonemines/images/blocks/chest_side.png",
-    "soggyswamp/images/blocks/chest_side.png",
-    "squidcoast/images/blocks/chest_side.png"
-  ],
-  "chest_top.png": [
-    "bamboobluff/images/blocks/chest_top.png",
-    "cacticanyon/images/blocks/chest_top.png",
-    "creeperwoods/images/blocks/chest_top.png",
-    "deserttemple/images/blocks/chest_top.png",
-    "dingyjungle/images/blocks/chest_top.png",
-    "highblockhalls/images/blocks/chest_top.png",
-    "jungle/images/blocks/chest_top.png",
-    "mooncorecaverns/images/blocks/chest_top.png",
-    "mycelia/images/blocks/chest_top.png",
-    "obsidianpinnacle/images/blocks/chest_top.png",
-    "overgrowntemple/images/blocks/chest_top.png",
-    "pumpkinpastures/images/blocks/chest_top.png",
-    "redstonemines/images/blocks/chest_top.png",
-    "soggyswamp/images/blocks/chest_top.png",
-    "squidcoast/images/blocks/chest_top.png"
-  ],
   "clay.png": [
     "cacticanyon/images/blocks/clay.png",
     "creeperwoods/images/blocks/clay.png",
@@ -814,9 +668,24 @@
     "squidcoast/images/blocks/clay.png"
   ],
   "coal_block.png": [
+    "bamboobluff/images/blocks/stone_gradient_15.png",
+    "cacticanyon/images/blocks/stone_gradient_15.png",
+    "creeperwoods/images/blocks/hardened_clay_stained_orange.png",
+    "dingyjungle/images/blocks/stone_gradient_15.png",
+    "jungle/images/blocks/hardened_clay_stained_orange.png",
+    "jungle/images/blocks/stone_gradient_15.png",
     "mooncorecaverns/images/blocks/hardened_clay_stained_black.png",
+    "mooncorecaverns/images/blocks/stone_gradient_15.png",
+    "mycelia/images/blocks/mushroom_block_skin_red_e.png",
+    "mycelia/images/blocks/stone_gradient_15.png",
+    "overgrowntemple/images/blocks/stone_gradient_15.png",
+    "pumpkinpastures/images/blocks/hardened_clay_stained_orange.png",
+    "pumpkinpastures/images/blocks/stone_gradient_15.png",
+    "redstonemines/images/blocks/stone_gradient_15.png",
+    "soggyswamp/images/blocks/stone_gradient_15.png",
     "squidcoast/images/blocks/coal_block.png",
-    "squidcoast/images/blocks/hardened_clay_stained_black.png"
+    "squidcoast/images/blocks/hardened_clay_stained_black.png",
+    "squidcoast/images/blocks/stone_gradient_15.png"
   ],
   "coal_ore.png": [
     "bamboobluff/images/blocks/coal_ore.png",
@@ -842,6 +711,8 @@
   ],
   "cobblestone_mossy.png": [
     "jungle/images/blocks/cobblestone_mossy.png",
+    "jungle/images/blocks/stone_path_top.png",
+    "mycelia/images/blocks/stone_path_top.png",
     "squidcoast/images/blocks/cobblestone_mossy.png"
   ],
   "cocoa_stage_0.png": [
@@ -989,33 +860,47 @@
     "mooncorecaverns/images/blocks/custom_14.png",
     "squidcoast/images/blocks/custom_14.png"
   ],
-  "custom_15.png": [
+  "custom_3.png": [
     "deserttemple/images/blocks/custom_15.png",
     "highblockhalls/images/blocks/custom_15.png",
     "mooncorecaverns/images/blocks/custom_15.png",
     "obsidianpinnacle/images/blocks/custom_15.png",
+    "squidcoast/images/blocks/custom_3.png",
     "squidcoast/images/blocks/custom_15.png"
   ],
   "custom_2.png": [
     "mooncorecaverns/images/blocks/custom_2.png",
     "squidcoast/images/blocks/custom_2.png"
   ],
-  "custom_3.png": [
-    "squidcoast/images/blocks/custom_3.png"
-  ],
   "custom_4.png": [
-    "squidcoast/images/blocks/custom_4.png"
+    "creeperwoods/images/blocks/stonefloor1.png",
+    "deserttemple/images/blocks/stonefloor1.png",
+    "highblockhalls/images/blocks/stonefloor1.png",
+    "mycelia/images/blocks/stonefloor1.png",
+    "obsidianpinnacle/images/blocks/stonefloor1.png",
+    "pumpkinpastures/images/blocks/stonefloor1.png",
+    "soggyswamp/images/blocks/stonefloor1.png",
+    "squidcoast/images/blocks/custom_4.png",
+    "squidcoast/images/blocks/stone_andesite_smooth.png"
   ],
   "custom_4_reflective.png": [
     "squidcoast/images/blocks/custom_4_reflective.png"
   ],
   "custom_5.png": [
+    "cacticanyon/images/blocks/stone_andesite_smooth.png",
+    "creeperwoods/images/blocks/stone_andesite_smooth.png",
+    "deserttemple/images/blocks/stone_andesite_smooth.png",
+    "jungle/images/blocks/stone_andesite_smooth.png",
+    "mycelia/images/blocks/stone_andesite_smooth.png",
+    "pumpkinpastures/images/blocks/stone_andesite_smooth.png",
+    "soggyswamp/images/blocks/stone_andesite_smooth.png",
     "squidcoast/images/blocks/custom_5.png"
   ],
   "custom_5_reflective.png": [
     "squidcoast/images/blocks/custom_5_reflective.png"
   ],
   "custom_6.png": [
+    "deserttemple/images/blocks/polished_granite.png",
     "squidcoast/images/blocks/custom_6.png"
   ],
   "custom_6_reflective.png": [
@@ -1100,176 +985,6 @@
     "soggyswamp/images/blocks/deadbush.png",
     "squidcoast/images/blocks/deadbush.png"
   ],
-  "destroy_stage_0.png": [
-    "bamboobluff/images/blocks/destroy_stage_0.png",
-    "cacticanyon/images/blocks/destroy_stage_0.png",
-    "creeperwoods/images/blocks/destroy_stage_0.png",
-    "deserttemple/images/blocks/destroy_stage_0.png",
-    "dingyjungle/images/blocks/destroy_stage_0.png",
-    "highblockhalls/images/blocks/destroy_stage_0.png",
-    "jungle/images/blocks/destroy_stage_0.png",
-    "mooncorecaverns/images/blocks/destroy_stage_0.png",
-    "mycelia/images/blocks/destroy_stage_0.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_0.png",
-    "overgrowntemple/images/blocks/destroy_stage_0.png",
-    "pumpkinpastures/images/blocks/destroy_stage_0.png",
-    "redstonemines/images/blocks/destroy_stage_0.png",
-    "soggyswamp/images/blocks/destroy_stage_0.png",
-    "squidcoast/images/blocks/destroy_stage_0.png"
-  ],
-  "destroy_stage_1.png": [
-    "bamboobluff/images/blocks/destroy_stage_1.png",
-    "cacticanyon/images/blocks/destroy_stage_1.png",
-    "creeperwoods/images/blocks/destroy_stage_1.png",
-    "deserttemple/images/blocks/destroy_stage_1.png",
-    "dingyjungle/images/blocks/destroy_stage_1.png",
-    "highblockhalls/images/blocks/destroy_stage_1.png",
-    "jungle/images/blocks/destroy_stage_1.png",
-    "mooncorecaverns/images/blocks/destroy_stage_1.png",
-    "mycelia/images/blocks/destroy_stage_1.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_1.png",
-    "overgrowntemple/images/blocks/destroy_stage_1.png",
-    "pumpkinpastures/images/blocks/destroy_stage_1.png",
-    "redstonemines/images/blocks/destroy_stage_1.png",
-    "soggyswamp/images/blocks/destroy_stage_1.png",
-    "squidcoast/images/blocks/destroy_stage_1.png"
-  ],
-  "destroy_stage_2.png": [
-    "bamboobluff/images/blocks/destroy_stage_2.png",
-    "cacticanyon/images/blocks/destroy_stage_2.png",
-    "creeperwoods/images/blocks/destroy_stage_2.png",
-    "deserttemple/images/blocks/destroy_stage_2.png",
-    "dingyjungle/images/blocks/destroy_stage_2.png",
-    "highblockhalls/images/blocks/destroy_stage_2.png",
-    "jungle/images/blocks/destroy_stage_2.png",
-    "mooncorecaverns/images/blocks/destroy_stage_2.png",
-    "mycelia/images/blocks/destroy_stage_2.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_2.png",
-    "overgrowntemple/images/blocks/destroy_stage_2.png",
-    "pumpkinpastures/images/blocks/destroy_stage_2.png",
-    "redstonemines/images/blocks/destroy_stage_2.png",
-    "soggyswamp/images/blocks/destroy_stage_2.png",
-    "squidcoast/images/blocks/destroy_stage_2.png"
-  ],
-  "destroy_stage_3.png": [
-    "bamboobluff/images/blocks/destroy_stage_3.png",
-    "cacticanyon/images/blocks/destroy_stage_3.png",
-    "creeperwoods/images/blocks/destroy_stage_3.png",
-    "deserttemple/images/blocks/destroy_stage_3.png",
-    "dingyjungle/images/blocks/destroy_stage_3.png",
-    "highblockhalls/images/blocks/destroy_stage_3.png",
-    "jungle/images/blocks/destroy_stage_3.png",
-    "mooncorecaverns/images/blocks/destroy_stage_3.png",
-    "mycelia/images/blocks/destroy_stage_3.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_3.png",
-    "overgrowntemple/images/blocks/destroy_stage_3.png",
-    "pumpkinpastures/images/blocks/destroy_stage_3.png",
-    "redstonemines/images/blocks/destroy_stage_3.png",
-    "soggyswamp/images/blocks/destroy_stage_3.png",
-    "squidcoast/images/blocks/destroy_stage_3.png"
-  ],
-  "destroy_stage_4.png": [
-    "bamboobluff/images/blocks/destroy_stage_4.png",
-    "cacticanyon/images/blocks/destroy_stage_4.png",
-    "creeperwoods/images/blocks/destroy_stage_4.png",
-    "deserttemple/images/blocks/destroy_stage_4.png",
-    "dingyjungle/images/blocks/destroy_stage_4.png",
-    "highblockhalls/images/blocks/destroy_stage_4.png",
-    "jungle/images/blocks/destroy_stage_4.png",
-    "mooncorecaverns/images/blocks/destroy_stage_4.png",
-    "mycelia/images/blocks/destroy_stage_4.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_4.png",
-    "overgrowntemple/images/blocks/destroy_stage_4.png",
-    "pumpkinpastures/images/blocks/destroy_stage_4.png",
-    "redstonemines/images/blocks/destroy_stage_4.png",
-    "soggyswamp/images/blocks/destroy_stage_4.png",
-    "squidcoast/images/blocks/destroy_stage_4.png"
-  ],
-  "destroy_stage_5.png": [
-    "bamboobluff/images/blocks/destroy_stage_5.png",
-    "cacticanyon/images/blocks/destroy_stage_5.png",
-    "creeperwoods/images/blocks/destroy_stage_5.png",
-    "deserttemple/images/blocks/destroy_stage_5.png",
-    "dingyjungle/images/blocks/destroy_stage_5.png",
-    "highblockhalls/images/blocks/destroy_stage_5.png",
-    "jungle/images/blocks/destroy_stage_5.png",
-    "mooncorecaverns/images/blocks/destroy_stage_5.png",
-    "mycelia/images/blocks/destroy_stage_5.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_5.png",
-    "overgrowntemple/images/blocks/destroy_stage_5.png",
-    "pumpkinpastures/images/blocks/destroy_stage_5.png",
-    "redstonemines/images/blocks/destroy_stage_5.png",
-    "soggyswamp/images/blocks/destroy_stage_5.png",
-    "squidcoast/images/blocks/destroy_stage_5.png"
-  ],
-  "destroy_stage_6.png": [
-    "bamboobluff/images/blocks/destroy_stage_6.png",
-    "cacticanyon/images/blocks/destroy_stage_6.png",
-    "creeperwoods/images/blocks/destroy_stage_6.png",
-    "deserttemple/images/blocks/destroy_stage_6.png",
-    "dingyjungle/images/blocks/destroy_stage_6.png",
-    "highblockhalls/images/blocks/destroy_stage_6.png",
-    "jungle/images/blocks/destroy_stage_6.png",
-    "mooncorecaverns/images/blocks/destroy_stage_6.png",
-    "mycelia/images/blocks/destroy_stage_6.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_6.png",
-    "overgrowntemple/images/blocks/destroy_stage_6.png",
-    "pumpkinpastures/images/blocks/destroy_stage_6.png",
-    "redstonemines/images/blocks/destroy_stage_6.png",
-    "soggyswamp/images/blocks/destroy_stage_6.png",
-    "squidcoast/images/blocks/destroy_stage_6.png"
-  ],
-  "destroy_stage_7.png": [
-    "bamboobluff/images/blocks/destroy_stage_7.png",
-    "cacticanyon/images/blocks/destroy_stage_7.png",
-    "creeperwoods/images/blocks/destroy_stage_7.png",
-    "deserttemple/images/blocks/destroy_stage_7.png",
-    "dingyjungle/images/blocks/destroy_stage_7.png",
-    "highblockhalls/images/blocks/destroy_stage_7.png",
-    "jungle/images/blocks/destroy_stage_7.png",
-    "mooncorecaverns/images/blocks/destroy_stage_7.png",
-    "mycelia/images/blocks/destroy_stage_7.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_7.png",
-    "overgrowntemple/images/blocks/destroy_stage_7.png",
-    "pumpkinpastures/images/blocks/destroy_stage_7.png",
-    "redstonemines/images/blocks/destroy_stage_7.png",
-    "soggyswamp/images/blocks/destroy_stage_7.png",
-    "squidcoast/images/blocks/destroy_stage_7.png"
-  ],
-  "destroy_stage_8.png": [
-    "bamboobluff/images/blocks/destroy_stage_8.png",
-    "cacticanyon/images/blocks/destroy_stage_8.png",
-    "creeperwoods/images/blocks/destroy_stage_8.png",
-    "deserttemple/images/blocks/destroy_stage_8.png",
-    "dingyjungle/images/blocks/destroy_stage_8.png",
-    "highblockhalls/images/blocks/destroy_stage_8.png",
-    "jungle/images/blocks/destroy_stage_8.png",
-    "mooncorecaverns/images/blocks/destroy_stage_8.png",
-    "mycelia/images/blocks/destroy_stage_8.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_8.png",
-    "overgrowntemple/images/blocks/destroy_stage_8.png",
-    "pumpkinpastures/images/blocks/destroy_stage_8.png",
-    "redstonemines/images/blocks/destroy_stage_8.png",
-    "soggyswamp/images/blocks/destroy_stage_8.png",
-    "squidcoast/images/blocks/destroy_stage_8.png"
-  ],
-  "destroy_stage_9.png": [
-    "bamboobluff/images/blocks/destroy_stage_9.png",
-    "cacticanyon/images/blocks/destroy_stage_9.png",
-    "creeperwoods/images/blocks/destroy_stage_9.png",
-    "deserttemple/images/blocks/destroy_stage_9.png",
-    "dingyjungle/images/blocks/destroy_stage_9.png",
-    "highblockhalls/images/blocks/destroy_stage_9.png",
-    "jungle/images/blocks/destroy_stage_9.png",
-    "mooncorecaverns/images/blocks/destroy_stage_9.png",
-    "mycelia/images/blocks/destroy_stage_9.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_9.png",
-    "overgrowntemple/images/blocks/destroy_stage_9.png",
-    "pumpkinpastures/images/blocks/destroy_stage_9.png",
-    "redstonemines/images/blocks/destroy_stage_9.png",
-    "soggyswamp/images/blocks/destroy_stage_9.png",
-    "squidcoast/images/blocks/destroy_stage_9.png"
-  ],
   "diamond_block.png": [
     "cacticanyon/images/blocks/diamond_block.png",
     "highblockhalls/images/blocks/diamond_block.png",
@@ -1322,9 +1037,13 @@
   ],
   "dirt_path_side.png": [
     "bamboobluff/images/blocks/dirt_path_side.png",
+    "bamboobluff/images/blocks/grass_path_side.png",
     "dingyjungle/images/blocks/dirt_path_side.png",
+    "dingyjungle/images/blocks/grass_path_side.png",
     "mycelia/images/blocks/dirt_path_side.png",
+    "mycelia/images/blocks/grass_path_side.png",
     "overgrowntemple/images/blocks/dirt_path_side.png",
+    "overgrowntemple/images/blocks/grass_path_side.png",
     "pumpkinpastures/images/blocks/dirt_path_side.png",
     "squidcoast/images/blocks/dirt_path_side.png"
   ],
@@ -1333,9 +1052,7 @@
     "squidcoast/images/blocks/dirt_path_top.png"
   ],
   "dirt_podzol_side.png": [
-    "squidcoast/images/blocks/dirt_podzol_side.png"
-  ],
-  "dirt_podzol_top.png": [
+    "squidcoast/images/blocks/dirt_podzol_side.png",
     "squidcoast/images/blocks/dirt_podzol_top.png"
   ],
   "dispenser_front_horizontal.png": [
@@ -1614,23 +1331,6 @@
     "mooncorecaverns/images/blocks/double_plant_fern_bottom.png",
     "squidcoast/images/blocks/double_plant_fern_bottom.png"
   ],
-  "double_plant_fern_carried.png": [
-    "bamboobluff/images/blocks/double_plant_fern_carried.png",
-    "cacticanyon/images/blocks/double_plant_fern_carried.png",
-    "creeperwoods/images/blocks/double_plant_fern_carried.png",
-    "deserttemple/images/blocks/double_plant_fern_carried.png",
-    "dingyjungle/images/blocks/double_plant_fern_carried.png",
-    "highblockhalls/images/blocks/double_plant_fern_carried.png",
-    "jungle/images/blocks/double_plant_fern_carried.png",
-    "mooncorecaverns/images/blocks/double_plant_fern_carried.png",
-    "mycelia/images/blocks/double_plant_fern_carried.png",
-    "obsidianpinnacle/images/blocks/double_plant_fern_carried.png",
-    "overgrowntemple/images/blocks/double_plant_fern_carried.png",
-    "pumpkinpastures/images/blocks/double_plant_fern_carried.png",
-    "redstonemines/images/blocks/double_plant_fern_carried.png",
-    "soggyswamp/images/blocks/double_plant_fern_carried.png",
-    "squidcoast/images/blocks/double_plant_fern_carried.png"
-  ],
   "double_plant_fern_top.png": [
     "bamboobluff/images/blocks/double_plant_fern_top.png",
     "creeperwoods/images/blocks/double_plant_fern_top.png",
@@ -1647,23 +1347,6 @@
     "mooncorecaverns/images/blocks/double_plant_grass_bottom.png",
     "mycelia/images/blocks/double_plant_grass_bottom.png",
     "squidcoast/images/blocks/double_plant_grass_bottom.png"
-  ],
-  "double_plant_grass_carried.png": [
-    "bamboobluff/images/blocks/double_plant_grass_carried.png",
-    "cacticanyon/images/blocks/double_plant_grass_carried.png",
-    "creeperwoods/images/blocks/double_plant_grass_carried.png",
-    "deserttemple/images/blocks/double_plant_grass_carried.png",
-    "dingyjungle/images/blocks/double_plant_grass_carried.png",
-    "highblockhalls/images/blocks/double_plant_grass_carried.png",
-    "jungle/images/blocks/double_plant_grass_carried.png",
-    "mooncorecaverns/images/blocks/double_plant_grass_carried.png",
-    "mycelia/images/blocks/double_plant_grass_carried.png",
-    "obsidianpinnacle/images/blocks/double_plant_grass_carried.png",
-    "overgrowntemple/images/blocks/double_plant_grass_carried.png",
-    "pumpkinpastures/images/blocks/double_plant_grass_carried.png",
-    "redstonemines/images/blocks/double_plant_grass_carried.png",
-    "soggyswamp/images/blocks/double_plant_grass_carried.png",
-    "squidcoast/images/blocks/double_plant_grass_carried.png"
   ],
   "double_plant_grass_top.png": [
     "jungle/images/blocks/double_plant_grass_top.png",
@@ -2067,23 +1750,6 @@
     "mooncorecaverns/images/blocks/fern.png",
     "squidcoast/images/blocks/fern.png"
   ],
-  "fern_carried.png": [
-    "bamboobluff/images/blocks/fern_carried.png",
-    "cacticanyon/images/blocks/fern_carried.png",
-    "creeperwoods/images/blocks/fern_carried.png",
-    "deserttemple/images/blocks/fern_carried.png",
-    "dingyjungle/images/blocks/fern_carried.png",
-    "highblockhalls/images/blocks/fern_carried.png",
-    "jungle/images/blocks/fern_carried.png",
-    "mooncorecaverns/images/blocks/fern_carried.png",
-    "mycelia/images/blocks/fern_carried.png",
-    "obsidianpinnacle/images/blocks/fern_carried.png",
-    "overgrowntemple/images/blocks/fern_carried.png",
-    "pumpkinpastures/images/blocks/fern_carried.png",
-    "redstonemines/images/blocks/fern_carried.png",
-    "soggyswamp/images/blocks/fern_carried.png",
-    "squidcoast/images/blocks/fern_carried.png"
-  ],
   "fill_white.png": [
     "bamboobluff/images/blocks/fill_white.png",
     "cacticanyon/images/blocks/fill_white.png",
@@ -2170,6 +1836,7 @@
     "squidcoast/images/blocks/fire_layer_1.png"
   ],
   "flower_allium.png": [
+    "jungle/images/blocks/flower_dandelion.png",
     "mooncorecaverns/images/blocks/flower_allium.png",
     "squidcoast/images/blocks/flower_allium.png"
   ],
@@ -2195,6 +1862,7 @@
     "squidcoast/images/blocks/flower_dandelion.png"
   ],
   "flower_houstonia.png": [
+    "jungle/images/blocks/flower_rose.png",
     "mooncorecaverns/images/blocks/flower_houstonia.png",
     "squidcoast/images/blocks/flower_houstonia.png"
   ],
@@ -2203,7 +1871,8 @@
     "mooncorecaverns/images/blocks/flower_oxeye_daisy.png",
     "squidcoast/images/blocks/flower_oxeye_daisy.png"
   ],
-  "flower_paeonia.png": [
+  "flower_houstonia_jungle.png": [
+    "jungle/images/blocks/flower_houstonia.png",
     "mooncorecaverns/images/blocks/flower_paeonia.png",
     "squidcoast/images/blocks/flower_paeonia.png"
   ],
@@ -2319,52 +1988,82 @@
   ],
   "furnace_side.png": [
     "bamboobluff/images/blocks/furnace_side.png",
+    "bamboobluff/images/blocks/stonecutter_other_side.png",
     "cacticanyon/images/blocks/furnace_side.png",
+    "cacticanyon/images/blocks/stonecutter_other_side.png",
     "creeperwoods/images/blocks/furnace_side.png",
+    "creeperwoods/images/blocks/stonecutter_other_side.png",
     "deserttemple/images/blocks/furnace_side.png",
+    "deserttemple/images/blocks/stonecutter_other_side.png",
     "dingyjungle/images/blocks/furnace_side.png",
+    "dingyjungle/images/blocks/stonecutter_other_side.png",
     "highblockhalls/images/blocks/furnace_side.png",
+    "highblockhalls/images/blocks/stonecutter_other_side.png",
     "jungle/images/blocks/furnace_side.png",
+    "jungle/images/blocks/stonecutter_other_side.png",
     "mooncorecaverns/images/blocks/furnace_side.png",
+    "mooncorecaverns/images/blocks/stonecutter_other_side.png",
     "mycelia/images/blocks/furnace_side.png",
+    "mycelia/images/blocks/stonecutter_other_side.png",
     "obsidianpinnacle/images/blocks/furnace_side.png",
+    "obsidianpinnacle/images/blocks/stonecutter_other_side.png",
     "overgrowntemple/images/blocks/furnace_side.png",
+    "overgrowntemple/images/blocks/stonecutter_other_side.png",
     "pumpkinpastures/images/blocks/furnace_side.png",
+    "pumpkinpastures/images/blocks/stonecutter_other_side.png",
     "redstonemines/images/blocks/furnace_side.png",
+    "redstonemines/images/blocks/stonecutter_other_side.png",
     "soggyswamp/images/blocks/furnace_side.png",
-    "squidcoast/images/blocks/furnace_side.png"
+    "soggyswamp/images/blocks/stonecutter_other_side.png",
+    "squidcoast/images/blocks/furnace_side.png",
+    "squidcoast/images/blocks/stonecutter_other_side.png"
   ],
   "furnace_top.png": [
     "bamboobluff/images/blocks/furnace_top.png",
     "bamboobluff/images/blocks/piston_bottom.png",
+    "bamboobluff/images/blocks/stonecutter_bottom.png",
     "cacticanyon/images/blocks/furnace_top.png",
     "cacticanyon/images/blocks/piston_bottom.png",
+    "cacticanyon/images/blocks/stonecutter_bottom.png",
     "creeperwoods/images/blocks/furnace_top.png",
     "creeperwoods/images/blocks/piston_bottom.png",
+    "creeperwoods/images/blocks/stonecutter_bottom.png",
     "deserttemple/images/blocks/furnace_top.png",
     "deserttemple/images/blocks/piston_bottom.png",
+    "deserttemple/images/blocks/stonecutter_bottom.png",
     "dingyjungle/images/blocks/furnace_top.png",
     "dingyjungle/images/blocks/piston_bottom.png",
+    "dingyjungle/images/blocks/stonecutter_bottom.png",
     "highblockhalls/images/blocks/furnace_top.png",
     "highblockhalls/images/blocks/piston_bottom.png",
+    "highblockhalls/images/blocks/stonecutter_bottom.png",
     "jungle/images/blocks/furnace_top.png",
     "jungle/images/blocks/piston_bottom.png",
+    "jungle/images/blocks/stonecutter_bottom.png",
     "mooncorecaverns/images/blocks/furnace_top.png",
     "mooncorecaverns/images/blocks/piston_bottom.png",
+    "mooncorecaverns/images/blocks/stonecutter_bottom.png",
     "mycelia/images/blocks/furnace_top.png",
     "mycelia/images/blocks/piston_bottom.png",
+    "mycelia/images/blocks/stonecutter_bottom.png",
     "obsidianpinnacle/images/blocks/furnace_top.png",
     "obsidianpinnacle/images/blocks/piston_bottom.png",
+    "obsidianpinnacle/images/blocks/stonecutter_bottom.png",
     "overgrowntemple/images/blocks/furnace_top.png",
     "overgrowntemple/images/blocks/piston_bottom.png",
+    "overgrowntemple/images/blocks/stonecutter_bottom.png",
     "pumpkinpastures/images/blocks/furnace_top.png",
     "pumpkinpastures/images/blocks/piston_bottom.png",
+    "pumpkinpastures/images/blocks/stonecutter_bottom.png",
     "redstonemines/images/blocks/furnace_top.png",
     "redstonemines/images/blocks/piston_bottom.png",
+    "redstonemines/images/blocks/stonecutter_bottom.png",
     "soggyswamp/images/blocks/furnace_top.png",
     "soggyswamp/images/blocks/piston_bottom.png",
+    "soggyswamp/images/blocks/stonecutter_bottom.png",
     "squidcoast/images/blocks/furnace_top.png",
-    "squidcoast/images/blocks/piston_bottom.png"
+    "squidcoast/images/blocks/piston_bottom.png",
+    "squidcoast/images/blocks/stonecutter_bottom.png"
   ],
   "glass.png": [
     "cacticanyon/images/blocks/glass.png",
@@ -2482,49 +2181,28 @@
     "soggyswamp/images/blocks/gold_ore_reflective.png",
     "squidcoast/images/blocks/gold_ore_reflective.png"
   ],
-  "grass_and_leaves_29.png": [
+  "grass_and_leaves_27.png": [
+    "creeperwoods/images/blocks/grass_and_leaves_27.png",
     "creeperwoods/images/blocks/grass_and_leaves_29.png",
     "jungle/images/blocks/grass_and_leaves_29.png",
+    "jungle/images/blocks/log_oak_top.png",
     "mycelia/images/blocks/grass_and_leaves_29.png",
+    "mycelia/images/blocks/log_oak_top.png",
     "pumpkinpastures/images/blocks/grass_and_leaves_29.png",
+    "redstonemines/images/blocks/log_oak_top.png",
     "squidcoast/images/blocks/grass_and_leaves_29.png"
   ],
-  "grass_carried.png": [
-    "bamboobluff/images/blocks/grass_carried.png",
-    "cacticanyon/images/blocks/grass_carried.png",
-    "creeperwoods/images/blocks/grass_carried.png",
-    "deserttemple/images/blocks/grass_carried.png",
-    "dingyjungle/images/blocks/grass_carried.png",
-    "highblockhalls/images/blocks/grass_carried.png",
-    "jungle/images/blocks/grass_carried.png",
-    "mooncorecaverns/images/blocks/grass_carried.png",
-    "mycelia/images/blocks/grass_carried.png",
-    "obsidianpinnacle/images/blocks/grass_carried.png",
-    "overgrowntemple/images/blocks/grass_carried.png",
-    "pumpkinpastures/images/blocks/grass_carried.png",
-    "redstonemines/images/blocks/grass_carried.png",
-    "soggyswamp/images/blocks/grass_carried.png",
-    "squidcoast/images/blocks/grass_carried.png"
-  ],
   "grass_path_side.png": [
+    "bamboobluff/images/blocks/dirt_path_top.png",
+    "dingyjungle/images/blocks/dirt_path_top.png",
     "mooncorecaverns/images/blocks/grass_path_side.png",
+    "mycelia/images/blocks/dirt_path_top.png",
+    "overgrowntemple/images/blocks/dirt_path_top.png",
     "pumpkinpastures/images/blocks/grass_path_side.png",
     "squidcoast/images/blocks/grass_path_side.png"
   ],
-  "grass_path_top.png": [
-    "mooncorecaverns/images/blocks/grass_path_top.png",
-    "pumpkinpastures/images/blocks/grass_path_top.png",
-    "squidcoast/images/blocks/grass_path_top.png"
-  ],
   "grass_side.png": [
     "squidcoast/images/blocks/grass_side.png"
-  ],
-  "grass_side_carried.png": [
-    "highblockhalls/images/blocks/grass_side_carried.png",
-    "mooncorecaverns/images/blocks/grass_side_carried.png",
-    "obsidianpinnacle/images/blocks/grass_side_carried.png",
-    "redstonemines/images/blocks/grass_side_carried.png",
-    "squidcoast/images/blocks/grass_side_carried.png"
   ],
   "grass_side_snowed.png": [
     "bamboobluff/images/blocks/grass_side_snowed.png",
@@ -2557,7 +2235,8 @@
     "squidcoast/images/blocks/gravel_path_side.png"
   ],
   "gravel_path_top.png": [
-    "squidcoast/images/blocks/gravel_path_top.png"
+    "squidcoast/images/blocks/gravel_path_top.png",
+    "squidcoast/images/blocks/stone_granite.png"
   ],
   "hardened_clay.png": [
     "cacticanyon/images/blocks/hardened_clay.png",
@@ -2733,7 +2412,10 @@
     "obsidianpinnacle/images/blocks/hardened_clay_stained_white.png",
     "redstonemines/images/blocks/hardened_clay_stained_white.png",
     "soggyswamp/images/blocks/hardened_clay_stained_white.png",
-    "squidcoast/images/blocks/hardened_clay_stained_white.png"
+    "squidcoast/images/blocks/hardened_clay_stained_white.png",
+    "squidcoast/images/blocks/quartz_block_bottom.png",
+    "squidcoast/images/blocks/quartz_block_side.png",
+    "squidcoast/images/blocks/quartz_block_top.png"
   ],
   "hardened_clay_stained_yellow.png": [
     "creeperwoods/images/blocks/hardened_clay_stained_yellow.png",
@@ -3039,10 +2721,9 @@
   ],
   "leaves_acacia.png": [
     "mooncorecaverns/images/blocks/leaves_acacia.png",
-    "squidcoast/images/blocks/leaves_acacia.png"
-  ],
-  "leaves_acacia_carried.png": [
-    "squidcoast/images/blocks/leaves_acacia_carried.png"
+    "mooncorecaverns/images/blocks/leaves_acacia_top.png",
+    "squidcoast/images/blocks/leaves_acacia.png",
+    "squidcoast/images/blocks/leaves_acacia_top.png"
   ],
   "leaves_acacia_opaque.png": [
     "squidcoast/images/blocks/leaves_acacia_opaque.png"
@@ -3051,16 +2732,10 @@
     "mooncorecaverns/images/blocks/leaves_acacia_opaque_Outer.png",
     "squidcoast/images/blocks/leaves_acacia_opaque_Outer.png"
   ],
-  "leaves_acacia_top.png": [
-    "mooncorecaverns/images/blocks/leaves_acacia_top.png",
-    "squidcoast/images/blocks/leaves_acacia_top.png"
-  ],
   "leaves_big_oak.png": [
     "mooncorecaverns/images/blocks/leaves_big_oak.png",
-    "squidcoast/images/blocks/leaves_big_oak.png"
-  ],
-  "leaves_big_oak_carried.png": [
     "mooncorecaverns/images/blocks/leaves_big_oak_carried.png",
+    "squidcoast/images/blocks/leaves_big_oak.png",
     "squidcoast/images/blocks/leaves_big_oak_carried.png"
   ],
   "leaves_big_oak_opaque.png": [
@@ -3070,7 +2745,9 @@
   ],
   "leaves_big_oak_outer.png": [
     "mooncorecaverns/images/blocks/leaves_big_oak_outer.png",
-    "squidcoast/images/blocks/leaves_big_oak_outer.png"
+    "mooncorecaverns/images/blocks/leaves_oak_outer.png",
+    "squidcoast/images/blocks/leaves_big_oak_outer.png",
+    "squidcoast/images/blocks/leaves_oak_outer.png"
   ],
   "leaves_big_oak_top.png": [
     "mooncorecaverns/images/blocks/leaves_big_oak_top.png",
@@ -3078,11 +2755,15 @@
   ],
   "leaves_birch.png": [
     "mooncorecaverns/images/blocks/leaves_birch.png",
-    "squidcoast/images/blocks/leaves_birch.png"
-  ],
-  "leaves_birch_carried.png": [
     "mooncorecaverns/images/blocks/leaves_birch_carried.png",
-    "squidcoast/images/blocks/leaves_birch_carried.png"
+    "mooncorecaverns/images/blocks/leaves_birch_top.png",
+    "mooncorecaverns/images/blocks/leaves_oak.png",
+    "mooncorecaverns/images/blocks/leaves_oak_carried.png",
+    "squidcoast/images/blocks/leaves_birch.png",
+    "squidcoast/images/blocks/leaves_birch_carried.png",
+    "squidcoast/images/blocks/leaves_birch_top.png",
+    "squidcoast/images/blocks/leaves_oak.png",
+    "squidcoast/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_birch_opaque.png": [
     "squidcoast/images/blocks/leaves_birch_opaque.png"
@@ -3091,22 +2772,15 @@
     "mooncorecaverns/images/blocks/leaves_birch_Outer.png",
     "squidcoast/images/blocks/leaves_birch_Outer.png"
   ],
-  "leaves_birch_top.png": [
-    "mooncorecaverns/images/blocks/leaves_birch_top.png",
-    "squidcoast/images/blocks/leaves_birch_top.png"
-  ],
   "leaves_jungle.png": [
     "mooncorecaverns/images/blocks/leaves_jungle.png",
     "squidcoast/images/blocks/leaves_jungle.png"
   ],
-  "leaves_jungle_carried.png": [
-    "mooncorecaverns/images/blocks/leaves_jungle_carried.png",
-    "squidcoast/images/blocks/leaves_jungle_carried.png"
-  ],
   "leaves_jungle_opaque.png": [
     "squidcoast/images/blocks/leaves_jungle_opaque.png"
   ],
-  "leaves_jungle_outer.png": [
+  "leaves_birch_outer_creeperwoods.png": [
+    "creeperwoods/images/blocks/leaves_birch_Outer.png",
     "mooncorecaverns/images/blocks/leaves_jungle_outer.png",
     "squidcoast/images/blocks/leaves_jungle_outer.png"
   ],
@@ -3117,14 +2791,6 @@
   "leaves_jungle_top_opaque.png": [
     "squidcoast/images/blocks/leaves_jungle_top_opaque.png"
   ],
-  "leaves_oak.png": [
-    "mooncorecaverns/images/blocks/leaves_oak.png",
-    "squidcoast/images/blocks/leaves_oak.png"
-  ],
-  "leaves_oak_carried.png": [
-    "mooncorecaverns/images/blocks/leaves_oak_carried.png",
-    "squidcoast/images/blocks/leaves_oak_carried.png"
-  ],
   "leaves_oak_mask.png": [
     "squidcoast/images/blocks/leaves_oak_mask.png"
   ],
@@ -3133,21 +2799,15 @@
     "mycelia/images/blocks/leaves_oak_opaque.png",
     "squidcoast/images/blocks/leaves_oak_opaque.png"
   ],
-  "leaves_oak_outer.png": [
-    "mooncorecaverns/images/blocks/leaves_oak_outer.png",
-    "squidcoast/images/blocks/leaves_oak_outer.png"
-  ],
   "leaves_oak_top.png": [
     "mooncorecaverns/images/blocks/leaves_oak_top.png",
     "squidcoast/images/blocks/leaves_oak_top.png"
   ],
   "leaves_spruce.png": [
     "mooncorecaverns/images/blocks/leaves_spruce.png",
-    "squidcoast/images/blocks/leaves_spruce.png"
-  ],
-  "leaves_spruce_carried.png": [
-    "mooncorecaverns/images/blocks/leaves_spruce_carried.png",
-    "squidcoast/images/blocks/leaves_spruce_carried.png"
+    "mooncorecaverns/images/blocks/leaves_spruce_top.png",
+    "squidcoast/images/blocks/leaves_spruce.png",
+    "squidcoast/images/blocks/leaves_spruce_top.png"
   ],
   "leaves_spruce_opaque.png": [
     "jungle/images/blocks/leaves_spruce_opaque.png",
@@ -3157,10 +2817,6 @@
   "leaves_spruce_outer.png": [
     "mooncorecaverns/images/blocks/leaves_spruce_outer.png",
     "squidcoast/images/blocks/leaves_spruce_outer.png"
-  ],
-  "leaves_spruce_top.png": [
-    "mooncorecaverns/images/blocks/leaves_spruce_top.png",
-    "squidcoast/images/blocks/leaves_spruce_top.png"
   ],
   "lever.png": [
     "bamboobluff/images/blocks/lever.png",
@@ -3190,6 +2846,7 @@
     "mooncorecaverns/images/blocks/log_acacia_top.png",
     "mycelia/images/blocks/log_acacia_top.png",
     "pumpkinpastures/images/blocks/log_acacia_top.png",
+    "pumpkinpastures/images/blocks/log_oak_top.png",
     "redstonemines/images/blocks/log_acacia_top.png",
     "squidcoast/images/blocks/log_acacia_top.png"
   ],
@@ -3472,10 +3129,6 @@
     "obsidianpinnacle/images/blocks/netherrack.png",
     "redstonemines/images/blocks/netherrack.png",
     "squidcoast/images/blocks/netherrack.png"
-  ],
-  "nether_brick.png": [
-    "mooncorecaverns/images/blocks/nether_brick.png",
-    "squidcoast/images/blocks/nether_brick.png"
   ],
   "nether_wart_stage_0.png": [
     "bamboobluff/images/blocks/nether_wart_stage_0.png",
@@ -3807,9 +3460,6 @@
     "soggyswamp/images/blocks/pumpkin_top.png",
     "squidcoast/images/blocks/pumpkin_top.png"
   ],
-  "quartz_block_bottom.png": [
-    "squidcoast/images/blocks/quartz_block_bottom.png"
-  ],
   "iron_block_cacticanyon.png": [
     "cacticanyon/images/blocks/iron_block.png",
     "mooncorecaverns/images/blocks/quartz_block_chiseled.png",
@@ -3862,12 +3512,6 @@
     "pumpkinpastures/images/blocks/quartz_block_lines_top.png",
     "soggyswamp/images/blocks/quartz_block_lines_top.png",
     "squidcoast/images/blocks/quartz_block_lines_top.png"
-  ],
-  "quartz_block_side.png": [
-    "squidcoast/images/blocks/quartz_block_side.png"
-  ],
-  "quartz_block_top.png": [
-    "squidcoast/images/blocks/quartz_block_top.png"
   ],
   "quartz_ore.png": [
     "bamboobluff/images/blocks/quartz_ore.png",
@@ -4015,57 +3659,6 @@
     "soggyswamp/images/blocks/rail_normal_turned.png",
     "squidcoast/images/blocks/rail_normal_turned.png"
   ],
-  "reactor_core_stage_0.png": [
-    "bamboobluff/images/blocks/reactor_core_stage_0.png",
-    "cacticanyon/images/blocks/reactor_core_stage_0.png",
-    "creeperwoods/images/blocks/reactor_core_stage_0.png",
-    "deserttemple/images/blocks/reactor_core_stage_0.png",
-    "dingyjungle/images/blocks/reactor_core_stage_0.png",
-    "highblockhalls/images/blocks/reactor_core_stage_0.png",
-    "jungle/images/blocks/reactor_core_stage_0.png",
-    "mooncorecaverns/images/blocks/reactor_core_stage_0.png",
-    "mycelia/images/blocks/reactor_core_stage_0.png",
-    "obsidianpinnacle/images/blocks/reactor_core_stage_0.png",
-    "overgrowntemple/images/blocks/reactor_core_stage_0.png",
-    "pumpkinpastures/images/blocks/reactor_core_stage_0.png",
-    "redstonemines/images/blocks/reactor_core_stage_0.png",
-    "soggyswamp/images/blocks/reactor_core_stage_0.png",
-    "squidcoast/images/blocks/reactor_core_stage_0.png"
-  ],
-  "reactor_core_stage_1.png": [
-    "bamboobluff/images/blocks/reactor_core_stage_1.png",
-    "cacticanyon/images/blocks/reactor_core_stage_1.png",
-    "creeperwoods/images/blocks/reactor_core_stage_1.png",
-    "deserttemple/images/blocks/reactor_core_stage_1.png",
-    "dingyjungle/images/blocks/reactor_core_stage_1.png",
-    "highblockhalls/images/blocks/reactor_core_stage_1.png",
-    "jungle/images/blocks/reactor_core_stage_1.png",
-    "mooncorecaverns/images/blocks/reactor_core_stage_1.png",
-    "mycelia/images/blocks/reactor_core_stage_1.png",
-    "obsidianpinnacle/images/blocks/reactor_core_stage_1.png",
-    "overgrowntemple/images/blocks/reactor_core_stage_1.png",
-    "pumpkinpastures/images/blocks/reactor_core_stage_1.png",
-    "redstonemines/images/blocks/reactor_core_stage_1.png",
-    "soggyswamp/images/blocks/reactor_core_stage_1.png",
-    "squidcoast/images/blocks/reactor_core_stage_1.png"
-  ],
-  "reactor_core_stage_2.png": [
-    "bamboobluff/images/blocks/reactor_core_stage_2.png",
-    "cacticanyon/images/blocks/reactor_core_stage_2.png",
-    "creeperwoods/images/blocks/reactor_core_stage_2.png",
-    "deserttemple/images/blocks/reactor_core_stage_2.png",
-    "dingyjungle/images/blocks/reactor_core_stage_2.png",
-    "highblockhalls/images/blocks/reactor_core_stage_2.png",
-    "jungle/images/blocks/reactor_core_stage_2.png",
-    "mooncorecaverns/images/blocks/reactor_core_stage_2.png",
-    "mycelia/images/blocks/reactor_core_stage_2.png",
-    "obsidianpinnacle/images/blocks/reactor_core_stage_2.png",
-    "overgrowntemple/images/blocks/reactor_core_stage_2.png",
-    "pumpkinpastures/images/blocks/reactor_core_stage_2.png",
-    "redstonemines/images/blocks/reactor_core_stage_2.png",
-    "soggyswamp/images/blocks/reactor_core_stage_2.png",
-    "squidcoast/images/blocks/reactor_core_stage_2.png"
-  ],
   "redstone_block.png": [
     "bamboobluff/images/blocks/redstone_block.png",
     "cacticanyon/images/blocks/redstone_block.png",
@@ -4144,19 +3737,17 @@
     "deserttemple/images/blocks/redstone_lamp_on.png",
     "highblockhalls/images/blocks/redstone_lamp_on.png",
     "jungle/images/blocks/redstone_lamp_on.png",
+    "jungle/images/blocks/redstone_lamp_on_emissive.png",
     "mooncorecaverns/images/blocks/redstone_lamp_on.png",
+    "mooncorecaverns/images/blocks/redstone_lamp_on_emissive.png",
     "mycelia/images/blocks/redstone_lamp_on.png",
+    "mycelia/images/blocks/redstone_lamp_on_emissive.png",
     "obsidianpinnacle/images/blocks/redstone_lamp_on.png",
     "pumpkinpastures/images/blocks/redstone_lamp_on.png",
+    "pumpkinpastures/images/blocks/redstone_lamp_on_emissive.png",
     "redstonemines/images/blocks/redstone_lamp_on.png",
     "soggyswamp/images/blocks/redstone_lamp_on.png",
-    "squidcoast/images/blocks/redstone_lamp_on.png"
-  ],
-  "redstone_lamp_on_emissive.png": [
-    "jungle/images/blocks/redstone_lamp_on_emissive.png",
-    "mooncorecaverns/images/blocks/redstone_lamp_on_emissive.png",
-    "mycelia/images/blocks/redstone_lamp_on_emissive.png",
-    "pumpkinpastures/images/blocks/redstone_lamp_on_emissive.png",
+    "squidcoast/images/blocks/redstone_lamp_on.png",
     "squidcoast/images/blocks/redstone_lamp_on_emissive.png"
   ],
   "redstone_ore.png": [
@@ -4228,7 +3819,8 @@
     "squidcoast/images/blocks/red_sand.png"
   ],
   "red_sandstone_bottom.png": [
-    "squidcoast/images/blocks/red_sandstone_bottom.png"
+    "squidcoast/images/blocks/red_sandstone_bottom.png",
+    "squidcoast/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_carved.png": [
     "cacticanyon/images/blocks/red_sandstone_carved.png",
@@ -4238,9 +3830,6 @@
     "redstonemines/images/blocks/red_sandstone_carved.png",
     "squidcoast/images/blocks/red_sandstone_carved.png"
   ],
-  "red_sandstone_normal.png": [
-    "squidcoast/images/blocks/red_sandstone_normal.png"
-  ],
   "red_sandstone_smooth.png": [
     "cacticanyon/images/blocks/red_sandstone_smooth.png",
     "highblockhalls/images/blocks/red_sandstone_smooth.png",
@@ -4248,10 +3837,6 @@
     "obsidianpinnacle/images/blocks/red_sandstone_smooth.png",
     "redstonemines/images/blocks/red_sandstone_smooth.png",
     "squidcoast/images/blocks/red_sandstone_smooth.png"
-  ],
-  "red_sandstone_top.png": [
-    "mooncorecaverns/images/blocks/red_sandstone_top.png",
-    "squidcoast/images/blocks/red_sandstone_top.png"
   ],
   "reeds.png": [
     "cacticanyon/images/blocks/reeds.png",
@@ -4301,8 +3886,10 @@
     "soggyswamp/images/blocks/repeater_on.png",
     "squidcoast/images/blocks/repeater_on.png"
   ],
-  "sand.png": [
+  "hardened_clay_stained_magenta_deserttemple.png": [
+    "deserttemple/images/blocks/hardened_clay_stained_magenta.png",
     "deserttemple/images/blocks/sand.png",
+    "deserttemple/images/blocks/snow.png",
     "highblockhalls/images/blocks/sand.png",
     "mooncorecaverns/images/blocks/sand.png",
     "mycelia/images/blocks/sand.png",
@@ -4399,7 +3986,9 @@
     "squidcoast/images/blocks/skull_path_side.png"
   ],
   "skull_path_top.png": [
-    "squidcoast/images/blocks/skull_path_top.png"
+    "mooncorecaverns/images/blocks/stonefloor6.png",
+    "squidcoast/images/blocks/skull_path_top.png",
+    "squidcoast/images/blocks/stonefloor6.png"
   ],
   "slime.png": [
     "bamboobluff/images/blocks/slime.png",
@@ -4487,40 +4076,6 @@
     "jungle/images/blocks/stonebrick_mossy.png",
     "squidcoast/images/blocks/stonebrick_mossy.png"
   ],
-  "stonecutter_bottom.png": [
-    "bamboobluff/images/blocks/stonecutter_bottom.png",
-    "cacticanyon/images/blocks/stonecutter_bottom.png",
-    "creeperwoods/images/blocks/stonecutter_bottom.png",
-    "deserttemple/images/blocks/stonecutter_bottom.png",
-    "dingyjungle/images/blocks/stonecutter_bottom.png",
-    "highblockhalls/images/blocks/stonecutter_bottom.png",
-    "jungle/images/blocks/stonecutter_bottom.png",
-    "mooncorecaverns/images/blocks/stonecutter_bottom.png",
-    "mycelia/images/blocks/stonecutter_bottom.png",
-    "obsidianpinnacle/images/blocks/stonecutter_bottom.png",
-    "overgrowntemple/images/blocks/stonecutter_bottom.png",
-    "pumpkinpastures/images/blocks/stonecutter_bottom.png",
-    "redstonemines/images/blocks/stonecutter_bottom.png",
-    "soggyswamp/images/blocks/stonecutter_bottom.png",
-    "squidcoast/images/blocks/stonecutter_bottom.png"
-  ],
-  "stonecutter_other_side.png": [
-    "bamboobluff/images/blocks/stonecutter_other_side.png",
-    "cacticanyon/images/blocks/stonecutter_other_side.png",
-    "creeperwoods/images/blocks/stonecutter_other_side.png",
-    "deserttemple/images/blocks/stonecutter_other_side.png",
-    "dingyjungle/images/blocks/stonecutter_other_side.png",
-    "highblockhalls/images/blocks/stonecutter_other_side.png",
-    "jungle/images/blocks/stonecutter_other_side.png",
-    "mooncorecaverns/images/blocks/stonecutter_other_side.png",
-    "mycelia/images/blocks/stonecutter_other_side.png",
-    "obsidianpinnacle/images/blocks/stonecutter_other_side.png",
-    "overgrowntemple/images/blocks/stonecutter_other_side.png",
-    "pumpkinpastures/images/blocks/stonecutter_other_side.png",
-    "redstonemines/images/blocks/stonecutter_other_side.png",
-    "soggyswamp/images/blocks/stonecutter_other_side.png",
-    "squidcoast/images/blocks/stonecutter_other_side.png"
-  ],
   "stonecutter_side.png": [
     "bamboobluff/images/blocks/stonecutter_side.png",
     "cacticanyon/images/blocks/stonecutter_side.png",
@@ -4555,9 +4110,12 @@
     "soggyswamp/images/blocks/stonecutter_top.png",
     "squidcoast/images/blocks/stonecutter_top.png"
   ],
-  "stonefloor1.png": [
-    "mooncorecaverns/images/blocks/stonefloor1.png",
-    "squidcoast/images/blocks/stonefloor1.png"
+  "stone_diorite_smooth_deserttemple.png": [
+    "creeperwoods/images/blocks/stone_diorite_smooth.png",
+    "deserttemple/images/blocks/stone_diorite_smooth.png",
+    "mycelia/images/blocks/stone_diorite_smooth.png",
+    "pumpkinpastures/images/blocks/stone_diorite_smooth.png",
+    "soggyswamp/images/blocks/stone_diorite_smooth.png"
   ],
   "stonefloor2.png": [
     "mooncorecaverns/images/blocks/stonefloor2.png",
@@ -4575,10 +4133,6 @@
     "mooncorecaverns/images/blocks/stonefloor5.png",
     "squidcoast/images/blocks/stonefloor5.png"
   ],
-  "stonefloor6.png": [
-    "mooncorecaverns/images/blocks/stonefloor6.png",
-    "squidcoast/images/blocks/stonefloor6.png"
-  ],
   "stonefloor7.png": [
     "mooncorecaverns/images/blocks/stonefloor7.png",
     "squidcoast/images/blocks/stonefloor7.png"
@@ -4590,11 +4144,15 @@
   "stone_andesite.png": [
     "squidcoast/images/blocks/stone_andesite.png"
   ],
-  "stone_andesite_smooth.png": [
-    "squidcoast/images/blocks/stone_andesite_smooth.png"
-  ],
-  "stone_diorite.png": [
-    "squidcoast/images/blocks/stone_diorite.png"
+  "sandstone_smooth_deserttemple.png": [
+    "bamboobluff/images/blocks/sandstone_smooth.png",
+    "creeperwoods/images/blocks/sandstone_smooth.png",
+    "deserttemple/images/blocks/sandstone_smooth.png",
+    "dingyjungle/images/blocks/sandstone_smooth.png",
+    "mycelia/images/blocks/sandstone_smooth.png",
+    "overgrowntemple/images/blocks/sandstone_smooth.png",
+    "pumpkinpastures/images/blocks/sandstone_smooth.png",
+    "soggyswamp/images/blocks/sandstone_smooth.png"
   ],
   "stone_diorite_smooth.png": [
     "squidcoast/images/blocks/stone_diorite_smooth.png"
@@ -4679,19 +4237,6 @@
     "soggyswamp/images/blocks/stone_gradient_14.png",
     "squidcoast/images/blocks/stone_gradient_14.png"
   ],
-  "stone_gradient_15.png": [
-    "bamboobluff/images/blocks/stone_gradient_15.png",
-    "cacticanyon/images/blocks/stone_gradient_15.png",
-    "dingyjungle/images/blocks/stone_gradient_15.png",
-    "jungle/images/blocks/stone_gradient_15.png",
-    "mooncorecaverns/images/blocks/stone_gradient_15.png",
-    "mycelia/images/blocks/stone_gradient_15.png",
-    "overgrowntemple/images/blocks/stone_gradient_15.png",
-    "pumpkinpastures/images/blocks/stone_gradient_15.png",
-    "redstonemines/images/blocks/stone_gradient_15.png",
-    "soggyswamp/images/blocks/stone_gradient_15.png",
-    "squidcoast/images/blocks/stone_gradient_15.png"
-  ],
   "stone_gradient_2.png": [
     "jungle/images/blocks/stone_gradient_2.png",
     "mooncorecaverns/images/blocks/stone_gradient_2.png",
@@ -4764,10 +4309,14 @@
     "soggyswamp/images/blocks/stone_gradient_9.png",
     "squidcoast/images/blocks/stone_gradient_9.png"
   ],
-  "stone_granite.png": [
-    "squidcoast/images/blocks/stone_granite.png"
-  ],
   "stone_granite_smooth.png": [
+    "creeperwoods/images/blocks/stonefloor4.png",
+    "deserttemple/images/blocks/stonefloor4.png",
+    "highblockhalls/images/blocks/stonefloor4.png",
+    "mycelia/images/blocks/stonefloor4.png",
+    "obsidianpinnacle/images/blocks/stonefloor4.png",
+    "pumpkinpastures/images/blocks/stonefloor4.png",
+    "soggyswamp/images/blocks/stonefloor4.png",
     "squidcoast/images/blocks/stone_granite_smooth.png"
   ],
   "stone_path_side.png": [
@@ -4784,34 +4333,9 @@
     "soggyswamp/images/blocks/stone_slab_side.png",
     "squidcoast/images/blocks/stone_slab_side.png"
   ],
-  "stone_slab_top.png": [
-    "creeperwoods/images/blocks/stone_slab_top.png",
-    "jungle/images/blocks/stone_slab_top.png",
-    "mycelia/images/blocks/stone_slab_top.png",
-    "pumpkinpastures/images/blocks/stone_slab_top.png",
-    "soggyswamp/images/blocks/stone_slab_top.png",
-    "squidcoast/images/blocks/stone_slab_top.png"
-  ],
   "tallgrass.png": [
     "mooncorecaverns/images/blocks/tallgrass.png",
     "squidcoast/images/blocks/tallgrass.png"
-  ],
-  "tallgrass_carried.png": [
-    "bamboobluff/images/blocks/tallgrass_carried.png",
-    "cacticanyon/images/blocks/tallgrass_carried.png",
-    "creeperwoods/images/blocks/tallgrass_carried.png",
-    "deserttemple/images/blocks/tallgrass_carried.png",
-    "dingyjungle/images/blocks/tallgrass_carried.png",
-    "highblockhalls/images/blocks/tallgrass_carried.png",
-    "jungle/images/blocks/tallgrass_carried.png",
-    "mooncorecaverns/images/blocks/tallgrass_carried.png",
-    "mycelia/images/blocks/tallgrass_carried.png",
-    "obsidianpinnacle/images/blocks/tallgrass_carried.png",
-    "overgrowntemple/images/blocks/tallgrass_carried.png",
-    "pumpkinpastures/images/blocks/tallgrass_carried.png",
-    "redstonemines/images/blocks/tallgrass_carried.png",
-    "soggyswamp/images/blocks/tallgrass_carried.png",
-    "squidcoast/images/blocks/tallgrass_carried.png"
   ],
   "tnt_bottom.png": [
     "bamboobluff/images/blocks/tnt_bottom.png",
@@ -4899,17 +4423,23 @@
     "squidcoast/images/blocks/torch_on_emissive.png"
   ],
   "transparent.png": [
+    "bamboobluff/images/blocks/glass_pane_top.png",
+    "bamboobluff/images/blocks/jungle_customTiles1_168.png",
     "cacticanyon/images/blocks/transparent.png",
     "creeperwoods/images/blocks/transparent.png",
     "deserttemple/images/blocks/transparent.png",
+    "dingyjungle/images/blocks/glass_pane_top.png",
+    "dingyjungle/images/blocks/jungle_customTiles1_168.png",
     "highblockhalls/images/blocks/transparent.png",
     "jungle/images/blocks/transparent.png",
     "mooncorecaverns/images/blocks/transparent.png",
     "mycelia/images/blocks/transparent.png",
     "obsidianpinnacle/images/blocks/transparent.png",
+    "overgrowntemple/images/blocks/jungle_customTiles1_168.png",
     "overgrowntemple/images/blocks/transparent.png",
     "pumpkinpastures/images/blocks/transparent.png",
     "redstonemines/images/blocks/transparent.png",
+    "soggyswamp/images/blocks/sandstone.png",
     "soggyswamp/images/blocks/transparent.png",
     "squidcoast/images/blocks/transparent.png"
   ],
@@ -4969,23 +4499,6 @@
     "mooncorecaverns/images/blocks/vine.png",
     "mycelia/images/blocks/vine.png",
     "squidcoast/images/blocks/vine.png"
-  ],
-  "vine_carried.png": [
-    "bamboobluff/images/blocks/vine_carried.png",
-    "cacticanyon/images/blocks/vine_carried.png",
-    "creeperwoods/images/blocks/vine_carried.png",
-    "deserttemple/images/blocks/vine_carried.png",
-    "dingyjungle/images/blocks/vine_carried.png",
-    "highblockhalls/images/blocks/vine_carried.png",
-    "jungle/images/blocks/vine_carried.png",
-    "mooncorecaverns/images/blocks/vine_carried.png",
-    "mycelia/images/blocks/vine_carried.png",
-    "obsidianpinnacle/images/blocks/vine_carried.png",
-    "overgrowntemple/images/blocks/vine_carried.png",
-    "pumpkinpastures/images/blocks/vine_carried.png",
-    "redstonemines/images/blocks/vine_carried.png",
-    "soggyswamp/images/blocks/vine_carried.png",
-    "squidcoast/images/blocks/vine_carried.png"
   ],
   "water.png": [
     "bamboobluff/images/blocks/water.png",
@@ -5400,21 +4913,19 @@
     "creeperwoods/images/blocks/bookshelf.png",
     "deserttemple/images/blocks/bookshelf.png",
     "dingyjungle/images/blocks/bookshelf.png",
+    "highblockhalls/images/blocks/custom_4.png",
     "jungle/images/blocks/bookshelf.png",
     "mycelia/images/blocks/bookshelf.png",
+    "obsidianpinnacle/images/blocks/custom_4.png",
     "overgrowntemple/images/blocks/bookshelf.png",
     "pumpkinpastures/images/blocks/bookshelf.png",
+    "redstonemines/images/blocks/custom_4.png",
     "soggyswamp/images/blocks/bookshelf.png"
   ],
   "brick_bamboobluff.png": [
     "bamboobluff/images/blocks/brick.png",
     "dingyjungle/images/blocks/brick.png",
     "overgrowntemple/images/blocks/brick.png"
-  ],
-  "carried_waterlily_bamboobluff.png": [
-    "bamboobluff/images/blocks/carried_waterlily.png",
-    "dingyjungle/images/blocks/carried_waterlily.png",
-    "overgrowntemple/images/blocks/carried_waterlily.png"
   ],
   "clay_bamboobluff.png": [
     "bamboobluff/images/blocks/clay.png"
@@ -5437,13 +4948,25 @@
   ],
   "cobblestone_bamboobluff.png": [
     "bamboobluff/images/blocks/cobblestone.png",
+    "bamboobluff/images/blocks/dirt.png",
+    "bamboobluff/images/blocks/snow.png",
     "dingyjungle/images/blocks/cobblestone.png",
-    "overgrowntemple/images/blocks/cobblestone.png"
+    "dingyjungle/images/blocks/dirt.png",
+    "dingyjungle/images/blocks/snow.png",
+    "overgrowntemple/images/blocks/cobblestone.png",
+    "overgrowntemple/images/blocks/dirt.png",
+    "overgrowntemple/images/blocks/snow.png"
   ],
   "cobblestone_mossy_bamboobluff.png": [
     "bamboobluff/images/blocks/cobblestone_mossy.png",
+    "bamboobluff/images/blocks/sandstone_normal.png",
+    "bamboobluff/images/blocks/sandstone_top.png",
     "dingyjungle/images/blocks/cobblestone_mossy.png",
-    "overgrowntemple/images/blocks/cobblestone_mossy.png"
+    "dingyjungle/images/blocks/sandstone_normal.png",
+    "dingyjungle/images/blocks/sandstone_top.png",
+    "overgrowntemple/images/blocks/cobblestone_mossy.png",
+    "overgrowntemple/images/blocks/sandstone_normal.png",
+    "overgrowntemple/images/blocks/sandstone_top.png"
   ],
   "crafting_table_front_cacticanyon.png": [
     "bamboobluff/images/blocks/crafting_table_front.png",
@@ -5535,8 +5058,11 @@
   ],
   "custom_2_bamboobluff.png": [
     "bamboobluff/images/blocks/custom_2.png",
+    "bamboobluff/images/blocks/stonebrick.png",
     "dingyjungle/images/blocks/custom_2.png",
-    "overgrowntemple/images/blocks/custom_2.png"
+    "dingyjungle/images/blocks/stonebrick.png",
+    "overgrowntemple/images/blocks/custom_2.png",
+    "overgrowntemple/images/blocks/stonebrick.png"
   ],
   "custom_3_bamboobluff.png": [
     "bamboobluff/images/blocks/custom_3.png",
@@ -5573,67 +5099,58 @@
     "dingyjungle/images/blocks/custom_9.png",
     "overgrowntemple/images/blocks/custom_9.png"
   ],
-  "diamond_block_deserttemple.png": [
+  "custom_1_highblockhalls.png": [
     "bamboobluff/images/blocks/diamond_block.png",
     "creeperwoods/images/blocks/diamond_block.png",
     "deserttemple/images/blocks/diamond_block.png",
     "dingyjungle/images/blocks/diamond_block.png",
+    "highblockhalls/images/blocks/custom_1.png",
     "jungle/images/blocks/diamond_block.png",
     "mycelia/images/blocks/diamond_block.png",
+    "obsidianpinnacle/images/blocks/custom_1.png",
     "overgrowntemple/images/blocks/diamond_block.png",
     "pumpkinpastures/images/blocks/diamond_block.png",
+    "redstonemines/images/blocks/custom_1.png",
     "soggyswamp/images/blocks/diamond_block.png"
   ],
   "diamond_ore_bamboobluff.png": [
     "bamboobluff/images/blocks/diamond_ore.png"
   ],
-  "dirt_bamboobluff.png": [
-    "bamboobluff/images/blocks/dirt.png",
-    "dingyjungle/images/blocks/dirt.png",
-    "overgrowntemple/images/blocks/dirt.png"
-  ],
-  "dirt_path_top-100.png": [
+  "custom_5_mooncorecaverns.png": [
+    "bamboobluff/images/blocks/dirt_path_top-94.png",
+    "bamboobluff/images/blocks/dirt_path_top-95.png",
+    "bamboobluff/images/blocks/dirt_path_top-97.png",
+    "bamboobluff/images/blocks/dirt_path_top-98.png",
+    "bamboobluff/images/blocks/dirt_path_top-99.png",
     "bamboobluff/images/blocks/dirt_path_top-100.png",
-    "dingyjungle/images/blocks/dirt_path_top-100.png",
-    "mycelia/images/blocks/dirt_path_top-100.png",
-    "overgrowntemple/images/blocks/dirt_path_top-100.png"
-  ],
-  "dirt_path_top-101.png": [
     "bamboobluff/images/blocks/dirt_path_top-101.png",
+    "dingyjungle/images/blocks/dirt_path_top-94.png",
+    "dingyjungle/images/blocks/dirt_path_top-95.png",
+    "dingyjungle/images/blocks/dirt_path_top-97.png",
+    "dingyjungle/images/blocks/dirt_path_top-98.png",
+    "dingyjungle/images/blocks/dirt_path_top-99.png",
+    "dingyjungle/images/blocks/dirt_path_top-100.png",
     "dingyjungle/images/blocks/dirt_path_top-101.png",
-    "overgrowntemple/images/blocks/dirt_path_top-101.png"
+    "mooncorecaverns/images/blocks/custom_5.png",
+    "mycelia/images/blocks/custom_5.png",
+    "mycelia/images/blocks/dirt_path_top-100.png",
+    "mycelia/images/blocks/grass_path_top.png",
+    "overgrowntemple/images/blocks/dirt_path_top-94.png",
+    "overgrowntemple/images/blocks/dirt_path_top-95.png",
+    "overgrowntemple/images/blocks/dirt_path_top-97.png",
+    "overgrowntemple/images/blocks/dirt_path_top-98.png",
+    "overgrowntemple/images/blocks/dirt_path_top-99.png",
+    "overgrowntemple/images/blocks/dirt_path_top-100.png",
+    "overgrowntemple/images/blocks/dirt_path_top-101.png",
+    "pumpkinpastures/images/blocks/custom_5.png",
+    "pumpkinpastures/images/blocks/dirt_path_top.png",
+    "squidcoast/images/blocks/dirt_path_top.png"
   ],
   "dirt_path_top-88.png": [
     "bamboobluff/images/blocks/dirt_path_top-88.png",
     "dingyjungle/images/blocks/dirt_path_top-88.png",
     "jungle/images/blocks/dirt_path_top-88.png",
     "overgrowntemple/images/blocks/dirt_path_top-88.png"
-  ],
-  "dirt_path_top-95.png": [
-    "bamboobluff/images/blocks/dirt_path_top-95.png",
-    "dingyjungle/images/blocks/dirt_path_top-95.png",
-    "overgrowntemple/images/blocks/dirt_path_top-95.png"
-  ],
-  "dirt_path_top-97.png": [
-    "bamboobluff/images/blocks/dirt_path_top-97.png",
-    "dingyjungle/images/blocks/dirt_path_top-97.png",
-    "overgrowntemple/images/blocks/dirt_path_top-97.png"
-  ],
-  "dirt_path_top-98.png": [
-    "bamboobluff/images/blocks/dirt_path_top-98.png",
-    "dingyjungle/images/blocks/dirt_path_top-98.png",
-    "overgrowntemple/images/blocks/dirt_path_top-98.png"
-  ],
-  "dirt_path_top-99.png": [
-    "bamboobluff/images/blocks/dirt_path_top-99.png",
-    "dingyjungle/images/blocks/dirt_path_top-99.png",
-    "overgrowntemple/images/blocks/dirt_path_top-99.png"
-  ],
-  "dirt_path_top_mycelia.png": [
-    "bamboobluff/images/blocks/dirt_path_top.png",
-    "dingyjungle/images/blocks/dirt_path_top.png",
-    "mycelia/images/blocks/dirt_path_top.png",
-    "overgrowntemple/images/blocks/dirt_path_top.png"
   ],
   "dirt_podzol_side_bamboobluff.png": [
     "bamboobluff/images/blocks/dirt_podzol_side.png",
@@ -5642,8 +5159,11 @@
   ],
   "dirt_podzol_top_bamboobluff.png": [
     "bamboobluff/images/blocks/dirt_podzol_top.png",
+    "bamboobluff/images/blocks/netherrack.png",
     "dingyjungle/images/blocks/dirt_podzol_top.png",
-    "overgrowntemple/images/blocks/dirt_podzol_top.png"
+    "dingyjungle/images/blocks/netherrack.png",
+    "overgrowntemple/images/blocks/dirt_podzol_top.png",
+    "overgrowntemple/images/blocks/netherrack.png"
   ],
   "double_plant_fern_bottom_bamboobluff.png": [
     "bamboobluff/images/blocks/double_plant_fern_bottom.png",
@@ -5758,19 +5278,18 @@
     "bamboobluff/images/blocks/glass.png",
     "dingyjungle/images/blocks/glass.png"
   ],
-  "glass_pane_top_bamboobluff.png": [
-    "bamboobluff/images/blocks/glass_pane_top.png",
-    "dingyjungle/images/blocks/glass_pane_top.png"
-  ],
-  "gold_block_deserttemple.png": [
+  "custom_3_highblockhalls.png": [
     "bamboobluff/images/blocks/gold_block.png",
     "creeperwoods/images/blocks/gold_block.png",
     "deserttemple/images/blocks/gold_block.png",
     "dingyjungle/images/blocks/gold_block.png",
+    "highblockhalls/images/blocks/custom_3.png",
     "jungle/images/blocks/gold_block.png",
     "mycelia/images/blocks/gold_block.png",
+    "obsidianpinnacle/images/blocks/custom_3.png",
     "overgrowntemple/images/blocks/gold_block.png",
     "pumpkinpastures/images/blocks/gold_block.png",
+    "redstonemines/images/blocks/custom_3.png",
     "soggyswamp/images/blocks/gold_block.png"
   ],
   "gold_ore_bamboobluff.png": [
@@ -5782,48 +5301,11 @@
     "dingyjungle/images/blocks/gold_ore_emissive.png",
     "overgrowntemple/images/blocks/gold_ore_emissive.png"
   ],
-  "grass_path_side_mycelia.png": [
-    "bamboobluff/images/blocks/grass_path_side.png",
-    "dingyjungle/images/blocks/grass_path_side.png",
-    "mycelia/images/blocks/grass_path_side.png",
-    "overgrowntemple/images/blocks/grass_path_side.png"
-  ],
   "grass_path_top-86.png": [
     "bamboobluff/images/blocks/grass_path_top-86.png",
     "dingyjungle/images/blocks/grass_path_top-86.png",
     "jungle/images/blocks/grass_path_top-86.png",
     "overgrowntemple/images/blocks/grass_path_top-86.png"
-  ],
-  "grass_path_top-93.png": [
-    "bamboobluff/images/blocks/grass_path_top-93.png",
-    "dingyjungle/images/blocks/grass_path_top-93.png",
-    "overgrowntemple/images/blocks/grass_path_top-93.png"
-  ],
-  "grass_path_top-95.png": [
-    "bamboobluff/images/blocks/grass_path_top-95.png",
-    "dingyjungle/images/blocks/grass_path_top-95.png",
-    "overgrowntemple/images/blocks/grass_path_top-95.png"
-  ],
-  "grass_path_top-96.png": [
-    "bamboobluff/images/blocks/grass_path_top-96.png",
-    "dingyjungle/images/blocks/grass_path_top-96.png",
-    "overgrowntemple/images/blocks/grass_path_top-96.png"
-  ],
-  "grass_path_top-97.png": [
-    "bamboobluff/images/blocks/grass_path_top-97.png",
-    "dingyjungle/images/blocks/grass_path_top-97.png",
-    "overgrowntemple/images/blocks/grass_path_top-97.png"
-  ],
-  "grass_path_top-98.png": [
-    "bamboobluff/images/blocks/grass_path_top-98.png",
-    "dingyjungle/images/blocks/grass_path_top-98.png",
-    "mycelia/images/blocks/grass_path_top-98.png",
-    "overgrowntemple/images/blocks/grass_path_top-98.png"
-  ],
-  "grass_path_top-99.png": [
-    "bamboobluff/images/blocks/grass_path_top-99.png",
-    "dingyjungle/images/blocks/grass_path_top-99.png",
-    "overgrowntemple/images/blocks/grass_path_top-99.png"
   ],
   "grass_path_top_bamboobluff.png": [
     "bamboobluff/images/blocks/grass_path_top.png",
@@ -5832,17 +5314,13 @@
   ],
   "grass_side-27.png": [
     "bamboobluff/images/blocks/grass_side-27.png",
-    "dingyjungle/images/blocks/grass_side-27.png",
-    "overgrowntemple/images/blocks/grass_side-27.png"
-  ],
-  "grass_side-28.png": [
     "bamboobluff/images/blocks/grass_side-28.png",
-    "dingyjungle/images/blocks/grass_side-28.png",
-    "overgrowntemple/images/blocks/grass_side-28.png"
-  ],
-  "grass_side-29.png": [
     "bamboobluff/images/blocks/grass_side-29.png",
+    "dingyjungle/images/blocks/grass_side-27.png",
+    "dingyjungle/images/blocks/grass_side-28.png",
     "dingyjungle/images/blocks/grass_side-29.png",
+    "overgrowntemple/images/blocks/grass_side-27.png",
+    "overgrowntemple/images/blocks/grass_side-28.png",
     "overgrowntemple/images/blocks/grass_side-29.png"
   ],
   "grass_side_bamboobluff.png": [
@@ -5850,31 +5328,17 @@
     "dingyjungle/images/blocks/grass_side.png",
     "overgrowntemple/images/blocks/grass_side.png"
   ],
-  "grass_side_carried_cacticanyon.png": [
-    "bamboobluff/images/blocks/grass_side_carried.png",
-    "cacticanyon/images/blocks/grass_side_carried.png",
-    "creeperwoods/images/blocks/grass_side_carried.png",
-    "deserttemple/images/blocks/grass_side_carried.png",
-    "dingyjungle/images/blocks/grass_side_carried.png",
-    "jungle/images/blocks/grass_side_carried.png",
-    "mycelia/images/blocks/grass_side_carried.png",
-    "overgrowntemple/images/blocks/grass_side_carried.png",
-    "pumpkinpastures/images/blocks/grass_side_carried.png",
-    "soggyswamp/images/blocks/grass_side_carried.png"
-  ],
-  "grass_top-19.png": [
+  "mycelium_top_cacticanyon.png": [
     "bamboobluff/images/blocks/grass_top-19.png",
-    "dingyjungle/images/blocks/grass_top-19.png",
-    "overgrowntemple/images/blocks/grass_top-19.png"
-  ],
-  "grass_top-20.png": [
     "bamboobluff/images/blocks/grass_top-20.png",
-    "dingyjungle/images/blocks/grass_top-20.png",
-    "overgrowntemple/images/blocks/grass_top-20.png"
-  ],
-  "grass_top-21.png": [
     "bamboobluff/images/blocks/grass_top-21.png",
+    "cacticanyon/images/blocks/mycelium_top.png",
+    "cacticanyon/images/blocks/stone_gradient_0.png",
+    "dingyjungle/images/blocks/grass_top-19.png",
+    "dingyjungle/images/blocks/grass_top-20.png",
     "dingyjungle/images/blocks/grass_top-21.png",
+    "overgrowntemple/images/blocks/grass_top-19.png",
+    "overgrowntemple/images/blocks/grass_top-20.png",
     "overgrowntemple/images/blocks/grass_top-21.png"
   ],
   "grass_top_bamboobluff.png": [
@@ -5884,10 +5348,15 @@
   ],
   "gravel_pumpkinpastures.png": [
     "bamboobluff/images/blocks/gravel.png",
+    "bamboobluff/images/blocks/gravel_path_top.png",
     "dingyjungle/images/blocks/gravel.png",
+    "dingyjungle/images/blocks/gravel_path_top.png",
     "mycelia/images/blocks/gravel.png",
+    "mycelia/images/blocks/gravel_path_top.png",
     "overgrowntemple/images/blocks/gravel.png",
-    "pumpkinpastures/images/blocks/gravel.png"
+    "overgrowntemple/images/blocks/gravel_path_top.png",
+    "pumpkinpastures/images/blocks/gravel.png",
+    "pumpkinpastures/images/blocks/gravel_path_top.png"
   ],
   "gravel_path_side_pumpkinpastures.png": [
     "bamboobluff/images/blocks/gravel_path_side.png",
@@ -5895,13 +5364,6 @@
     "mycelia/images/blocks/gravel_path_side.png",
     "overgrowntemple/images/blocks/gravel_path_side.png",
     "pumpkinpastures/images/blocks/gravel_path_side.png"
-  ],
-  "gravel_path_top_pumpkinpastures.png": [
-    "bamboobluff/images/blocks/gravel_path_top.png",
-    "dingyjungle/images/blocks/gravel_path_top.png",
-    "mycelia/images/blocks/gravel_path_top.png",
-    "overgrowntemple/images/blocks/gravel_path_top.png",
-    "pumpkinpastures/images/blocks/gravel_path_top.png"
   ],
   "hardened_clay_bamboobluff.png": [
     "bamboobluff/images/blocks/hardened_clay.png"
@@ -5971,8 +5433,13 @@
   ],
   "hardened_clay_stained_purple_bamboobluff.png": [
     "bamboobluff/images/blocks/hardened_clay_stained_purple.png",
+    "bamboobluff/images/blocks/planks_birch.png",
     "dingyjungle/images/blocks/hardened_clay_stained_purple.png",
-    "overgrowntemple/images/blocks/hardened_clay_stained_purple.png"
+    "dingyjungle/images/blocks/log_acacia_top.png",
+    "dingyjungle/images/blocks/planks_birch.png",
+    "overgrowntemple/images/blocks/hardened_clay_stained_purple.png",
+    "overgrowntemple/images/blocks/log_acacia_top.png",
+    "overgrowntemple/images/blocks/planks_birch.png"
   ],
   "hardened_clay_stained_silver_bamboobluff.png": [
     "bamboobluff/images/blocks/hardened_clay_stained_silver.png",
@@ -6018,11 +5485,6 @@
     "dingyjungle/images/blocks/jungle_customTiles1_142.png",
     "overgrowntemple/images/blocks/jungle_customTiles1_142.png"
   ],
-  "jungle_customtiles1_168.png": [
-    "bamboobluff/images/blocks/jungle_customTiles1_168.png",
-    "dingyjungle/images/blocks/jungle_customTiles1_168.png",
-    "overgrowntemple/images/blocks/jungle_customTiles1_168.png"
-  ],
   "lapis_block_cacticanyon.png": [
     "bamboobluff/images/blocks/lapis_block.png",
     "cacticanyon/images/blocks/lapis_block.png",
@@ -6044,12 +5506,10 @@
   ],
   "leaves_acacia_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_acacia.png",
-    "dingyjungle/images/blocks/leaves_acacia.png",
-    "overgrowntemple/images/blocks/leaves_acacia.png"
-  ],
-  "leaves_acacia_carried_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_acacia_carried.png",
+    "dingyjungle/images/blocks/leaves_acacia.png",
     "dingyjungle/images/blocks/leaves_acacia_carried.png",
+    "overgrowntemple/images/blocks/leaves_acacia.png",
     "overgrowntemple/images/blocks/leaves_acacia_carried.png"
   ],
   "leaves_acacia_opaque_bamboobluff.png": [
@@ -6059,12 +5519,10 @@
   ],
   "leaves_big_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_big_oak.png",
-    "dingyjungle/images/blocks/leaves_big_oak.png",
-    "overgrowntemple/images/blocks/leaves_big_oak.png"
-  ],
-  "leaves_big_oak_carried_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_big_oak_carried.png",
+    "dingyjungle/images/blocks/leaves_big_oak.png",
     "dingyjungle/images/blocks/leaves_big_oak_carried.png",
+    "overgrowntemple/images/blocks/leaves_big_oak.png",
     "overgrowntemple/images/blocks/leaves_big_oak_carried.png"
   ],
   "leaves_big_oak_opaque_bamboobluff.png": [
@@ -6073,9 +5531,7 @@
     "overgrowntemple/images/blocks/leaves_big_oak_opaque.png"
   ],
   "leaves_birch_bamboobluff.png": [
-    "bamboobluff/images/blocks/leaves_birch.png"
-  ],
-  "leaves_birch_carried_bamboobluff.png": [
+    "bamboobluff/images/blocks/leaves_birch.png",
     "bamboobluff/images/blocks/leaves_birch_carried.png"
   ],
   "leaves_birch_opaque_bamboobluff.png": [
@@ -6085,10 +5541,6 @@
     "bamboobluff/images/blocks/leaves_birch_outer.png",
     "dingyjungle/images/blocks/leaves_birch_outer.png",
     "overgrowntemple/images/blocks/leaves_birch_outer.png"
-  ],
-  "leaves_jungle_carried_bamboobluff.png": [
-    "bamboobluff/images/blocks/leaves_jungle_carried.png",
-    "overgrowntemple/images/blocks/leaves_jungle_carried.png"
   ],
   "leaves_jungle_opaque_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_jungle_opaque.png",
@@ -6102,12 +5554,10 @@
   ],
   "leaves_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_oak.png",
-    "dingyjungle/images/blocks/leaves_oak.png",
-    "overgrowntemple/images/blocks/leaves_oak.png"
-  ],
-  "leaves_oak_carried_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_oak_carried.png",
+    "dingyjungle/images/blocks/leaves_oak.png",
     "dingyjungle/images/blocks/leaves_oak_carried.png",
+    "overgrowntemple/images/blocks/leaves_oak.png",
     "overgrowntemple/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_oak_opaque_bamboobluff.png": [
@@ -6120,10 +5570,8 @@
   ],
   "leaves_spruce_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_spruce.png",
-    "dingyjungle/images/blocks/leaves_spruce.png"
-  ],
-  "leaves_spruce_carried_bamboobluff.png": [
     "bamboobluff/images/blocks/leaves_spruce_carried.png",
+    "dingyjungle/images/blocks/leaves_spruce.png",
     "dingyjungle/images/blocks/leaves_spruce_carried.png"
   ],
   "leaves_spruce_opaque_bamboobluff.png": [
@@ -6144,8 +5592,11 @@
   ],
   "log_big_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/log_big_oak.png",
+    "bamboobluff/images/blocks/planks_acacia.png",
     "dingyjungle/images/blocks/log_big_oak.png",
-    "overgrowntemple/images/blocks/log_big_oak.png"
+    "dingyjungle/images/blocks/planks_acacia.png",
+    "overgrowntemple/images/blocks/log_big_oak.png",
+    "overgrowntemple/images/blocks/planks_acacia.png"
   ],
   "log_big_oak_top_bamboobluff.png": [
     "bamboobluff/images/blocks/log_big_oak_top.png",
@@ -6231,18 +5682,19 @@
   ],
   "mycelium_top_bamboobluff.png": [
     "bamboobluff/images/blocks/mycelium_top.png",
+    "bamboobluff/images/blocks/stone_gradient_0.png",
     "dingyjungle/images/blocks/mycelium_top.png",
-    "overgrowntemple/images/blocks/mycelium_top.png"
-  ],
-  "netherrack_bamboobluff.png": [
-    "bamboobluff/images/blocks/netherrack.png",
-    "dingyjungle/images/blocks/netherrack.png",
-    "overgrowntemple/images/blocks/netherrack.png"
+    "dingyjungle/images/blocks/stone_gradient_0.png",
+    "overgrowntemple/images/blocks/mycelium_top.png",
+    "overgrowntemple/images/blocks/stone_gradient_0.png"
   ],
   "nether_brick_bamboobluff.png": [
     "bamboobluff/images/blocks/nether_brick.png",
+    "bamboobluff/images/blocks/stone.png",
     "dingyjungle/images/blocks/nether_brick.png",
-    "overgrowntemple/images/blocks/nether_brick.png"
+    "dingyjungle/images/blocks/stone.png",
+    "overgrowntemple/images/blocks/nether_brick.png",
+    "overgrowntemple/images/blocks/stone.png"
   ],
   "obsidian_bamboobluff.png": [
     "bamboobluff/images/blocks/obsidian.png"
@@ -6252,20 +5704,10 @@
     "dingyjungle/images/blocks/overgrown-temple_customTiles1_14.png",
     "overgrowntemple/images/blocks/overgrown-temple_customTiles1_14.png"
   ],
-  "planks_acacia_bamboobluff.png": [
-    "bamboobluff/images/blocks/planks_acacia.png",
-    "dingyjungle/images/blocks/planks_acacia.png",
-    "overgrowntemple/images/blocks/planks_acacia.png"
-  ],
   "planks_big_oak_bamboobluff.png": [
     "bamboobluff/images/blocks/planks_big_oak.png",
     "dingyjungle/images/blocks/planks_big_oak.png",
     "overgrowntemple/images/blocks/planks_big_oak.png"
-  ],
-  "planks_birch_bamboobluff.png": [
-    "bamboobluff/images/blocks/planks_birch.png",
-    "dingyjungle/images/blocks/planks_birch.png",
-    "overgrowntemple/images/blocks/planks_birch.png"
   ],
   "planks_jungle_bamboobluff.png": [
     "bamboobluff/images/blocks/planks_jungle.png",
@@ -6354,18 +5796,16 @@
   ],
   "red_sandstone_bottom_bamboobluff.png": [
     "bamboobluff/images/blocks/red_sandstone_bottom.png",
+    "bamboobluff/images/blocks/red_sandstone_normal.png",
     "dingyjungle/images/blocks/red_sandstone_bottom.png",
-    "overgrowntemple/images/blocks/red_sandstone_bottom.png"
+    "dingyjungle/images/blocks/red_sandstone_normal.png",
+    "overgrowntemple/images/blocks/red_sandstone_bottom.png",
+    "overgrowntemple/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_carved_bamboobluff.png": [
     "bamboobluff/images/blocks/red_sandstone_carved.png",
     "dingyjungle/images/blocks/red_sandstone_carved.png",
     "overgrowntemple/images/blocks/red_sandstone_carved.png"
-  ],
-  "red_sandstone_normal_bamboobluff.png": [
-    "bamboobluff/images/blocks/red_sandstone_normal.png",
-    "dingyjungle/images/blocks/red_sandstone_normal.png",
-    "overgrowntemple/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_smooth_bamboobluff.png": [
     "bamboobluff/images/blocks/red_sandstone_smooth.png",
@@ -6472,26 +5912,6 @@
     "mycelia/images/blocks/sandstone_custom4_top.png",
     "overgrowntemple/images/blocks/sandstone_custom4_top.png",
     "pumpkinpastures/images/blocks/sandstone_custom4_top.png"
-  ],
-  "sandstone_normal_bamboobluff.png": [
-    "bamboobluff/images/blocks/sandstone_normal.png",
-    "dingyjungle/images/blocks/sandstone_normal.png",
-    "overgrowntemple/images/blocks/sandstone_normal.png"
-  ],
-  "sandstone_smooth_deserttemple.png": [
-    "bamboobluff/images/blocks/sandstone_smooth.png",
-    "creeperwoods/images/blocks/sandstone_smooth.png",
-    "deserttemple/images/blocks/sandstone_smooth.png",
-    "dingyjungle/images/blocks/sandstone_smooth.png",
-    "mycelia/images/blocks/sandstone_smooth.png",
-    "overgrowntemple/images/blocks/sandstone_smooth.png",
-    "pumpkinpastures/images/blocks/sandstone_smooth.png",
-    "soggyswamp/images/blocks/sandstone_smooth.png"
-  ],
-  "sandstone_top_bamboobluff.png": [
-    "bamboobluff/images/blocks/sandstone_top.png",
-    "dingyjungle/images/blocks/sandstone_top.png",
-    "overgrowntemple/images/blocks/sandstone_top.png"
   ],
   "sapling_acacia_cacticanyon.png": [
     "bamboobluff/images/blocks/sapling_acacia.png",
@@ -6619,45 +6039,35 @@
     "jungle/images/blocks/snow-109.png",
     "overgrowntemple/images/blocks/snow-109.png"
   ],
+  "custom_14_pumpkinpastures.png": [
+    "bamboobluff/images/blocks/snow-115.png",
+    "dingyjungle/images/blocks/snow-115.png",
+    "mycelia/images/blocks/custom_14.png",
+    "mycelia/images/blocks/snow.png",
+    "mycelia/images/blocks/snow-121.png",
+    "overgrowntemple/images/blocks/snow-115.png",
+    "pumpkinpastures/images/blocks/custom_14.png",
+    "pumpkinpastures/images/blocks/snow.png"
+  ],
   "snow-116.png": [
     "bamboobluff/images/blocks/snow-116.png",
-    "dingyjungle/images/blocks/snow-116.png",
-    "overgrowntemple/images/blocks/snow-116.png"
-  ],
-  "snow-118.png": [
     "bamboobluff/images/blocks/snow-118.png",
-    "dingyjungle/images/blocks/snow-118.png",
-    "overgrowntemple/images/blocks/snow-118.png"
-  ],
-  "snow-119.png": [
     "bamboobluff/images/blocks/snow-119.png",
-    "dingyjungle/images/blocks/snow-119.png",
-    "overgrowntemple/images/blocks/snow-119.png"
-  ],
-  "snow-120.png": [
     "bamboobluff/images/blocks/snow-120.png",
-    "dingyjungle/images/blocks/snow-120.png",
-    "overgrowntemple/images/blocks/snow-120.png"
-  ],
-  "snow-122.png": [
+    "bamboobluff/images/blocks/snow-121.png",
     "bamboobluff/images/blocks/snow-122.png",
+    "dingyjungle/images/blocks/snow-116.png",
+    "dingyjungle/images/blocks/snow-118.png",
+    "dingyjungle/images/blocks/snow-119.png",
+    "dingyjungle/images/blocks/snow-120.png",
+    "dingyjungle/images/blocks/snow-121.png",
     "dingyjungle/images/blocks/snow-122.png",
+    "overgrowntemple/images/blocks/snow-116.png",
+    "overgrowntemple/images/blocks/snow-118.png",
+    "overgrowntemple/images/blocks/snow-119.png",
+    "overgrowntemple/images/blocks/snow-120.png",
+    "overgrowntemple/images/blocks/snow-121.png",
     "overgrowntemple/images/blocks/snow-122.png"
-  ],
-  "snow_bamboobluff.png": [
-    "bamboobluff/images/blocks/snow.png",
-    "dingyjungle/images/blocks/snow.png",
-    "overgrowntemple/images/blocks/snow.png"
-  ],
-  "stone_bamboobluff.png": [
-    "bamboobluff/images/blocks/stone.png",
-    "dingyjungle/images/blocks/stone.png",
-    "overgrowntemple/images/blocks/stone.png"
-  ],
-  "stonebrick_bamboobluff.png": [
-    "bamboobluff/images/blocks/stonebrick.png",
-    "dingyjungle/images/blocks/stonebrick.png",
-    "overgrowntemple/images/blocks/stonebrick.png"
   ],
   "stonebrick_carved_bamboobluff.png": [
     "bamboobluff/images/blocks/stonebrick_carved.png",
@@ -6733,11 +6143,6 @@
     "bamboobluff/images/blocks/stone_diorite_smooth.png",
     "dingyjungle/images/blocks/stone_diorite_smooth.png",
     "overgrowntemple/images/blocks/stone_diorite_smooth.png"
-  ],
-  "stone_gradient_0_bamboobluff.png": [
-    "bamboobluff/images/blocks/stone_gradient_0.png",
-    "dingyjungle/images/blocks/stone_gradient_0.png",
-    "overgrowntemple/images/blocks/stone_gradient_0.png"
   ],
   "stone_gradient_1_bamboobluff.png": [
     "bamboobluff/images/blocks/stone_gradient_1.png",
@@ -6979,13 +6384,18 @@
     "creeperwoods/images/blocks/custom_13.png"
   ],
   "custom_14_creeperwoods.png": [
-    "creeperwoods/images/blocks/custom_14.png"
-  ],
-  "custom_15_creeperwoods.png": [
+    "creeperwoods/images/blocks/custom_14.png",
     "creeperwoods/images/blocks/custom_15.png"
   ],
   "custom_2_creeperwoods.png": [
-    "creeperwoods/images/blocks/custom_2.png"
+    "cacticanyon/images/blocks/stone_path_top.png",
+    "creeperwoods/images/blocks/custom_2.png",
+    "creeperwoods/images/blocks/stone_path_top.png",
+    "highblockhalls/images/blocks/stone_path_top.png",
+    "mooncorecaverns/images/blocks/stone_path_top.png",
+    "obsidianpinnacle/images/blocks/stone_path_top.png",
+    "pumpkinpastures/images/blocks/stone_path_top.png",
+    "redstonemines/images/blocks/stone_path_top.png"
   ],
   "custom_3_creeperwoods.png": [
     "creeperwoods/images/blocks/custom_3.png"
@@ -7006,23 +6416,26 @@
     "creeperwoods/images/blocks/custom_8.png"
   ],
   "custom_9_creeperwoods.png": [
-    "creeperwoods/images/blocks/custom_9.png"
+    "creeperwoods/images/blocks/custom_9.png",
+    "creeperwoods/images/blocks/grass_path_top.png",
+    "soggyswamp/images/blocks/grass_path_top.png"
   ],
-  "dirt_creeperwoods.png": [
-    "creeperwoods/images/blocks/dirt.png"
-  ],
-  "dirt_path_side_creeperwoods.png": [
-    "creeperwoods/images/blocks/dirt_path_side.png",
-    "soggyswamp/images/blocks/dirt_path_side.png"
-  ],
-  "dirt_path_top_cacticanyon.png": [
+  "custom_8_redstonemines.png": [
     "cacticanyon/images/blocks/dirt_path_top.png",
+    "creeperwoods/images/blocks/dirt.png",
     "creeperwoods/images/blocks/dirt_path_top.png",
     "highblockhalls/images/blocks/dirt_path_top.png",
     "mooncorecaverns/images/blocks/dirt_path_top.png",
     "obsidianpinnacle/images/blocks/dirt_path_top.png",
+    "redstonemines/images/blocks/custom_8.png",
     "redstonemines/images/blocks/dirt_path_top.png",
+    "redstonemines/images/blocks/nether_brick.png",
+    "redstonemines/images/blocks/red_sandstone_bottom.png",
     "soggyswamp/images/blocks/dirt_path_top.png"
+  ],
+  "dirt_path_side_creeperwoods.png": [
+    "creeperwoods/images/blocks/dirt_path_side.png",
+    "soggyswamp/images/blocks/dirt_path_side.png"
   ],
   "dirt_podzol_side_cacticanyon.png": [
     "cacticanyon/images/blocks/dirt_podzol_side.png",
@@ -7032,6 +6445,7 @@
   "dirt_podzol_top_cacticanyon.png": [
     "cacticanyon/images/blocks/dirt_podzol_top.png",
     "creeperwoods/images/blocks/dirt_podzol_top.png",
+    "creeperwoods/images/blocks/snow.png",
     "redstonemines/images/blocks/dirt_podzol_top.png"
   ],
   "double_plant_fern_bottom_creeperwoods.png": [
@@ -7074,20 +6488,15 @@
     "creeperwoods/images/blocks/flower_rose.png",
     "redstonemines/images/blocks/flower_rose.png"
   ],
-  "grass_and_leaves_27.png": [
-    "creeperwoods/images/blocks/grass_and_leaves_27.png"
-  ],
   "grass_path_side_creeperwoods.png": [
     "creeperwoods/images/blocks/grass_path_side.png",
     "soggyswamp/images/blocks/grass_path_side.png"
   ],
-  "grass_path_top_creeperwoods.png": [
-    "creeperwoods/images/blocks/grass_path_top.png",
-    "soggyswamp/images/blocks/grass_path_top.png"
-  ],
   "grass_side_creeperwoods.png": [
     "creeperwoods/images/blocks/grass_side.png",
-    "redstonemines/images/blocks/grass_side.png"
+    "creeperwoods/images/blocks/mycelium_side.png",
+    "redstonemines/images/blocks/grass_side.png",
+    "redstonemines/images/blocks/mycelium_side.png"
   ],
   "grass_side_snowed_cacticanyon.png": [
     "cacticanyon/images/blocks/grass_side_snowed.png",
@@ -7099,7 +6508,8 @@
   ],
   "grass_top_creeperwoods.png": [
     "creeperwoods/images/blocks/grass_top.png",
-    "redstonemines/images/blocks/grass_top.png"
+    "redstonemines/images/blocks/grass_top.png",
+    "redstonemines/images/blocks/red_sandstone_top.png"
   ],
   "gravel_creeperwoods.png": [
     "creeperwoods/images/blocks/gravel.png",
@@ -7113,17 +6523,6 @@
     "creeperwoods/images/blocks/gravel_path_top.png",
     "soggyswamp/images/blocks/gravel_path_top.png"
   ],
-  "hardened_clay_stained_orange_jungle.png": [
-    "creeperwoods/images/blocks/hardened_clay_stained_orange.png",
-    "jungle/images/blocks/hardened_clay_stained_orange.png",
-    "pumpkinpastures/images/blocks/hardened_clay_stained_orange.png"
-  ],
-  "leaves_acacia_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_acacia.png"
-  ],
-  "leaves_acacia_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_acacia_carried.png"
-  ],
   "leaves_acacia_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_acacia_opaque.png"
   ],
@@ -7133,32 +6532,21 @@
   "leaves_big_oak_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_big_oak.png"
   ],
-  "leaves_big_oak_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_big_oak_carried.png"
-  ],
   "leaves_big_oak_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_big_oak_opaque.png"
   ],
   "leaves_big_oak_outer_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_big_oak_outer.png"
+    "creeperwoods/images/blocks/leaves_big_oak_outer.png",
+    "creeperwoods/images/blocks/leaves_oak_Outer.png"
   ],
   "leaves_birch_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_birch.png"
   ],
-  "leaves_birch_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_birch_carried.png"
-  ],
   "leaves_birch_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_birch_opaque.png"
   ],
-  "leaves_birch_outer_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_birch_Outer.png"
-  ],
   "leaves_jungle_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_jungle.png"
-  ],
-  "leaves_jungle_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_jungle_carried.png"
   ],
   "leaves_jungle_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_jungle_opaque.png"
@@ -7166,20 +6554,8 @@
   "leaves_oak_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_oak.png"
   ],
-  "leaves_oak_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_oak_carried.png"
-  ],
   "leaves_oak_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_oak_opaque.png"
-  ],
-  "leaves_oak_outer_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_oak_Outer.png"
-  ],
-  "leaves_spruce_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_spruce.png"
-  ],
-  "leaves_spruce_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_spruce_carried.png"
   ],
   "leaves_spruce_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_spruce_opaque.png"
@@ -7193,6 +6569,7 @@
     "jungle/images/blocks/log_acacia.png",
     "mycelia/images/blocks/log_acacia.png",
     "pumpkinpastures/images/blocks/log_acacia.png",
+    "pumpkinpastures/images/blocks/log_oak.png",
     "redstonemines/images/blocks/log_acacia.png"
   ],
   "log_big_oak_highblockhalls.png": [
@@ -7236,7 +6613,9 @@
     "creeperwoods/images/blocks/log_oak_top.png",
     "deserttemple/images/blocks/log_oak_top.png",
     "highblockhalls/images/blocks/log_oak_top.png",
-    "obsidianpinnacle/images/blocks/log_oak_top.png"
+    "obsidianpinnacle/images/blocks/log_oak_top.png",
+    "obsidianpinnacle/images/blocks/quartz_block_bottom.png",
+    "obsidianpinnacle/images/blocks/quartz_block_top.png"
   ],
   "log_spruce_highblockhalls.png": [
     "creeperwoods/images/blocks/log_spruce.png",
@@ -7259,10 +6638,6 @@
   ],
   "melon_top_creeperwoods.png": [
     "creeperwoods/images/blocks/melon_top.png"
-  ],
-  "mycelium_side_creeperwoods.png": [
-    "creeperwoods/images/blocks/mycelium_side.png",
-    "redstonemines/images/blocks/mycelium_side.png"
   ],
   "mycelium_top_creeperwoods.png": [
     "creeperwoods/images/blocks/mycelium_top.png",
@@ -7334,9 +6709,7 @@
     "redstonemines/images/blocks/planks_spruce.png"
   ],
   "pumpkin_face_off_creeperwoods.png": [
-    "creeperwoods/images/blocks/pumpkin_face_off.png"
-  ],
-  "pumpkin_side_creeperwoods.png": [
+    "creeperwoods/images/blocks/pumpkin_face_off.png",
     "creeperwoods/images/blocks/pumpkin_side.png"
   ],
   "pumpkin_side_e.png": [
@@ -7357,8 +6730,18 @@
   "quartz_block_top_cacticanyon.png": [
     "cacticanyon/images/blocks/quartz_block_top.png",
     "creeperwoods/images/blocks/quartz_block_top.png",
+    "creeperwoods/images/blocks/sandstone_bottom.png",
+    "creeperwoods/images/blocks/sandstone_top.png",
+    "deserttemple/images/blocks/sandstone_bottom.png",
+    "deserttemple/images/blocks/sandstone_top.png",
     "highblockhalls/images/blocks/quartz_block_top.png",
-    "pumpkinpastures/images/blocks/quartz_block_top.png"
+    "mycelia/images/blocks/sandstone_bottom.png",
+    "mycelia/images/blocks/sandstone_top.png",
+    "pumpkinpastures/images/blocks/quartz_block_top.png",
+    "pumpkinpastures/images/blocks/sandstone_bottom.png",
+    "pumpkinpastures/images/blocks/sandstone_top.png",
+    "soggyswamp/images/blocks/sandstone_bottom.png",
+    "soggyswamp/images/blocks/sandstone_top.png"
   ],
   "redstone_ore_cacticanyon.png": [
     "cacticanyon/images/blocks/redstone_ore.png",
@@ -7378,16 +6761,13 @@
     "soggyswamp/images/blocks/red_sand.png"
   ],
   "red_sandstone_bottom_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_bottom.png"
+    "creeperwoods/images/blocks/red_sandstone_bottom.png",
+    "creeperwoods/images/blocks/red_sandstone_normal.png",
+    "creeperwoods/images/blocks/red_sandstone_top.png"
   ],
   "red_sandstone_carved-03.png": [
+    "creeperwoods/images/blocks/red_sandstone_carved.png",
     "creeperwoods/images/blocks/red_sandstone_carved-03.png"
-  ],
-  "red_sandstone_carved_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_carved.png"
-  ],
-  "red_sandstone_normal_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_smooth_creeperwoods.png": [
     "creeperwoods/images/blocks/red_sandstone_smooth.png",
@@ -7395,37 +6775,8 @@
     "pumpkinpastures/images/blocks/red_sandstone_smooth.png",
     "soggyswamp/images/blocks/red_sandstone_smooth.png"
   ],
-  "red_sandstone_top_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_top.png"
-  ],
-  "sandstone_bottom_deserttemple.png": [
-    "creeperwoods/images/blocks/sandstone_bottom.png",
-    "deserttemple/images/blocks/sandstone_bottom.png",
-    "mycelia/images/blocks/sandstone_bottom.png",
-    "pumpkinpastures/images/blocks/sandstone_bottom.png",
-    "soggyswamp/images/blocks/sandstone_bottom.png"
-  ],
-  "sandstone_top_deserttemple.png": [
-    "creeperwoods/images/blocks/sandstone_top.png",
-    "deserttemple/images/blocks/sandstone_top.png",
-    "mycelia/images/blocks/sandstone_top.png",
-    "pumpkinpastures/images/blocks/sandstone_top.png",
-    "soggyswamp/images/blocks/sandstone_top.png"
-  ],
-  "snow_creeperwoods.png": [
-    "creeperwoods/images/blocks/snow.png"
-  ],
   "stonebrick_mossy_creeperwoods.png": [
     "creeperwoods/images/blocks/stonebrick_mossy.png"
-  ],
-  "stonefloor1_deserttemple.png": [
-    "creeperwoods/images/blocks/stonefloor1.png",
-    "deserttemple/images/blocks/stonefloor1.png",
-    "highblockhalls/images/blocks/stonefloor1.png",
-    "mycelia/images/blocks/stonefloor1.png",
-    "obsidianpinnacle/images/blocks/stonefloor1.png",
-    "pumpkinpastures/images/blocks/stonefloor1.png",
-    "soggyswamp/images/blocks/stonefloor1.png"
   ],
   "stonefloor2_highblockhalls.png": [
     "creeperwoods/images/blocks/stonefloor2.png",
@@ -7439,15 +6790,6 @@
     "obsidianpinnacle/images/blocks/stonefloor3.png",
     "soggyswamp/images/blocks/stonefloor3.png"
   ],
-  "stonefloor4_deserttemple.png": [
-    "creeperwoods/images/blocks/stonefloor4.png",
-    "deserttemple/images/blocks/stonefloor4.png",
-    "highblockhalls/images/blocks/stonefloor4.png",
-    "mycelia/images/blocks/stonefloor4.png",
-    "obsidianpinnacle/images/blocks/stonefloor4.png",
-    "pumpkinpastures/images/blocks/stonefloor4.png",
-    "soggyswamp/images/blocks/stonefloor4.png"
-  ],
   "stonefloor5_highblockhalls.png": [
     "creeperwoods/images/blocks/stonefloor5.png",
     "highblockhalls/images/blocks/stonefloor5.png",
@@ -7460,7 +6802,8 @@
     "obsidianpinnacle/images/blocks/stonefloor6.png",
     "soggyswamp/images/blocks/stonefloor6.png"
   ],
-  "stonefloor7_highblockhalls.png": [
+  "stone_gradient_0_creeperwoods.png": [
+    "creeperwoods/images/blocks/stone_gradient_0.png",
     "creeperwoods/images/blocks/stonefloor7.png",
     "highblockhalls/images/blocks/stonefloor7.png",
     "obsidianpinnacle/images/blocks/stonefloor7.png",
@@ -7482,15 +6825,6 @@
     "creeperwoods/images/blocks/stone_andesite.png",
     "soggyswamp/images/blocks/stone_andesite.png"
   ],
-  "stone_andesite_smooth_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_andesite_smooth.png",
-    "creeperwoods/images/blocks/stone_andesite_smooth.png",
-    "deserttemple/images/blocks/stone_andesite_smooth.png",
-    "jungle/images/blocks/stone_andesite_smooth.png",
-    "mycelia/images/blocks/stone_andesite_smooth.png",
-    "pumpkinpastures/images/blocks/stone_andesite_smooth.png",
-    "soggyswamp/images/blocks/stone_andesite_smooth.png"
-  ],
   "stone_diorite_deserttemple.png": [
     "creeperwoods/images/blocks/stone_diorite.png",
     "deserttemple/images/blocks/stone_diorite.png",
@@ -7498,16 +6832,6 @@
     "mycelia/images/blocks/stone_diorite.png",
     "pumpkinpastures/images/blocks/stone_diorite.png",
     "soggyswamp/images/blocks/stone_diorite.png"
-  ],
-  "stone_diorite_smooth_deserttemple.png": [
-    "creeperwoods/images/blocks/stone_diorite_smooth.png",
-    "deserttemple/images/blocks/stone_diorite_smooth.png",
-    "mycelia/images/blocks/stone_diorite_smooth.png",
-    "pumpkinpastures/images/blocks/stone_diorite_smooth.png",
-    "soggyswamp/images/blocks/stone_diorite_smooth.png"
-  ],
-  "stone_gradient_0_creeperwoods.png": [
-    "creeperwoods/images/blocks/stone_gradient_0.png"
   ],
   "stone_gradient_1_creeperwoods.png": [
     "creeperwoods/images/blocks/stone_gradient_1.png"
@@ -7558,25 +6882,8 @@
     "creeperwoods/images/blocks/stone_granite.png",
     "soggyswamp/images/blocks/stone_granite.png"
   ],
-  "stone_granite_smooth_deserttemple.png": [
-    "creeperwoods/images/blocks/stone_granite_smooth.png",
-    "deserttemple/images/blocks/stone_granite_smooth.png",
-    "jungle/images/blocks/stone_granite_smooth.png",
-    "mycelia/images/blocks/stone_granite_smooth.png",
-    "pumpkinpastures/images/blocks/stone_granite_smooth.png",
-    "soggyswamp/images/blocks/stone_granite_smooth.png"
-  ],
   "stone_path_side_creeperwoods.png": [
     "creeperwoods/images/blocks/stone_path_side.png"
-  ],
-  "stone_path_top_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_path_top.png",
-    "creeperwoods/images/blocks/stone_path_top.png",
-    "highblockhalls/images/blocks/stone_path_top.png",
-    "mooncorecaverns/images/blocks/stone_path_top.png",
-    "obsidianpinnacle/images/blocks/stone_path_top.png",
-    "pumpkinpastures/images/blocks/stone_path_top.png",
-    "redstonemines/images/blocks/stone_path_top.png"
   ],
   "tallgrass_creeperwoods.png": [
     "creeperwoods/images/blocks/tallgrass.png",
@@ -7614,19 +6921,19 @@
     "deserttemple/images/blocks/cobblestone.png"
   ],
   "cobblestone_mossy_deserttemple.png": [
-    "deserttemple/images/blocks/cobblestone_mossy.png"
+    "deserttemple/images/blocks/cobblestone_mossy.png",
+    "deserttemple/images/blocks/stone_path_top.png"
   ],
   "custom1.png": [
-    "deserttemple/images/blocks/custom1.png"
+    "deserttemple/images/blocks/custom1.png",
+    "deserttemple/images/blocks/custom_1.png",
+    "deserttemple/images/blocks/stone_gradient_0.png"
   ],
   "custom2.png": [
     "deserttemple/images/blocks/custom2.png"
   ],
   "custom_0_deserttemple.png": [
     "deserttemple/images/blocks/custom_0.png"
-  ],
-  "custom_1_deserttemple.png": [
-    "deserttemple/images/blocks/custom_1.png"
   ],
   "custom_10_deserttemple.png": [
     "deserttemple/images/blocks/custom_10.png"
@@ -7636,6 +6943,7 @@
   ],
   "custom_12_deserttemple.png": [
     "deserttemple/images/blocks/custom_12.png",
+    "deserttemple/images/blocks/custom_tiles_12.png",
     "highblockhalls/images/blocks/custom_12.png",
     "mooncorecaverns/images/blocks/custom_12.png"
   ],
@@ -7646,7 +6954,8 @@
     "deserttemple/images/blocks/custom_3.png"
   ],
   "custom_4_deserttemple.png": [
-    "deserttemple/images/blocks/custom_4.png"
+    "deserttemple/images/blocks/custom_4.png",
+    "deserttemple/images/blocks/nether_brick.png"
   ],
   "custom_5_deserttemple.png": [
     "deserttemple/images/blocks/custom_5.png"
@@ -7663,15 +6972,15 @@
   "custom_9_deserttemple.png": [
     "deserttemple/images/blocks/custom_9.png"
   ],
-  "custom_tiles_12.png": [
-    "deserttemple/images/blocks/custom_tiles_12.png"
-  ],
   "cut_sandstone.png": [
     "cacticanyon/images/blocks/cut_sandstone.png",
     "deserttemple/images/blocks/cut_sandstone.png"
   ],
   "dirt_deserttemple.png": [
     "deserttemple/images/blocks/dirt.png",
+    "deserttemple/images/blocks/dirt_podzol_side.png",
+    "deserttemple/images/blocks/dirt_podzol_top.png",
+    "deserttemple/images/blocks/grass_path_top.png",
     "mycelia/images/blocks/dirt.png"
   ],
   "dirt_path_side_deserttemple.png": [
@@ -7679,12 +6988,6 @@
   ],
   "dirt_path_top_deserttemple.png": [
     "deserttemple/images/blocks/dirt_path_top.png"
-  ],
-  "dirt_podzol_side_deserttemple.png": [
-    "deserttemple/images/blocks/dirt_podzol_side.png"
-  ],
-  "dirt_podzol_top_deserttemple.png": [
-    "deserttemple/images/blocks/dirt_podzol_top.png"
   ],
   "double_plant_fern_bottom_deserttemple.png": [
     "deserttemple/images/blocks/double_plant_fern_bottom.png"
@@ -7733,9 +7036,6 @@
   "grass_path_side_deserttemple.png": [
     "deserttemple/images/blocks/grass_path_side.png"
   ],
-  "grass_path_top_deserttemple.png": [
-    "deserttemple/images/blocks/grass_path_top.png"
-  ],
   "grass_side_deserttemple.png": [
     "deserttemple/images/blocks/grass_side.png"
   ],
@@ -7750,10 +7050,6 @@
   ],
   "gravel_path_top_deserttemple.png": [
     "deserttemple/images/blocks/gravel_path_top.png"
-  ],
-  "hardened_clay_stained_magenta_deserttemple.png": [
-    "deserttemple/images/blocks/hardened_clay_stained_magenta.png",
-    "deserttemple/images/blocks/snow.png"
   ],
   "leaves_acacia_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_acacia.png",
@@ -7771,22 +7067,6 @@
     "redstonemines/images/blocks/leaves_oak.png",
     "soggyswamp/images/blocks/leaves_acacia.png"
   ],
-  "leaves_acacia_carried_deserttemple.png": [
-    "deserttemple/images/blocks/leaves_acacia_carried.png",
-    "deserttemple/images/blocks/leaves_big_oak_carried.png",
-    "deserttemple/images/blocks/leaves_oak_carried.png",
-    "highblockhalls/images/blocks/leaves_acacia_carried.png",
-    "highblockhalls/images/blocks/leaves_big_oak_carried.png",
-    "highblockhalls/images/blocks/leaves_oak_carried.png",
-    "obsidianpinnacle/images/blocks/leaves_acacia_carried.png",
-    "obsidianpinnacle/images/blocks/leaves_big_oak_carried.png",
-    "obsidianpinnacle/images/blocks/leaves_oak_carried.png",
-    "pumpkinpastures/images/blocks/leaves_big_oak_carried.png",
-    "pumpkinpastures/images/blocks/leaves_oak_carried.png",
-    "redstonemines/images/blocks/leaves_acacia_carried.png",
-    "redstonemines/images/blocks/leaves_big_oak_carried.png",
-    "redstonemines/images/blocks/leaves_oak_carried.png"
-  ],
   "leaves_acacia_opaque_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_acacia_opaque.png",
     "deserttemple/images/blocks/leaves_acacia_opaque.png",
@@ -7799,14 +7079,6 @@
     "deserttemple/images/blocks/leaves_birch.png",
     "soggyswamp/images/blocks/leaves_birch.png"
   ],
-  "leaves_birch_carried_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_birch_carried.png",
-    "deserttemple/images/blocks/leaves_birch_carried.png",
-    "highblockhalls/images/blocks/leaves_birch_carried.png",
-    "obsidianpinnacle/images/blocks/leaves_birch_carried.png",
-    "redstonemines/images/blocks/leaves_birch_carried.png",
-    "soggyswamp/images/blocks/leaves_birch_carried.png"
-  ],
   "leaves_jungle_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_jungle.png",
     "deserttemple/images/blocks/leaves_jungle.png",
@@ -7815,15 +7087,6 @@
     "pumpkinpastures/images/blocks/leaves_jungle.png",
     "redstonemines/images/blocks/leaves_jungle.png",
     "soggyswamp/images/blocks/leaves_jungle.png"
-  ],
-  "leaves_jungle_carried_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_jungle_carried.png",
-    "deserttemple/images/blocks/leaves_jungle_carried.png",
-    "highblockhalls/images/blocks/leaves_jungle_carried.png",
-    "obsidianpinnacle/images/blocks/leaves_jungle_carried.png",
-    "pumpkinpastures/images/blocks/leaves_jungle_carried.png",
-    "redstonemines/images/blocks/leaves_jungle_carried.png",
-    "soggyswamp/images/blocks/leaves_jungle_carried.png"
   ],
   "leaves_jungle_opaque_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_jungle_opaque.png",
@@ -7836,14 +7099,6 @@
     "deserttemple/images/blocks/leaves_spruce.png",
     "pumpkinpastures/images/blocks/leaves_spruce.png",
     "soggyswamp/images/blocks/leaves_spruce.png"
-  ],
-  "leaves_spruce_carried_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_spruce_carried.png",
-    "deserttemple/images/blocks/leaves_spruce_carried.png",
-    "highblockhalls/images/blocks/leaves_spruce_carried.png",
-    "obsidianpinnacle/images/blocks/leaves_spruce_carried.png",
-    "pumpkinpastures/images/blocks/leaves_spruce_carried.png",
-    "soggyswamp/images/blocks/leaves_spruce_carried.png"
   ],
   "leaves_spruce_opaque_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_spruce_opaque.png",
@@ -7873,7 +7128,8 @@
   "log_oak_cacticanyon.png": [
     "cacticanyon/images/blocks/log_oak.png",
     "deserttemple/images/blocks/log_oak.png",
-    "obsidianpinnacle/images/blocks/log_oak.png"
+    "obsidianpinnacle/images/blocks/log_oak.png",
+    "obsidianpinnacle/images/blocks/quartz_block_side.png"
   ],
   "log_spruce_cacticanyon.png": [
     "cacticanyon/images/blocks/log_spruce.png",
@@ -7904,9 +7160,6 @@
   ],
   "mycelium_top_deserttemple.png": [
     "deserttemple/images/blocks/mycelium_top.png"
-  ],
-  "nether_brick_deserttemple.png": [
-    "deserttemple/images/blocks/nether_brick.png"
   ],
   "oak_log.png": [
     "cacticanyon/images/blocks/oak_log.png",
@@ -7941,9 +7194,6 @@
     "cacticanyon/images/blocks/planks_spruce.png",
     "deserttemple/images/blocks/planks_spruce.png",
     "obsidianpinnacle/images/blocks/planks_spruce.png"
-  ],
-  "polished_granite_deserttemple.png": [
-    "deserttemple/images/blocks/polished_granite.png"
   ],
   "quartz_block_bottom_deserttemple.png": [
     "deserttemple/images/blocks/quartz_block_bottom.png",
@@ -7994,6 +7244,18 @@
   "red_sandstone_top_deserttemple.png": [
     "deserttemple/images/blocks/red_sandstone_top.png"
   ],
+  "sandstone_bottom_deserttemple.png": [
+    "creeperwoods/images/blocks/sandstone_bottom.png",
+    "creeperwoods/images/blocks/sandstone_top.png",
+    "deserttemple/images/blocks/sandstone_bottom.png",
+    "deserttemple/images/blocks/sandstone_top.png",
+    "mycelia/images/blocks/sandstone_bottom.png",
+    "mycelia/images/blocks/sandstone_top.png",
+    "pumpkinpastures/images/blocks/sandstone_bottom.png",
+    "pumpkinpastures/images/blocks/sandstone_top.png",
+    "soggyswamp/images/blocks/sandstone_bottom.png",
+    "soggyswamp/images/blocks/sandstone_top.png"
+  ],
   "sandstone_normal_deserttemple.png": [
     "deserttemple/images/blocks/sandstone_normal.png"
   ],
@@ -8019,11 +7281,29 @@
   "stonebrick_mossy_emissive.png": [
     "deserttemple/images/blocks/stonebrick_mossy_emissive.png"
   ],
+  "stonefloor1_deserttemple.png": [
+    "creeperwoods/images/blocks/stonefloor1.png",
+    "deserttemple/images/blocks/stonefloor1.png",
+    "highblockhalls/images/blocks/stonefloor1.png",
+    "mycelia/images/blocks/stonefloor1.png",
+    "obsidianpinnacle/images/blocks/stonefloor1.png",
+    "pumpkinpastures/images/blocks/stonefloor1.png",
+    "soggyswamp/images/blocks/stonefloor1.png"
+  ],
   "stonefloor2_deserttemple.png": [
     "deserttemple/images/blocks/stonefloor2.png"
   ],
   "stonefloor3_deserttemple.png": [
     "deserttemple/images/blocks/stonefloor3.png"
+  ],
+  "stonefloor4_deserttemple.png": [
+    "creeperwoods/images/blocks/stonefloor4.png",
+    "deserttemple/images/blocks/stonefloor4.png",
+    "highblockhalls/images/blocks/stonefloor4.png",
+    "mycelia/images/blocks/stonefloor4.png",
+    "obsidianpinnacle/images/blocks/stonefloor4.png",
+    "pumpkinpastures/images/blocks/stonefloor4.png",
+    "soggyswamp/images/blocks/stonefloor4.png"
   ],
   "stonefloor5_deserttemple.png": [
     "deserttemple/images/blocks/stonefloor5.png"
@@ -8049,9 +7329,6 @@
   "stone_bricks.png": [
     "cacticanyon/images/blocks/stone_bricks.png",
     "deserttemple/images/blocks/stone_bricks.png"
-  ],
-  "stone_gradient_0_deserttemple.png": [
-    "deserttemple/images/blocks/stone_gradient_0.png"
   ],
   "stone_gradient_1_deserttemple.png": [
     "deserttemple/images/blocks/stone_gradient_1.png"
@@ -8101,11 +7378,16 @@
   "stone_granite_deserttemple.png": [
     "deserttemple/images/blocks/stone_granite.png"
   ],
+  "stone_granite_smooth_deserttemple.png": [
+    "creeperwoods/images/blocks/stone_granite_smooth.png",
+    "deserttemple/images/blocks/stone_granite_smooth.png",
+    "jungle/images/blocks/stone_granite_smooth.png",
+    "mycelia/images/blocks/stone_granite_smooth.png",
+    "pumpkinpastures/images/blocks/stone_granite_smooth.png",
+    "soggyswamp/images/blocks/stone_granite_smooth.png"
+  ],
   "stone_path_side_deserttemple.png": [
     "deserttemple/images/blocks/stone_path_side.png"
-  ],
-  "stone_path_top_deserttemple.png": [
-    "deserttemple/images/blocks/stone_path_top.png"
   ],
   "stone_slab_side_deserttemple.png": [
     "deserttemple/images/blocks/stone_slab_side.png"
@@ -8157,14 +7439,6 @@
   "ladder_dingyjungle.png": [
     "dingyjungle/images/blocks/ladder.png"
   ],
-  "leaves_birch_dingyjungle.png": [
-    "dingyjungle/images/blocks/leaves_birch.png",
-    "overgrowntemple/images/blocks/leaves_birch.png"
-  ],
-  "leaves_birch_carried_dingyjungle.png": [
-    "dingyjungle/images/blocks/leaves_birch_carried.png",
-    "overgrowntemple/images/blocks/leaves_birch_carried.png"
-  ],
   "leaves_birch_opaque_dingyjungle.png": [
     "dingyjungle/images/blocks/leaves_birch_opaque.png",
     "overgrowntemple/images/blocks/leaves_birch_opaque.png"
@@ -8177,15 +7451,12 @@
     "dingyjungle/images/blocks/log_acacia.png",
     "overgrowntemple/images/blocks/log_acacia.png"
   ],
-  "log_acacia_top_dingyjungle.png": [
-    "dingyjungle/images/blocks/log_acacia_top.png",
-    "overgrowntemple/images/blocks/log_acacia_top.png"
-  ],
   "obsidian_dingyjungle.png": [
     "dingyjungle/images/blocks/obsidian.png"
   ],
-  "planks_jungle_dingyjungle.png": [
-    "dingyjungle/images/blocks/planks_jungle.png"
+  "planks_spruce_soggyswamp.png": [
+    "dingyjungle/images/blocks/planks_jungle.png",
+    "soggyswamp/images/blocks/planks_spruce.png"
   ],
   "planks_spruce_dingyjungle.png": [
     "dingyjungle/images/blocks/planks_spruce.png"
@@ -8218,7 +7489,8 @@
   "cobblestone_highblockhalls.png": [
     "highblockhalls/images/blocks/cobblestone.png",
     "obsidianpinnacle/images/blocks/cobblestone.png",
-    "redstonemines/images/blocks/cobblestone.png"
+    "redstonemines/images/blocks/cobblestone.png",
+    "redstonemines/images/blocks/grass_path_top.png"
   ],
   "cobblestone_mossy_highblockhalls.png": [
     "highblockhalls/images/blocks/cobblestone_mossy.png"
@@ -8226,15 +7498,12 @@
   "custom0.png": [
     "highblockhalls/images/blocks/custom0.png",
     "obsidianpinnacle/images/blocks/custom0.png",
-    "redstonemines/images/blocks/custom0.png"
+    "redstonemines/images/blocks/custom0.png",
+    "redstonemines/images/blocks/custom_0.png"
   ],
   "custom_0_highblockhalls.png": [
-    "highblockhalls/images/blocks/custom_0.png"
-  ],
-  "custom_1_highblockhalls.png": [
-    "highblockhalls/images/blocks/custom_1.png",
-    "obsidianpinnacle/images/blocks/custom_1.png",
-    "redstonemines/images/blocks/custom_1.png"
+    "highblockhalls/images/blocks/custom_0.png",
+    "redstonemines/images/blocks/custom_2.png"
   ],
   "custom_10_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_10.png",
@@ -8251,16 +7520,6 @@
   "custom_2_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_2.png",
     "obsidianpinnacle/images/blocks/custom_2.png"
-  ],
-  "custom_3_highblockhalls.png": [
-    "highblockhalls/images/blocks/custom_3.png",
-    "obsidianpinnacle/images/blocks/custom_3.png",
-    "redstonemines/images/blocks/custom_3.png"
-  ],
-  "custom_4_highblockhalls.png": [
-    "highblockhalls/images/blocks/custom_4.png",
-    "obsidianpinnacle/images/blocks/custom_4.png",
-    "redstonemines/images/blocks/custom_4.png"
   ],
   "custom_5_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_5.png",
@@ -8291,12 +7550,10 @@
   ],
   "dirt_podzol_side_highblockhalls.png": [
     "highblockhalls/images/blocks/dirt_podzol_side.png",
-    "mooncorecaverns/images/blocks/dirt_podzol_side.png",
-    "obsidianpinnacle/images/blocks/dirt_podzol_side.png"
-  ],
-  "dirt_podzol_top_highblockhalls.png": [
     "highblockhalls/images/blocks/dirt_podzol_top.png",
+    "mooncorecaverns/images/blocks/dirt_podzol_side.png",
     "mooncorecaverns/images/blocks/dirt_podzol_top.png",
+    "obsidianpinnacle/images/blocks/dirt_podzol_side.png",
     "obsidianpinnacle/images/blocks/dirt_podzol_top.png"
   ],
   "double_plant_fern_bottom_highblockhalls.png": [
@@ -8342,11 +7599,11 @@
   ],
   "leaves_acacia_opaque_highblockhalls.png": [
     "highblockhalls/images/blocks/leaves_acacia_opaque.png",
-    "redstonemines/images/blocks/leaves_acacia_opaque.png"
-  ],
-  "leaves_big_oak_opaque_highblockhalls.png": [
     "highblockhalls/images/blocks/leaves_big_oak_opaque.png",
-    "redstonemines/images/blocks/leaves_big_oak_opaque.png"
+    "highblockhalls/images/blocks/leaves_oak_opaque.png",
+    "redstonemines/images/blocks/leaves_acacia_opaque.png",
+    "redstonemines/images/blocks/leaves_big_oak_opaque.png",
+    "redstonemines/images/blocks/leaves_oak_opaque.png"
   ],
   "leaves_birch_highblockhalls.png": [
     "highblockhalls/images/blocks/leaves_birch.png",
@@ -8361,24 +7618,12 @@
     "highblockhalls/images/blocks/leaves_jungle_opaque.png",
     "redstonemines/images/blocks/leaves_jungle_opaque.png"
   ],
-  "leaves_oak_opaque_highblockhalls.png": [
-    "highblockhalls/images/blocks/leaves_oak_opaque.png",
-    "redstonemines/images/blocks/leaves_oak_opaque.png"
-  ],
   "leaves_spruce_highblockhalls.png": [
     "highblockhalls/images/blocks/leaves_spruce.png",
     "obsidianpinnacle/images/blocks/leaves_spruce.png"
   ],
   "leaves_spruce_opaque_highblockhalls.png": [
     "highblockhalls/images/blocks/leaves_spruce_opaque.png"
-  ],
-  "log_birch_top_highblockhalls.png": [
-    "highblockhalls/images/blocks/log_birch_top.png",
-    "jungle/images/blocks/log_birch_top.png",
-    "mooncorecaverns/images/blocks/log_birch_top.png",
-    "mycelia/images/blocks/log_birch_top.png",
-    "pumpkinpastures/images/blocks/log_birch_top.png",
-    "redstonemines/images/blocks/log_birch_top.png"
   ],
   "log_jungle_highblockhalls.png": [
     "highblockhalls/images/blocks/log_jungle.png",
@@ -8449,7 +7694,8 @@
     "highblockhalls/images/blocks/stone.png",
     "obsidianpinnacle/images/blocks/stone.png"
   ],
-  "stonebrick_highblockhalls.png": [
+  "customtiles_43.png": [
+    "cacticanyon/images/blocks/customTiles_43.png",
     "highblockhalls/images/blocks/stonebrick.png",
     "obsidianpinnacle/images/blocks/stonebrick.png",
     "redstonemines/images/blocks/stonebrick.png"
@@ -8592,12 +7838,9 @@
   "brick_jungle.png": [
     "jungle/images/blocks/brick.png",
     "mycelia/images/blocks/brick.png",
-    "pumpkinpastures/images/blocks/brick.png"
-  ],
-  "carried_waterlily_jungle.png": [
-    "jungle/images/blocks/carried_waterlily.png",
-    "mycelia/images/blocks/carried_waterlily.png",
-    "pumpkinpastures/images/blocks/carried_waterlily.png"
+    "mycelia/images/blocks/custom_10.png",
+    "pumpkinpastures/images/blocks/brick.png",
+    "pumpkinpastures/images/blocks/custom_10.png"
   ],
   "custom_0_jungle.png": [
     "jungle/images/blocks/custom_0.png"
@@ -8627,7 +7870,8 @@
     "jungle/images/blocks/custom_2.png"
   ],
   "custom_3_jungle.png": [
-    "jungle/images/blocks/custom_3.png"
+    "jungle/images/blocks/custom_3.png",
+    "jungle/images/blocks/mycelium_top.png"
   ],
   "custom_4_jungle.png": [
     "jungle/images/blocks/custom_4.png"
@@ -8656,11 +7900,9 @@
   "dirt_path_top-86.png": [
     "jungle/images/blocks/dirt_path_top-86.png"
   ],
-  "dirt_path_top-94.png": [
-    "jungle/images/blocks/dirt_path_top-94.png"
-  ],
   "dirt_path_top_jungle.png": [
-    "jungle/images/blocks/dirt_path_top.png"
+    "jungle/images/blocks/dirt_path_top.png",
+    "jungle/images/blocks/dirt_path_top-94.png"
   ],
   "dirt_podzol_side_jungle.png": [
     "jungle/images/blocks/dirt_podzol_side.png"
@@ -8680,26 +7922,15 @@
     "mycelia/images/blocks/double_plant_rose_bottom.png",
     "pumpkinpastures/images/blocks/double_plant_rose_bottom.png"
   ],
-  "flower_dandelion_jungle.png": [
-    "jungle/images/blocks/flower_dandelion.png"
-  ],
-  "flower_houstonia_jungle.png": [
-    "jungle/images/blocks/flower_houstonia.png"
-  ],
-  "flower_rose_jungle.png": [
-    "jungle/images/blocks/flower_rose.png"
-  ],
   "grass_path_side_jungle.png": [
     "jungle/images/blocks/grass_path_side.png"
   ],
   "grass_path_top-84.png": [
     "jungle/images/blocks/grass_path_top-84.png"
   ],
-  "grass_path_top-92.png": [
-    "jungle/images/blocks/grass_path_top-92.png"
-  ],
   "grass_path_top_jungle.png": [
-    "jungle/images/blocks/grass_path_top.png"
+    "jungle/images/blocks/grass_path_top.png",
+    "jungle/images/blocks/grass_path_top-92.png"
   ],
   "grass_side_jungle.png": [
     "jungle/images/blocks/grass_side.png"
@@ -8763,14 +7994,6 @@
     "mycelia/images/blocks/hay_block_top.png",
     "pumpkinpastures/images/blocks/hay_block_top.png"
   ],
-  "leaves_acacia_jungle.png": [
-    "jungle/images/blocks/leaves_acacia.png",
-    "mycelia/images/blocks/leaves_acacia.png"
-  ],
-  "leaves_acacia_carried_jungle.png": [
-    "jungle/images/blocks/leaves_acacia_carried.png",
-    "mycelia/images/blocks/leaves_acacia_carried.png"
-  ],
   "leaves_acacia_opaque_jungle.png": [
     "jungle/images/blocks/leaves_acacia_opaque.png",
     "mycelia/images/blocks/leaves_acacia_opaque.png"
@@ -8782,27 +8005,11 @@
     "jungle/images/blocks/leaves_acacia_outer.png",
     "mycelia/images/blocks/leaves_acacia_outer.png"
   ],
-  "leaves_big_oak_jungle.png": [
-    "jungle/images/blocks/leaves_big_oak.png",
-    "mycelia/images/blocks/leaves_big_oak.png"
-  ],
-  "leaves_big_oak_carried_jungle.png": [
-    "jungle/images/blocks/leaves_big_oak_carried.png",
-    "mycelia/images/blocks/leaves_big_oak_carried.png"
-  ],
   "leaves_big_oak_outer_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_big_oak_outer.png",
     "jungle/images/blocks/leaves_big_oak_outer.png",
     "mycelia/images/blocks/leaves_big_oak_outer.png",
     "pumpkinpastures/images/blocks/leaves_big_oak_outer.png"
-  ],
-  "leaves_birch_jungle.png": [
-    "jungle/images/blocks/leaves_birch.png",
-    "mycelia/images/blocks/leaves_birch.png"
-  ],
-  "leaves_birch_carried_jungle.png": [
-    "jungle/images/blocks/leaves_birch_carried.png",
-    "mycelia/images/blocks/leaves_birch_carried.png"
   ],
   "leaves_birch_opaque_jungle.png": [
     "jungle/images/blocks/leaves_birch_opaque.png",
@@ -8811,19 +8018,12 @@
   "leaves_birch_opaque_outer.png": [
     "jungle/images/blocks/leaves_birch_Opaque_Outer.png",
     "mycelia/images/blocks/leaves_birch_Opaque_Outer.png",
-    "pumpkinpastures/images/blocks/leaves_birch_Opaque_Outer.png"
+    "pumpkinpastures/images/blocks/leaves_birch_Opaque_Outer.png",
+    "pumpkinpastures/images/blocks/leaves_birch_Outer.png"
   ],
   "leaves_birch_outer_jungle.png": [
     "jungle/images/blocks/leaves_birch_Outer.png",
     "mycelia/images/blocks/leaves_birch_Outer.png"
-  ],
-  "leaves_jungle_jungle.png": [
-    "jungle/images/blocks/leaves_jungle.png",
-    "mycelia/images/blocks/leaves_jungle.png"
-  ],
-  "leaves_jungle_carried_jungle.png": [
-    "jungle/images/blocks/leaves_jungle_carried.png",
-    "mycelia/images/blocks/leaves_jungle_carried.png"
   ],
   "leaves_jungle_opaque_jungle.png": [
     "jungle/images/blocks/leaves_jungle_opaque.png",
@@ -8831,15 +8031,9 @@
   ],
   "leaves_jungle_outer_jungle.png": [
     "jungle/images/blocks/leaves_jungle_outer.png",
-    "mycelia/images/blocks/leaves_jungle_outer.png"
-  ],
-  "leaves_oak_jungle.png": [
-    "jungle/images/blocks/leaves_oak.png",
-    "mycelia/images/blocks/leaves_oak.png"
-  ],
-  "leaves_oak_carried_jungle.png": [
-    "jungle/images/blocks/leaves_oak_carried.png",
-    "mycelia/images/blocks/leaves_oak_carried.png"
+    "jungle/images/blocks/leaves_oak_outer.png",
+    "mycelia/images/blocks/leaves_jungle_outer.png",
+    "mycelia/images/blocks/leaves_oak_outer.png"
   ],
   "leaves_acacia_opaque_outer_pumpkinpastures.png": [
     "jungle/images/blocks/leaves_oak_opaque_Outer.png",
@@ -8849,20 +8043,8 @@
     "pumpkinpastures/images/blocks/leaves_oak_opaque_Outer.png",
     "pumpkinpastures/images/blocks/leaves_oak_outer.png"
   ],
-  "leaves_oak_outer_jungle.png": [
-    "jungle/images/blocks/leaves_oak_outer.png",
-    "mycelia/images/blocks/leaves_oak_outer.png"
-  ],
   "leaves_spruce-44.png": [
     "jungle/images/blocks/leaves_spruce-44.png"
-  ],
-  "leaves_spruce_jungle.png": [
-    "jungle/images/blocks/leaves_spruce.png",
-    "mycelia/images/blocks/leaves_spruce.png"
-  ],
-  "leaves_spruce_carried_jungle.png": [
-    "jungle/images/blocks/leaves_spruce_carried.png",
-    "mycelia/images/blocks/leaves_spruce_carried.png"
   ],
   "leaves_spruce_outer_jungle.png": [
     "jungle/images/blocks/leaves_spruce_outer.png",
@@ -8871,16 +8053,8 @@
   "log_jungle_jungle.png": [
     "jungle/images/blocks/log_jungle.png"
   ],
-  "log_oak_top_jungle.png": [
-    "jungle/images/blocks/log_oak_top.png",
-    "mycelia/images/blocks/log_oak_top.png",
-    "redstonemines/images/blocks/log_oak_top.png"
-  ],
   "mycelium_side_jungle.png": [
     "jungle/images/blocks/mycelium_side.png"
-  ],
-  "mycelium_top_jungle.png": [
-    "jungle/images/blocks/mycelium_top.png"
   ],
   "netherrack_jungle.png": [
     "jungle/images/blocks/netherrack.png"
@@ -8908,20 +8082,16 @@
   ],
   "red_sandstone_bottom_jungle.png": [
     "jungle/images/blocks/red_sandstone_bottom.png",
-    "mycelia/images/blocks/red_sandstone_bottom.png",
-    "pumpkinpastures/images/blocks/red_sandstone_bottom.png",
-    "soggyswamp/images/blocks/red_sandstone_bottom.png"
-  ],
-  "red_sandstone_carved_jungle.png": [
     "jungle/images/blocks/red_sandstone_carved.png",
-    "mycelia/images/blocks/red_sandstone_carved.png",
-    "pumpkinpastures/images/blocks/red_sandstone_carved.png",
-    "soggyswamp/images/blocks/red_sandstone_carved.png"
-  ],
-  "red_sandstone_normal_jungle.png": [
     "jungle/images/blocks/red_sandstone_normal.png",
+    "mycelia/images/blocks/red_sandstone_bottom.png",
+    "mycelia/images/blocks/red_sandstone_carved.png",
     "mycelia/images/blocks/red_sandstone_normal.png",
+    "pumpkinpastures/images/blocks/red_sandstone_bottom.png",
+    "pumpkinpastures/images/blocks/red_sandstone_carved.png",
     "pumpkinpastures/images/blocks/red_sandstone_normal.png",
+    "soggyswamp/images/blocks/red_sandstone_bottom.png",
+    "soggyswamp/images/blocks/red_sandstone_carved.png",
     "soggyswamp/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_smooth_jungle.png": [
@@ -8934,7 +8104,8 @@
     "soggyswamp/images/blocks/red_sandstone_top.png"
   ],
   "sand_jungle.png": [
-    "jungle/images/blocks/sand.png"
+    "jungle/images/blocks/sand.png",
+    "jungle/images/blocks/snow.png"
   ],
   "skull_path_side_jungle.png": [
     "jungle/images/blocks/skull_path_side.png"
@@ -8947,9 +8118,6 @@
   ],
   "snow-115.png": [
     "jungle/images/blocks/snow-115.png"
-  ],
-  "snow_jungle.png": [
-    "jungle/images/blocks/snow.png"
   ],
   "stonebrick_carved_jungle.png": [
     "jungle/images/blocks/stonebrick_carved.png",
@@ -8988,10 +8156,6 @@
     "jungle/images/blocks/stone_path_side.png",
     "mycelia/images/blocks/stone_path_side.png"
   ],
-  "stone_path_top_jungle.png": [
-    "jungle/images/blocks/stone_path_top.png",
-    "mycelia/images/blocks/stone_path_top.png"
-  ],
   "tallgrass_jungle.png": [
     "jungle/images/blocks/tallgrass.png"
   ],
@@ -8999,7 +8163,8 @@
     "cacticanyon/images/blocks/bookshelf.png"
   ],
   "brick_cacticanyon.png": [
-    "cacticanyon/images/blocks/brick.png"
+    "cacticanyon/images/blocks/brick.png",
+    "cacticanyon/images/blocks/custom_9.png"
   ],
   "cactus_bottom_cacticanyon.png": [
     "cacticanyon/images/blocks/cactus_bottom.png"
@@ -9014,13 +8179,12 @@
     "cacticanyon/images/blocks/customTiles_17.png"
   ],
   "customtiles_37.png": [
-    "cacticanyon/images/blocks/customTiles_37.png"
+    "cacticanyon/images/blocks/customTiles_37.png",
+    "cacticanyon/images/blocks/sand.png",
+    "cacticanyon/images/blocks/snow.png"
   ],
   "customtiles_40.png": [
     "cacticanyon/images/blocks/customTiles_40.png"
-  ],
-  "customtiles_43.png": [
-    "cacticanyon/images/blocks/customTiles_43.png"
   ],
   "customtiles_51.png": [
     "cacticanyon/images/blocks/customTiles_51.png"
@@ -9032,10 +8196,12 @@
     "cacticanyon/images/blocks/customTiles_69.png"
   ],
   "custom_0_cacticanyon.png": [
-    "cacticanyon/images/blocks/custom_0.png"
+    "cacticanyon/images/blocks/custom_0.png",
+    "cacticanyon/images/blocks/grass_path_top.png"
   ],
   "custom_1_cacticanyon.png": [
-    "cacticanyon/images/blocks/custom_1.png"
+    "cacticanyon/images/blocks/custom_1.png",
+    "cacticanyon/images/blocks/stone_gradient_1.png"
   ],
   "custom_10_cacticanyon.png": [
     "cacticanyon/images/blocks/custom_10.png"
@@ -9044,9 +8210,7 @@
     "cacticanyon/images/blocks/custom_11.png"
   ],
   "custom_12_cacticanyon.png": [
-    "cacticanyon/images/blocks/custom_12.png"
-  ],
-  "custom_13_cacticanyon.png": [
+    "cacticanyon/images/blocks/custom_12.png",
     "cacticanyon/images/blocks/custom_13.png"
   ],
   "custom_14_cacticanyon.png": [
@@ -9075,9 +8239,6 @@
   ],
   "custom_8_cacticanyon.png": [
     "cacticanyon/images/blocks/custom_8.png"
-  ],
-  "custom_9_cacticanyon.png": [
-    "cacticanyon/images/blocks/custom_9.png"
   ],
   "double_plant_fern_bottom_cacticanyon.png": [
     "cacticanyon/images/blocks/double_plant_fern_bottom.png"
@@ -9122,13 +8283,11 @@
     "cacticanyon/images/blocks/flower_rose.png"
   ],
   "granite.png": [
-    "cacticanyon/images/blocks/granite.png"
+    "cacticanyon/images/blocks/granite.png",
+    "cacticanyon/images/blocks/stone_granite.png"
   ],
   "grass_path_side_cacticanyon.png": [
     "cacticanyon/images/blocks/grass_path_side.png"
-  ],
-  "grass_path_top_cacticanyon.png": [
-    "cacticanyon/images/blocks/grass_path_top.png"
   ],
   "grass_side_cacticanyon.png": [
     "cacticanyon/images/blocks/grass_side.png"
@@ -9175,23 +8334,12 @@
   "hardened_clay_stained_yellow_cacticanyon.png": [
     "cacticanyon/images/blocks/hardened_clay_stained_yellow.png"
   ],
-  "leaves_acacia_carried_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_acacia_carried.png"
-  ],
   "leaves_big_oak_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_big_oak.png"
-  ],
-  "leaves_big_oak_carried_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_big_oak_carried.png"
-  ],
-  "leaves_big_oak_opaque_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_big_oak_opaque.png"
+    "cacticanyon/images/blocks/leaves_big_oak.png",
+    "cacticanyon/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_oak_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_oak.png"
-  ],
-  "leaves_oak_carried_cacticanyon.png": [
-    "cacticanyon/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_spruce_outer_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_spruce_outer.png",
@@ -9201,14 +8349,10 @@
   "mycelium_side_cacticanyon.png": [
     "cacticanyon/images/blocks/mycelium_side.png"
   ],
-  "mycelium_top_cacticanyon.png": [
-    "cacticanyon/images/blocks/mycelium_top.png"
-  ],
   "nether_brick_cacticanyon.png": [
-    "cacticanyon/images/blocks/nether_brick.png"
-  ],
-  "polished_granite.png": [
-    "cacticanyon/images/blocks/polished_granite.png"
+    "cacticanyon/images/blocks/nether_brick.png",
+    "cacticanyon/images/blocks/polished_granite.png",
+    "cacticanyon/images/blocks/stone_granite_smooth.png"
   ],
   "quartz_block_chiseled_cacticanyon.png": [
     "cacticanyon/images/blocks/quartz_block_chiseled.png"
@@ -9216,11 +8360,9 @@
   "quartz_block_chiseled_top_cacticanyon.png": [
     "cacticanyon/images/blocks/quartz_block_chiseled_top.png"
   ],
-  "sand_cacticanyon.png": [
-    "cacticanyon/images/blocks/sand.png"
-  ],
   "sandstone_bottom_cacticanyon.png": [
-    "cacticanyon/images/blocks/sandstone_bottom.png"
+    "cacticanyon/images/blocks/sandstone_bottom.png",
+    "cacticanyon/images/blocks/sandstone_top.png"
   ],
   "sandstone_carved_cacticanyon.png": [
     "cacticanyon/images/blocks/sandstone_carved.png"
@@ -9230,12 +8372,6 @@
   ],
   "sandstone_smooth_cacticanyon.png": [
     "cacticanyon/images/blocks/sandstone_smooth.png"
-  ],
-  "sandstone_top_cacticanyon.png": [
-    "cacticanyon/images/blocks/sandstone_top.png"
-  ],
-  "snow_cacticanyon.png": [
-    "cacticanyon/images/blocks/snow.png"
   ],
   "stone_cacticanyon.png": [
     "cacticanyon/images/blocks/stone.png",
@@ -9247,26 +8383,8 @@
   "stone_diorite_smooth_cacticanyon.png": [
     "cacticanyon/images/blocks/stone_diorite_smooth.png"
   ],
-  "stone_gradient_0_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_0.png"
-  ],
-  "stone_gradient_1_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_1.png"
-  ],
   "stone_gradient_2_cacticanyon.png": [
     "cacticanyon/images/blocks/stone_gradient_2.png"
-  ],
-  "stone_gradient_3_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_3.png"
-  ],
-  "stone_gradient_4_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_4.png"
-  ],
-  "stone_gradient_5_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_5.png"
-  ],
-  "stone_gradient_6_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_6.png"
   ],
   "stone_gradient_7_cacticanyon.png": [
     "cacticanyon/images/blocks/stone_gradient_7.png"
@@ -9276,12 +8394,6 @@
   ],
   "stone_gradient_9_cacticanyon.png": [
     "cacticanyon/images/blocks/stone_gradient_9.png"
-  ],
-  "stone_granite_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_granite.png"
-  ],
-  "stone_granite_smooth_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_granite_smooth.png"
   ],
   "tallgrass_cacticanyon.png": [
     "cacticanyon/images/blocks/tallgrass.png"
@@ -9309,10 +8421,6 @@
     "mycelia/images/blocks/custom_1.png",
     "pumpkinpastures/images/blocks/custom_1.png"
   ],
-  "custom_10_pumpkinpastures.png": [
-    "mycelia/images/blocks/custom_10.png",
-    "pumpkinpastures/images/blocks/custom_10.png"
-  ],
   "custom_11_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_11.png",
     "pumpkinpastures/images/blocks/custom_11.png"
@@ -9325,10 +8433,6 @@
     "mycelia/images/blocks/custom_13.png",
     "pumpkinpastures/images/blocks/custom_13.png"
   ],
-  "custom_14_pumpkinpastures.png": [
-    "mycelia/images/blocks/custom_14.png",
-    "pumpkinpastures/images/blocks/custom_14.png"
-  ],
   "custom_15_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_15.png",
     "pumpkinpastures/images/blocks/custom_15.png"
@@ -9338,16 +8442,12 @@
   ],
   "custom_3_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_3.png",
-    "pumpkinpastures/images/blocks/custom_3.png"
+    "pumpkinpastures/images/blocks/custom_3.png",
+    "pumpkinpastures/images/blocks/mycelium_top.png"
   ],
   "custom_4_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_4.png",
     "pumpkinpastures/images/blocks/custom_4.png"
-  ],
-  "custom_5_mooncorecaverns.png": [
-    "mooncorecaverns/images/blocks/custom_5.png",
-    "mycelia/images/blocks/custom_5.png",
-    "pumpkinpastures/images/blocks/custom_5.png"
   ],
   "custom_6_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_6.png",
@@ -9390,9 +8490,6 @@
     "mycelia/images/blocks/glass.png",
     "overgrowntemple/images/blocks/glass.png"
   ],
-  "grass_path_top_mycelia.png": [
-    "mycelia/images/blocks/grass_path_top.png"
-  ],
   "grass_side_mycelia.png": [
     "mycelia/images/blocks/grass_side.png"
   ],
@@ -9422,18 +8519,12 @@
     "mycelia/images/blocks/log_jungle.png"
   ],
   "mushroom_block_inside_mycelia.png": [
-    "mycelia/images/blocks/mushroom_block_inside.png"
-  ],
-  "mushroom_block_skin_red_mycelia.png": [
-    "mycelia/images/blocks/mushroom_block_skin_red.png"
-  ],
-  "mushroom_block_skin_red_e.png": [
-    "mycelia/images/blocks/mushroom_block_skin_red_e.png"
+    "mycelia/images/blocks/mushroom_block_inside.png",
+    "mycelia/images/blocks/mushroom_block_skin_red.png",
+    "mycelia/images/blocks/red_mushroom_block.png"
   ],
   "mushroom_block_skin_stem_mycelia.png": [
-    "mycelia/images/blocks/mushroom_block_skin_stem.png"
-  ],
-  "mushroom_stem.png": [
+    "mycelia/images/blocks/mushroom_block_skin_stem.png",
     "mycelia/images/blocks/mushroom_stem.png"
   ],
   "mycelium_side_mycelia.png": [
@@ -9451,19 +8542,9 @@
   "red_mushroom.png": [
     "mycelia/images/blocks/red_mushroom.png"
   ],
-  "red_mushroom_block.png": [
-    "mycelia/images/blocks/red_mushroom_block.png"
-  ],
   "red_sand_pumpkinpastures.png": [
     "mycelia/images/blocks/red_sand.png",
     "pumpkinpastures/images/blocks/red_sand.png"
-  ],
-  "snow-121.png": [
-    "mycelia/images/blocks/snow-121.png"
-  ],
-  "snow_pumpkinpastures.png": [
-    "mycelia/images/blocks/snow.png",
-    "pumpkinpastures/images/blocks/snow.png"
   ],
   "stonebrick_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/stonebrick.png",
@@ -9528,18 +8609,9 @@
   "iron_block_reflective.png": [
     "obsidianpinnacle/images/blocks/iron_block_reflective.png"
   ],
-  "quartz_block_bottom_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/quartz_block_bottom.png"
-  ],
   "quartz_block_lines_top_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/quartz_block_lines_top.png",
     "obsidianpinnacle/images/blocks/quartz_block_lines_top.png"
-  ],
-  "quartz_block_side_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/quartz_block_side.png"
-  ],
-  "quartz_block_top_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/quartz_block_top.png"
   ],
   "stone_granite_smooth_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/stone_granite_smooth.png",
@@ -9609,13 +8681,9 @@
   "grass_top_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/grass_top.png"
   ],
-  "leaves_acacia_carried_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/leaves_acacia.png",
-    "pumpkinpastures/images/blocks/leaves_acacia_carried.png",
-    "pumpkinpastures/images/blocks/leaves_oak.png"
-  ],
   "leaves_acacia_opaque_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/leaves_acacia_opaque.png"
+    "pumpkinpastures/images/blocks/leaves_acacia_opaque.png",
+    "pumpkinpastures/images/blocks/leaves_oak_opaque.png"
   ],
   "leaves_big_oak_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_big_oak.png"
@@ -9623,23 +8691,11 @@
   "leaves_big_oak_opaque_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_big_oak_opaque.png"
   ],
-  "leaves_birch_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/leaves_birch.png"
-  ],
-  "leaves_birch_carried_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/leaves_birch_carried.png"
-  ],
   "leaves_birch_opaque_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_birch_opaque.png"
   ],
-  "leaves_birch_outer_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/leaves_birch_Outer.png"
-  ],
   "leaves_jungle_opaque_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/leaves_jungle_opaque.png"
-  ],
-  "leaves_oak_opaque_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/leaves_oak_opaque.png"
   ],
   "log_jungle_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/log_jungle.png"
@@ -9655,9 +8711,6 @@
   ],
   "mycelium_side_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/mycelium_side.png"
-  ],
-  "mycelium_top_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/mycelium_top.png"
   ],
   "netherrack_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/netherrack.png"
@@ -9682,9 +8735,6 @@
   ],
   "coal_ore_redstonemines.png": [
     "redstonemines/images/blocks/coal_ore.png"
-  ],
-  "custom_0_redstonemines.png": [
-    "redstonemines/images/blocks/custom_0.png"
   ],
   "custom_10_redstonemines.png": [
     "redstonemines/images/blocks/custom_10.png"
@@ -9717,12 +8767,6 @@
     "redstonemines/images/blocks/custom_15.png",
     "soggyswamp/images/blocks/custom_15.png"
   ],
-  "custom_2_redstonemines.png": [
-    "redstonemines/images/blocks/custom_2.png"
-  ],
-  "custom_8_redstonemines.png": [
-    "redstonemines/images/blocks/custom_8.png"
-  ],
   "custom_9_redstonemines.png": [
     "redstonemines/images/blocks/custom_9.png"
   ],
@@ -9735,29 +8779,21 @@
   "grass_path_side_redstonemines.png": [
     "redstonemines/images/blocks/grass_path_side.png"
   ],
-  "grass_path_top_redstonemines.png": [
-    "redstonemines/images/blocks/grass_path_top.png"
-  ],
   "iron_ore_redstonemines.png": [
     "redstonemines/images/blocks/iron_ore.png"
   ],
   "iron_trapdoor_redstonemines.png": [
     "redstonemines/images/blocks/iron_trapdoor.png"
   ],
-  "leaves_spruce_redstonemines.png": [
-    "redstonemines/images/blocks/leaves_spruce.png"
-  ],
-  "leaves_spruce_carried_redstonemines.png": [
-    "redstonemines/images/blocks/leaves_spruce_carried.png"
+  "leaves_big_oak_opaque_highblockhalls.png": [
+    "highblockhalls/images/blocks/leaves_big_oak_opaque.png",
+    "redstonemines/images/blocks/leaves_big_oak_opaque.png"
   ],
   "leaves_spruce_opaque_redstonemines.png": [
     "redstonemines/images/blocks/leaves_spruce_opaque.png"
   ],
   "leaves_spruce_outer_redstonemines.png": [
     "redstonemines/images/blocks/leaves_spruce_outer.png"
-  ],
-  "nether_brick_redstonemines.png": [
-    "redstonemines/images/blocks/nether_brick.png"
   ],
   "quartz_block_bottom_redstonemines.png": [
     "redstonemines/images/blocks/quartz_block_bottom.png"
@@ -9780,14 +8816,8 @@
   "quartz_block_top_redstonemines.png": [
     "redstonemines/images/blocks/quartz_block_top.png"
   ],
-  "red_sandstone_bottom_redstonemines.png": [
-    "redstonemines/images/blocks/red_sandstone_bottom.png"
-  ],
   "red_sandstone_normal_redstonemines.png": [
     "redstonemines/images/blocks/red_sandstone_normal.png"
-  ],
-  "red_sandstone_top_redstonemines.png": [
-    "redstonemines/images/blocks/red_sandstone_top.png"
   ],
   "sandstone_top_redstonemines.png": [
     "redstonemines/images/blocks/sandstone_top.png"
@@ -9808,10 +8838,12 @@
     "redstonemines/images/blocks/stone_granite.png"
   ],
   "cobblestone_mossy_soggyswamp.png": [
-    "soggyswamp/images/blocks/cobblestone_mossy.png"
+    "soggyswamp/images/blocks/cobblestone_mossy.png",
+    "soggyswamp/images/blocks/stone_path_top.png"
   ],
   "custom_0_soggyswamp.png": [
-    "soggyswamp/images/blocks/custom_0.png"
+    "soggyswamp/images/blocks/custom_0.png",
+    "soggyswamp/images/blocks/sandstone_custom4_side.png"
   ],
   "custom_1_soggyswamp.png": [
     "soggyswamp/images/blocks/custom_1.png"
@@ -9829,7 +8861,9 @@
     "soggyswamp/images/blocks/custom_13.png"
   ],
   "custom_14_soggyswamp.png": [
-    "soggyswamp/images/blocks/custom_14.png"
+    "redstonemines/images/blocks/custom_15.png",
+    "soggyswamp/images/blocks/custom_14.png",
+    "soggyswamp/images/blocks/custom_15.png"
   ],
   "custom_2_soggyswamp.png": [
     "soggyswamp/images/blocks/custom_2.png"
@@ -9859,10 +8893,13 @@
     "soggyswamp/images/blocks/dirt.png"
   ],
   "dirt_podzol_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/dirt_podzol_side.png"
+    "soggyswamp/images/blocks/dirt_podzol_side.png",
+    "soggyswamp/images/blocks/sandstone_custom2_top.png"
   ],
   "dirt_podzol_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/dirt_podzol_top.png"
+    "soggyswamp/images/blocks/dirt_podzol_top.png",
+    "soggyswamp/images/blocks/sandstone_custom3_side.png",
+    "soggyswamp/images/blocks/sandstone_custom3_top.png"
   ],
   "dirt_top.png": [
     "soggyswamp/images/blocks/dirt_top.png"
@@ -9880,22 +8917,20 @@
     "soggyswamp/images/blocks/fern.png"
   ],
   "grass_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/grass_side.png"
+    "soggyswamp/images/blocks/grass_side.png",
+    "soggyswamp/images/blocks/sandstone_custom1_side.png",
+    "soggyswamp/images/blocks/sandstone_custom2_side.png"
   ],
   "grass_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/grass_top.png"
-  ],
-  "leaves_acacia_carried_soggyswamp.png": [
-    "soggyswamp/images/blocks/leaves_acacia_carried.png"
+    "soggyswamp/images/blocks/grass_top.png",
+    "soggyswamp/images/blocks/sandstone_custom1_top.png"
   ],
   "leaves_acacia_outer_soggyswamp.png": [
     "soggyswamp/images/blocks/leaves_acacia_outer.png"
   ],
   "leaves_big_oak_soggyswamp.png": [
-    "soggyswamp/images/blocks/leaves_big_oak.png"
-  ],
-  "leaves_big_oak_carried_soggyswamp.png": [
-    "soggyswamp/images/blocks/leaves_big_oak_carried.png"
+    "soggyswamp/images/blocks/leaves_big_oak.png",
+    "soggyswamp/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_big_oak_opaque_soggyswamp.png": [
     "soggyswamp/images/blocks/leaves_big_oak_opaque.png"
@@ -9911,9 +8946,6 @@
   ],
   "leaves_oak_soggyswamp.png": [
     "soggyswamp/images/blocks/leaves_oak.png"
-  ],
-  "leaves_oak_carried_soggyswamp.png": [
-    "soggyswamp/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_oak_opaque_soggyswamp.png": [
     "soggyswamp/images/blocks/leaves_oak_opaque.png"
@@ -9942,38 +8974,8 @@
   "planks_oak_soggyswamp.png": [
     "soggyswamp/images/blocks/planks_oak.png"
   ],
-  "planks_spruce_soggyswamp.png": [
-    "soggyswamp/images/blocks/planks_spruce.png"
-  ],
   "quartz_block_chiseled_soggyswamp.png": [
     "soggyswamp/images/blocks/quartz_block_chiseled.png"
-  ],
-  "quartz_block_side-38.png": [
-    "soggyswamp/images/blocks/quartz_block_side-38.png"
-  ],
-  "sandstone_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone.png"
-  ],
-  "sandstone_custom1_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom1_side.png"
-  ],
-  "sandstone_custom1_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom1_top.png"
-  ],
-  "sandstone_custom2_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom2_side.png"
-  ],
-  "sandstone_custom2_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom2_top.png"
-  ],
-  "sandstone_custom3_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom3_side.png"
-  ],
-  "sandstone_custom3_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom3_top.png"
-  ],
-  "sandstone_custom4_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom4_side.png"
   ],
   "sandstone_custom4_top_soggyswamp.png": [
     "soggyswamp/images/blocks/sandstone_custom4_top.png"
@@ -9986,9 +8988,6 @@
   ],
   "stone_path_side_soggyswamp.png": [
     "soggyswamp/images/blocks/stone_path_side.png"
-  ],
-  "stone_path_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/stone_path_top.png"
   ],
   "tallgrass_soggyswamp.png": [
     "soggyswamp/images/blocks/tallgrass.png"
@@ -10005,9 +9004,6 @@
   "custom_9_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/custom_9.png"
   ],
-  "leaves_acacia_carried_mooncorecaverns.png": [
-    "mooncorecaverns/images/blocks/leaves_acacia_carried.png"
-  ],
   "quartz_block_bottom_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/quartz_block_bottom.png"
   ],
@@ -10021,6 +9017,10 @@
   "red_sandstone_normal_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/red_sandstone_normal.png"
   ],
+  "stonefloor6.png": [
+    "mooncorecaverns/images/blocks/stonefloor6.png",
+    "squidcoast/images/blocks/stonefloor6.png"
+  ],
   "stone_andesite_smooth_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/stone_andesite_smooth.png"
   ],
@@ -10030,15 +9030,10 @@
   "stone_slab_top_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/stone_slab_top.png"
   ],
-  "dirt_path_top-94_bamboobluff.png": [
-    "bamboobluff/images/blocks/dirt_path_top-94.png",
-    "dingyjungle/images/blocks/dirt_path_top-94.png",
-    "overgrowntemple/images/blocks/dirt_path_top-94.png"
-  ],
-  "grass_path_top-92_bamboobluff.png": [
-    "bamboobluff/images/blocks/grass_path_top-92.png",
-    "dingyjungle/images/blocks/grass_path_top-92.png",
-    "overgrowntemple/images/blocks/grass_path_top-92.png"
+  "grass_path_side_mooncorecaverns.png": [
+    "mooncorecaverns/images/blocks/grass_path_side.png",
+    "pumpkinpastures/images/blocks/grass_path_side.png",
+    "squidcoast/images/blocks/grass_path_side.png"
   ],
   "hardened_clay_stained_white_emissive_bamboobluff.png": [
     "bamboobluff/images/blocks/hardened_clay_stained_white_emissive.png",
@@ -10050,32 +9045,20 @@
     "dingyjungle/images/blocks/leaves_acacia_outer.png",
     "overgrowntemple/images/blocks/leaves_acacia_outer.png"
   ],
-  "snow-115_bamboobluff.png": [
-    "bamboobluff/images/blocks/snow-115.png",
-    "dingyjungle/images/blocks/snow-115.png",
-    "overgrowntemple/images/blocks/snow-115.png"
-  ],
-  "snow-121_bamboobluff.png": [
-    "bamboobluff/images/blocks/snow-121.png",
-    "dingyjungle/images/blocks/snow-121.png",
-    "overgrowntemple/images/blocks/snow-121.png"
-  ],
   "stonefloor9_bamboobluff.png": [
     "bamboobluff/images/blocks/stonefloor9.png",
     "dingyjungle/images/blocks/stonefloor9.png",
     "overgrowntemple/images/blocks/stonefloor9.png"
   ],
   "sandstone_bottom_jungle.png": [
-    "jungle/images/blocks/sandstone_bottom.png"
+    "jungle/images/blocks/sandstone_bottom.png",
+    "jungle/images/blocks/sandstone_top.png"
   ],
   "sandstone_carved_jungle.png": [
     "jungle/images/blocks/sandstone_carved.png"
   ],
   "sandstone_smooth_jungle.png": [
     "jungle/images/blocks/sandstone_smooth.png"
-  ],
-  "sandstone_top_jungle.png": [
-    "jungle/images/blocks/sandstone_top.png"
   ],
   "stonefloor1_jungle.png": [
     "jungle/images/blocks/stonefloor1.png"
