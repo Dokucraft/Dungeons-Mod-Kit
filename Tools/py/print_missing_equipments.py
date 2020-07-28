@@ -2,7 +2,7 @@ import os
 import json
 import math
 
-texturesPath = '../Block Textures/'
+texturesPath = '../UE4Project/Content/'
 
 def scantree(path):
   for entry in os.scandir(path):
@@ -31,31 +31,22 @@ while True:
   except ValueError:
     print('\x1b[1m \x1b[31m You have to enter a number! \x1b[0m')
 
-with open('configs/block_textures.json') as json_file:
+with open('configs/equipments_list.json') as json_file:
   textures = json.load(json_file)
-  for filename,copies in textures.items():
+  for filename in textures:
     if os.path.isfile(texturesPath + filename) and ( ask == 1 or ask == 3):
       print('\x1b[1m \x1b[32m Present : ' + filename )
-    if not os.path.isfile(texturesPath + filename) :
+    if not os.path.isfile(texturesPath + filename):
       count += 1
       if ask == 2 or ask == 1 :
         print('\x1b[1m \x1b[31m Missing : ' + filename)
 
   total = len(textures)
-
   print('\x1b[0m \x1b[1m')
   print('────────────────────────────────────────────────')
   print('  Total : ' + str(total))
   print('    - \x1b[31m Missing \x1b[0m \x1b[1m : ' + str(count) )
   print('    - \x1b[32m Done    \x1b[0m \x1b[1m : ' + str(total - count) + ' (' + str(math.floor((total - count) * 100 / total)) + '%)')
   print('────────────────────────────────────────────────')
-
-  for f in [f.path.replace('\\', '/').replace(texturesPath, '') for f in scantree(texturesPath)]:
-    if not f in textures:
-      if not redundant_files_message_shown:
-        print()
-        print('\x1b[33m ! Redundant files detected: \x1b[0m')
-        redundant_files_message_shown = True
-      print(f)
 
 print()
