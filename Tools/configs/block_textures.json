@@ -1052,8 +1052,7 @@
     "squidcoast/images/blocks/dirt_path_top.png"
   ],
   "dirt_podzol_side.png": [
-    "squidcoast/images/blocks/dirt_podzol_side.png",
-    "squidcoast/images/blocks/dirt_podzol_top.png"
+    "squidcoast/images/blocks/dirt_podzol_side.png"
   ],
   "dispenser_front_horizontal.png": [
     "bamboobluff/images/blocks/dispenser_front_horizontal.png",
@@ -2754,10 +2753,8 @@
   "leaves_birch.png": [
     "mooncorecaverns/images/blocks/leaves_birch.png",
     "mooncorecaverns/images/blocks/leaves_birch_top.png",
-    "mooncorecaverns/images/blocks/leaves_oak.png",
     "squidcoast/images/blocks/leaves_birch.png",
-    "squidcoast/images/blocks/leaves_birch_top.png",
-    "squidcoast/images/blocks/leaves_oak.png"
+    "squidcoast/images/blocks/leaves_birch_top.png"
   ],
   "leaves_birch_opaque.png": [
     "squidcoast/images/blocks/leaves_birch_opaque.png"
@@ -9087,5 +9084,26 @@
   ],
   "flower_tulip_white_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/flower_tulip_white.png"
+  ],
+  "grass_path_top.png": [
+    "mooncorecaverns/images/blocks/grass_path_top.png",
+    "pumpkinpastures/images/blocks/grass_path_top.png",
+    "squidcoast/images/blocks/grass_path_top.png"
+  ],
+  "dirt_podzol_top.png": [
+    "squidcoast/images/blocks/dirt_podzol_top.png"
+  ],
+  "leaves_oak.png": [
+    "mooncorecaverns/images/blocks/leaves_oak.png",
+    "squidcoast/images/blocks/leaves_oak.png"
+  ],
+  "stonefloor1.png": [
+    "squidcoast/images/blocks/stonefloor1.png"
+  ],
+  "nether_brick.png": [
+    "squidcoast/images/blocks/nether_brick.png"
+  ],
+  "stone_diorite.png": [
+    "squidcoast/images/blocks/stone_diorite.png"
   ]
 }
