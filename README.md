@@ -19,7 +19,7 @@ Edit the text files in the `Tools/user_settings` folder to configure the tools:
 | ----------------------- | ------------- |
 | editor_directory.txt    | This contains the path to the folder where the Unreal Editor executables are. |
 | package_output.txt      | This contains the path to the .pak file that the package.bat tool creates. |
-| quickbms_export_dir.txt | This contains the path to the folder where you have exported the game files using QuickBMS. This is only needed for the `Tools/copy_missing_blocks.bat` tool. |
+| quickbms_export_dir.txt | This contains the path to the folder where you have exported the game files using QuickBMS. This is only needed for the `Tools/copy_missing_blocks.bat` and `Tools/update_block_textures_config.bat` tools. |
 
 Setting the package_output path to a file in your `~mods` folder is recommended to make testing the mod easy.
 
@@ -47,6 +47,8 @@ The game uses different resource packs depending on the level you're playing. Fo
 To make it easier to manage, these tools use just a single folder for all block textures in all of the packs, called `Block Textures`. The textures will be automatically copied to the right place(s) when you run the `build_resource_packs.bat` tool. The file names in the `Block Textures` folder are slightly different because the game might use 3 or 4 different textures for the same block in different packs. You can find all of the files names in `Tools/configs/block_textures.json` and what files in the resource packs they represent. You can also edit this file to change the file names, or to add more textures. Running the `Tools/print_missing_blocks.bat` tool will show you a list of block textures that *aren't* in the `Block Textures` folder, as well as the number of missing files. If you want to see all of the block textures that you are missing in a folder instead, use `Tools/copy_missing_blocks.bat`, which will create a `Missing Textures` folder in the root folder of the mod kit with all of the vanilla block textures that aren't replaced by your textures in `Block Textures` yet.
 
 The default `Tools/config/block_textures.json` file uses one texture for textures that are very similar. For example, the game uses the same texture for dirt in several of the packs, but it's very slightly changed to be a different hue or brightness. If the textures are similar enough, the default configuration will use one texture for all of them. If you want to use different textures for each, you'll have to edit the `Tools/configs/block_textures.json` file.
+
+If an update for the game comes out and you don't want to wait for the mod kit to update, you can use the `Tools/update_block_textures_config.bat` tool to update it yourself. It requires the QuickBMS exported files of the game, and [Pillow](https://pypi.org/project/Pillow/), so make sure that is installed before you run it. After it's done, the block textures config should be updated.
 
 ### Unreal Assets
 
