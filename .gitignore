@@ -1,3 +1,5 @@
+UE4Project/.vs/*
+UE4Project/Binaries/Win64/*.pdb
 UE4Project/Build/*
 UE4Project/Intermediate/*
 UE4Project/Saved/*
