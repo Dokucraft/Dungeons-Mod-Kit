@@ -72,6 +72,12 @@ Once the assets have been imported, it's time to "cook" them. This is done by si
 
 You can exclude certain files by editing `Tools/configs/copy_cooked_assets.rcj`, like mentioned in the **Setup** section above. By default, material files are excluded.
 
+#### Precooked Files
+
+For Unreal assets that are already cooked, for example modified blueprint .uasset files, you can put them in the `Precooked` folder and they will automatically be added when running the `cook_assets.bat` tool.
+
+Note that any cooked assets you put directly in the `Dungeons` folder will be deleted when running the `cook_assets.bat` tool because it needs to clean up the old assets before copying the new ones into the folder.
+
 ### Other Files
 
 Anything that isn't a block texture or Unreal asset, like level .json files, should be added to the `Dungeons` folder. This folder is what will be turned into a .pak file.
