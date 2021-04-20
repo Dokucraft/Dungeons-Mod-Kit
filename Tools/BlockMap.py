@@ -1061,7 +1061,7 @@ def find_java_block(block):
       if len(b['java']) > 1:
         matches = True
         for prop in b['java'][1]:
-          if b['java'][1][prop] != block.properties[prop].value:
+          if not prop in block.properties or b['java'][1][prop] != block.properties[prop].value:
             matches = False
             break
         if matches:
