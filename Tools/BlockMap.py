@@ -130,7 +130,7 @@ blocks = [
   { 'dungeons': [ 0x0018, 0b0001 ], 'java': [ 'minecraft:chiseled_sandstone' ] },
   { 'dungeons': [ 0x0018, 0b0010 ], 'java': [ 'minecraft:cut_sandstone' ] },
   { 'dungeons': [ 0x0018, 0b0011 ], 'java': [ 'minecraft:smooth_sandstone' ] },
-  { 'dungeons': [ 0x0019, 0b0000 ], 'java': [ 'minecraft:noteblock' ] },
+  { 'dungeons': [ 0x0019, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '0' } ] },
   { 'dungeons': [ 0x001a, 0b0000 ], 'java': [ 'minecraft:red_bed', { 'part': 'foot', 'occupied': 'false', 'facing': 'south' } ] },
   { 'dungeons': [ 0x001a, 0b0001 ], 'java': [ 'minecraft:red_bed', { 'part': 'foot', 'occupied': 'false', 'facing': 'west' } ] },
   { 'dungeons': [ 0x001a, 0b0010 ], 'java': [ 'minecraft:red_bed', { 'part': 'foot', 'occupied': 'false', 'facing': 'north' } ] },
@@ -1027,8 +1027,27 @@ blocks = [
   { 'dungeons': [ 0x0164, 0b0000 ], 'java': [ 'minecraft:polished_basalt', { 'axis': 'z' } ] },
   { 'dungeons': [ 0x0165, 0b0000 ], 'java': [ 'minecraft:crimson_stem', { 'axis': 'x' } ] },
   { 'dungeons': [ 0x0207, 0b0000 ], 'java': [ 'minecraft:crimson_slab', { 'type': 'bottom' } ] },
-  { 'dungeons': [ 0x0208, 0b0000 ], 'java': [ 'minecraft:warped_slab', { 'type': 'bottom' } ] }
-
+  { 'dungeons': [ 0x0208, 0b0000 ], 'java': [ 'minecraft:warped_slab', { 'type': 'bottom' } ] },
+  { 'dungeons': [ 0x010b, 0b0000 ], 'java': [ 'minecraft:sea_lantern' ] },
+  { 'dungeons': [ 0x0168, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '1' } ] },
+  { 'dungeons': [ 0x0158, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '2' } ] },
+  { 'dungeons': [ 0x0154, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '3' } ] },
+  { 'dungeons': [ 0x0155, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '4' } ] },
+  { 'dungeons': [ 0x0157, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '5' } ] },
+  { 'dungeons': [ 0x0156, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '6' } ] },
+  { 'dungeons': [ 0x015a, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '7' } ] },
+  { 'dungeons': [ 0x0160, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '8' } ] },
+  { 'dungeons': [ 0x0127, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '9' } ] },
+  { 'dungeons': [ 0x0128, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '10' } ] },
+  { 'dungeons': [ 0x012f, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '11' } ] },
+  { 'dungeons': [ 0x014b, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '12' } ] },
+  { 'dungeons': [ 0x012e, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '13' } ] },
+  { 'dungeons': [ 0x0156, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '14' } ] },
+  { 'dungeons': [ 0x0161, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '15' } ] },
+  { 'dungeons': [ 0x015f, 0b0000 ], 'java': [ 'minecraft:note_block', { 'instrument': 'harp', 'note': '16' } ] },
+  { 'dungeons': [ 0x01ea, 0b0000 ], 'java': [ 'minecraft:stripped_oak_log', { 'axis': 'y' } ] },
+  { 'dungeons': [ 0x01ea, 0b0100 ], 'java': [ 'minecraft:stripped_oak_log', { 'axis': 'x' } ] },
+  { 'dungeons': [ 0x01ea, 0b1000 ], 'java': [ 'minecraft:stripped_oak_log', { 'axis': 'z' } ] }
 ]
 
 blocks_by_java_id = {}
