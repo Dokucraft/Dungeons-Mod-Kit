@@ -972,7 +972,7 @@ blocks = [
   { 'dungeons': [ 0x00c5, 0b1001 ], 'java': [ 'minecraft:dark_oak_door', { 'half': 'upper', 'powered': 'false', 'hinge': 'right' } ] },
   { 'dungeons': [ 0x00c5, 0b1010 ], 'java': [ 'minecraft:dark_oak_door', { 'half': 'upper', 'powered': 'true', 'hinge': 'left' } ] },
   { 'dungeons': [ 0x00c5, 0b1011 ], 'java': [ 'minecraft:dark_oak_door', { 'half': 'upper', 'powered': 'true', 'hinge': 'right' } ] },
-  { 'dungeons': [ 0x00c6, 0b0000 ], 'java': [ 'minecraft:grass_path' ] },
+  { 'dungeons': [ 0x00c6, 0b0000 ], 'java': [ 'minecraft:dirt_path' ] },
   { 'dungeons': [ 0x00c6, 0b0001 ], 'java': [ 'minecraft:farmland', { 'moisture': '1' } ] }, # dirt_path
   { 'dungeons': [ 0x00c6, 0b0010 ], 'java': [ 'minecraft:farmland', { 'moisture': '2' } ] }, # stone_path
   { 'dungeons': [ 0x00c6, 0b0011 ], 'java': [ 'minecraft:farmland', { 'moisture': '3' } ] }, # skull_path
